@@ -1,0 +1,130 @@
+ma_to_hop,mon_1,mon_2,mon_3
+A00,Toán,Vật lí,Hóa học
+A01,Toán,Vật lí,Tiếng Anh
+B00,Toán,Hóa học,Sinh học
+C00,Ngữ văn,Lịch sử,Địa lí
+D01,Ngữ văn,Toán,Tiếng Anh
+D02,Ngữ văn,Toán,Tiếng Nga
+D03,Ngữ văn,Toán,Tiếng Pháp
+D04,Ngữ văn,Toán,Tiếng Trung
+D05,Ngữ văn,Toán,Tiếng Đức
+D06,Ngữ văn,Toán,Tiếng Nhật
+A02,Toán,Vật lí,Sinh học
+A03,Toán,Vật lí,Lịch sử
+A04,Toán,Vật lí,Địa lí
+A05,Toán,Hóa học,Lịch sử
+A06,Toán,Hóa học,Địa lí
+A07,Toán,Lịch sử,Địa lí
+A08,Toán,Lịch sử,GDKTPL
+A09,Toán,Địa lý,GDKTPL
+A10,Toán,Vật lí,GDKTPL
+A11,Toán,Hóa học,GDKTPL
+B01,Toán,Lịch sử,Sinh học
+B02,Toán,Sinh học,Địa lí
+B03,Toán,Sinh học,Ngữ văn
+B04,Toán,Sinh học,GDKTPL
+B08,Toán,Sinh học,Tiếng Anh
+C01,Ngữ văn,Toán,Vật lí
+C02,Ngữ văn,Toán,Hóa học
+C03,Ngữ văn,Toán,Lịch sử
+C04,Ngữ văn,Toán,Địa lí
+C05,Ngữ văn,Vật lí,Hóa học
+C06,Ngữ Văn,Vật lí,Sinh học
+C07,Ngữ văn,Lịch sử,Vật lí
+C08,Ngữ văn,Hóa học,Sinh học
+C09,Ngữ văn,Địa lí,Vật lí
+C10,Ngữ văn,Lịch sử,Hóa học
+C12,Ngữ văn,Lịch sử,Sinh học
+C13,Ngữ văn,Sinh học,Địa lí
+C14,Ngữ văn,Toán,GDKTPL
+C16,Ngữ văn,Vật lí,GDKTPL
+C19,Ngữ văn,Lịch sử,GDKTPL
+C20,Ngữ văn,Địa lí,GDKTPL
+D07,Toán,Hóa học,Tiếng Anh
+D08,Toán,Sinh học,Tiếng Anh
+D09,Toán,Lịch sử,Tiếng Anh
+D10,Toán,Địa lí,Tiếng Anh
+D11,Ngữ văn,Vật lí,Tiếng Anh
+D12,Ngữ văn,Hóa học,Tiếng Anh
+D13,Ngữ văn,Sinh học,Tiếng Anh
+D14,Ngữ văn,Lịch sử,Tiếng Anh
+D15,Ngữ văn,Địa lí,Tiếng Anh
+D20,Toán,Địa lí,Tiếng Trung
+D21,Toán,Hóa học,Tiếng Đức
+D22,Toán,Hóa học,Tiếng Nga
+D23,Toán,Hóa học,Tiếng Nhật
+D24,Toán,Hóa học,Tiếng Pháp
+D25,Toán,Hóa học,Tiếng Trung
+D26,Toán,Vật lí,Tiếng Đức
+D27,Toán,Vật lí,Tiếng Nga
+D28,Toán,Vật lí,Tiếng Nhật
+D29,Toán,Vật lí,Tiếng Pháp
+D30,Toán,Vật lí,Tiếng Trung
+D31,Toán,Sinh học,Tiếng Đức
+D32,Toán,Sinh học,Tiếng Nga
+D33,Toán,Sinh học,Tiếng Nhật
+D34,Toán,Sinh học,Tiếng Pháp
+D35,Toán,Sinh học,Tiếng Trung
+D42,Ngữ văn,Địa lí,Tiếng Nga
+D43,Ngữ văn,Địa lí,Tiếng Nhật
+D44,Ngữ văn,Địa lí,Tiếng Pháp
+D45,Ngữ văn,Địa lí,Tiếng Trung
+D55,Ngữ văn,Vật lí,Tiếng Trung
+D63,Ngữ văn,Lịch sử,Tiếng Nhật
+D64,Ngữ văn,Lịch sử,Tiếng Pháp
+D65,Ngữ văn,Lịch sử,Tiếng Trung
+D66,Ngữ văn,GDKTPL,Tiếng Anh
+D68,Ngữ văn,GDKTPL,Tiếng Nga
+D67,Văn,GDKTPL,Tiếng Đức
+D69,Văn,GDKTPL,Tiếng Nhật
+D70,Ngữ Văn,GDKTPL,Tiếng Pháp
+D71,Ngữ văn,GDKTPL,Tiếng Trung
+D84,Toán,Tiếng Anh,GDKTPL
+D85,Toán,GDKTPL,Tiếng Đức
+D86,Toán,GDKTPL,Tiếng Nga
+D87,Toán,GDKTPL,Tiếng Pháp
+D88,Toán,GDKTPL,Tiếng Nhật
+H00,Ngữ văn,Năng khiếu vẽ Nghệ thuật 1,Năng khiếu vẽ Nghệ thuật 2
+H01,Toán,Ngữ văn,Vẽ Mỹ thuật
+H02,Toán,Vẽ Hình họa mỹ thuật,Vẽ trang trí màu
+H04,Toán,Tiếng Anh,Vẽ Năng khiếu
+H06,Ngữ văn,Tiếng Anh,Vẽ mỹ thuật
+H07,Toán,Hình họa,Trang trí
+H08,Ngữ văn,Lịch sử,Vẽ mỹ thuật
+K01,Toán,Tiếng Anh,Tin học
+M00,Ngữ văn,Toán,Đọc diễn cảm
+M01,Ngữ văn,Lịch sử,Năng khiếu
+M02,Toán,Năng khiếu 1,Năng khiếu 2
+M03,Văn,Năng khiếu 1,Năng khiếu 2
+M04,Toán,Đọc kể diễn cảm,Hát - Múa
+M09,Toán,NK Mầm non 1( kể chuyện,đọc
+M10,Toán,Tiếng Anh,NK1
+M11,Ngữ Văn,năng kiếu báo chí,Tiếng Anh
+M13,Toán,Sinh học,Năng khiếu
+M14,Ngữ văn,Năng khiếu báo chí,Toán
+N00,Ngữ văn,Năng khiếu Âm nhạc 1,Năng khiếu Âm nhạc 2
+N01,Ngữ văn,xướng âm,biểu diễn nghệ thuật
+N02,Ngữ văn,Ký xướng âm,Hát hoặc biểu diễn nhạc cụ
+N05,Ngữ Văn,Xây dựng kịch bản sự kiện,Năng khiếu
+S00,Ngữ văn,Năng khiếu SKĐA 1,Năng khiếu SKĐA 2
+T00,Toán,Sinh học,Năng khiếu TDTT
+T01,Toán,Ngữ văn,Năng khiếu TDTT
+T02,Ngữ văn,Sinh,Năng khiếu TDTT
+T03,Ngữ văn,Địa,Năng khiếu TDTT
+T04,Toán,Lý,Năng khiếu TDTT
+T05,Ngữ văn,GDKTPL,Năng khiếu thể dục thể thao
+V00,Toán,Vật lí,Vẽ Hình họa mỹ thuật
+V01,Toán,Ngữ văn,Vẽ Hình họa mỹ thuật
+V02,Vẽ mỹ thuật,Toán,Tiếng Anh
+V03,Vẽ mỹ thuật,Toán,Hóa
+V05,Văn,Vật lí,Vẽ mỹ thuật
+V06,Toán,Địa lí,Vẽ mỹ thuật
+V10,Toán,tiếng Pháp,Vẽ mỹ thuật
+V11,Toán,Tiếng Trung,Vẽ mỹ thuật
+C17,Ngữ văn,Hóa học,GDKTPL
+K00,Toán,Đọc hiểu,Tư duy Khoa học Giải quyết vấn đề
+"(Toán, Sinh, Công nghệ)",Toán,Sinh,Công nghệ
+"(Toán, Sinh, Tin)",Toán,Sinh,Tin
+TH4,Toán,Hoá,Tin
+TH9,Văn,Anh,Tin
+K01,Toán,Văn,Lý/Hóa/Sinh/Tin

@@ -1,0 +1,2276 @@
+university_code,specialized_major,major_name,major_code,subject_group_code,benchmark_score,note
+HSU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Quản trị nhà hàng và dịch vụ ăn uống,7810202,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Ngôn ngữ Anh,7220201,"D01, D14, D15, D09",16,Điểm thi TN THPT
+HSU,,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01, D01, D07, D03",16,Điểm thi TN THPT
+HSU,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Quản lý tài nguyên và môi trường,7850101,"A00, B00, D07, D08",16,Điểm thi TN THPT
+HSU,,Quản trị công nghệ truyền thông,7340410,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Hệ thống thông tin quản lý,7340405,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Thiết kế nội thất,7580108,"A01, D01, D14, D09",16,Điểm thi TN THPT
+HSU,,Thiết kế thời trang,7210404,"A01, D01, D14, D09",16,Điểm thi TN THPT
+HSU,,Kỹ thuật phần mềm,7480103,"A00, A01, D01, D07, D03",16,Điểm thi TN THPT
+HSU,,Quản trị khách sạn,7810201,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Thiết kế đồ họa,7210403,"A01, D01, D14, D09",16,Điểm thi TN THPT
+HSU,,Quản trị nhân lực,7340404,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Công nghệ thông tin,7480201,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Quản trị kinh doanh,7340101,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Kinh doanh quốc tế,7340120,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Tâm lý học,7310401,"A01, D01, D08, D09",16,Điểm thi TN THPT
+HSU,,Kế toán,7340301,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Marketing,7340115,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Nhật Bản học,7310613,"A01, D01, D15, D09",16,Điểm thi TN THPT
+HSU,,Hoa Kỳ học,7310640,"A01, D01, D15, D09",17,Điểm thi TN THPT
+HSU,,Nghệ thuật số,7210408,"A01, D01, D14, D09",16,Điểm thi TN THPT
+HSU,,Quản trị sự kiện,7340412,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Bảo hiểm,7340204,"A00, A01, D01, D09, D03",18,Điểm thi TN THPT
+HSU,,Marketing,7340114,"A00, A01, D01, D09, D03",16,"Digital Marketing
+Điểm thi TN THPT"
+HSU,,Bất động sản,7340116,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Quan hệ công chúng,7320108,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Thương mại điện tử,7340122,"A00, A01, D01, D09, D03",16,Điểm thi TN THPT
+HSU,,Kinh tế,7340113,"A00, A01, D01, D09, D03",16,"Kinh tế thể thao
+Điểm thi TN THPT"
+HSU,,Luật,7380107,"A00, A01, D01, D09, D03",16,"Luật kinh tế
+Điểm thi TN THPT"
+HSU,,Luật,7380108,"A00, A01, D01, D09, D03",16,"Luật quốc tế
+Điểm thi TN THPT"
+HSU,,Trí tuệ nhân tạo,7480201,"A00, A01, D01, D07, D03",16,Điểm thi TN THPT
+HSU,,Quay phim,7210304,"A01, D01, D14, D09",16,Điểm thi TN THPT
+SGU,,Công nghệ thông tin,7480201CLC,"A00, A01",23.46,Điểm thi TN THPT
+SGU,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,A00,23,Điểm thi TN THPT
+SGU,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,A01,22,Điểm thi TN THPT
+SGU,,"Công nghệ kỹ thuật điện, điện tử",7510301,A01,22.5,Điểm thi TN THPT
+SGU,,"Công nghệ kỹ thuật điện, điện tử",7510301,A00,23.5,Điểm thi TN THPT
+SGU,,Kỹ thuật điện tử - viễn thông,7520207,A01,20,Điểm thi TN THPT
+SGU,,Kỹ thuật điện tử - viễn thông,7520207,A00,21,Điểm thi TN THPT
+SGU,,Công nghệ kỹ thuật môi trường,7510406,A00,16.05,Điểm thi TN THPT
+SGU,,Công nghệ kỹ thuật môi trường,7510406,B00,17.05,Điểm thi TN THPT
+SGU,,Sư phạm Lịch sử - Địa lý,7140249,C00,23,Điểm thi TN THPT
+SGU,,Sư phạm khoa học tự nhiên,7140247,"A00, B00",24.1,Điểm thi TN THPT
+SGU,,Khoa học môi trường,7440301,B00,17.05,Điểm thi TN THPT
+SGU,,Khoa học môi trường,7440301,A00,16.05,Điểm thi TN THPT
+SGU,,Kỹ thuật phần mềm,7480103,"A00, A01",25.31,Điểm thi TN THPT
+SGU,,Quản trị văn phòng,7340406,D01,24,"Điểm thi TN THPT
+Môn chính: Văn"
+SGU,,Quản trị văn phòng,7340406,C04,25,Điểm thi TN THPT
+SGU,,Giáo dục Tiểu học,7140202,D01,24.65,Điểm thi TN THPT
+SGU,,Giáo dục Chính trị,7140205,C00,24.25,Điểm thi TN THPT
+SGU,,Thông tin - thư viện,7320201,"D01, C04",21.8,Điểm thi TN THPT
+SGU,,Sư phạm Mỹ thuật,7140222,H00,18.75,Điểm thi TN THPT
+SGU,,Quản trị kinh doanh,7340101,D01,24.26,"Điểm thi TN THPT
+Môn chính: Toán"
+SGU,,Quản trị kinh doanh,7340101,A01,25.26,Điểm thi TN THPT
+SGU,,Tài chính - Ngân hàng,7340201,D01,23.9,"Điểm thi TN THPT
+Môn chính: Toán"
+SGU,,Tài chính - Ngân hàng,7340201,C01,24.9,Điểm thi TN THPT
+SGU,,Sư phạm Toán học,7140209,A00,27.01,Điểm thi TN THPT
+SGU,,Sư phạm Lịch sử,7140218,C00,24.5,Điểm thi TN THPT
+SGU,,Sư phạm Tiếng Anh,7140231,D01,26.96,"Điểm thi TN THPT
+Môn chính: Anh"
+SGU,,Quản lý giáo dục,7140114,D01,22.55,Điểm thi TN THPT
+SGU,,Quản lý giáo dục,7140114,C04,23.55,Điểm thi TN THPT
+SGU,,Kinh doanh quốc tế,7340120,D01,25.16,Điểm thi TN THPT
+SGU,,Kinh doanh quốc tế,7340120,A01,26.16,Điểm thi TN THPT
+SGU,,Sư phạm Âm nhạc,7140221,N01,24.25,Điểm thi TN THPT
+SGU,,Sư phạm Ngữ văn,7140217,C00,25.5,Điểm thi TN THPT
+SGU,,Giáo dục Mầm non,7140201,"M01, M02",21.6,Điểm thi TN THPT
+SGU,,Sư phạm Hóa học,7140212,A00,25.78,Điểm thi TN THPT
+SGU,,Sư phạm Sinh học,7140213,B00,23.28,Điểm thi TN THPT
+SGU,,Sư phạm Địa lý,7140219,"C00, C04",24.53,Điểm thi TN THPT
+SGU,,Kỹ thuật điện,7520201,A01,21.05,Điểm thi TN THPT
+SGU,,Kỹ thuật điện,7520201,A00,22.05,Điểm thi TN THPT
+SGU,,Sư phạm Vật lý,7140211,A00,24.86,Điểm thi TN THPT
+SGU,,Toán ứng dụng,7460112,A01,22.53,Điểm thi TN THPT
+SGU,,Toán ứng dụng,7460112,A00,23.53,"Điểm thi TN THPT
+Môn chính: Toán"
+SGU,,Quốc tế học,7310601,D01,24.48,"Điểm thi TN THPT
+Môn chính: Anh"
+SGU,,Việt Nam học,7310630,C00,21.5,Điểm thi TN THPT
+SGU,,Ngôn ngữ Anh,7220201,D01,26.06,"Điểm thi TN THPT
+Chuyên ngành Thương mại và Du lịch"
+SGU,,Tâm lý học,7310401,D01,24.05,
+SGU,,Thanh nhạc,7210205,N02,20.5,Điểm thi TN THPT
+SGU,,Kế toán,7340301,D01,23.5,"Điểm thi TN THPT
+Môn chính: Toán"
+SGU,,Kế toán,7340301,C01,24.5,Điểm thi TN THPT
+SGU,,Luật,7380101,D01,23.85,Điểm thi TN THPT
+SGU,,Luật,7380101,C03,24.85,Điểm thi TN THPT
+SGU,,Giáo dục Chính trị,7140205,C19,24.25,Điểm thi TN THPT
+SGU,,Sư phạm Toán học,7140209,A01,27.01,Điểm thi TN THPT
+SGU,,Công nghệ thông tin,7480201,"A00, A01",24.48,Điểm thi TN THPT
+OU,Công nghệ kỹ thuật công trình xây dựng,Công nghệ kỹ thuật công trình xây dựng,7510102,"A00, A01, D01, D07",17,Điểm thi TN THPT
+OU,Công nghệ kỹ thuật công trình xây dựng,Công nghệ kỹ thuật công trình xây dựng,7510102C,"A01, D01, D07",16,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201C,"A01, D01, D96, D07",25.25,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Công nghệ sinh học,Công nghệ sinh học,7420201C,"A01, D01, D07, D08",16,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Quản trị kinh doanh,Quản trị kinh doanh,7340101C,"A01, D01, D96, D07",26.4,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Luật kinh tế,Luật,7380107C,"A01, D01, D07, D14",25.1,"Luật kinh tế - Chất lượng cao
+Điểm thi TN THPT"
+OU,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201C,"A01, D01, D14, D78",25.9,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,"A00, A01, D01, D07",25.9,Điểm thi TN THPT
+OU,Kế toán,Kế toán,7340301C,"A01, D01, D96, D07",24.15,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82",26.1,Điểm thi TN THPT
+OU,Quản trị nhân lực,Quản trị nhân lực,7340404,"A00, A01, D01, C03",26.25,Điểm thi TN THPT
+OU,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, D01, D07",26.1,Điểm thi TN THPT
+OU,Công nghệ sinh học,Công nghệ sinh học,7420201,"A00, B00, D01, D07",16,Điểm thi TN THPT
+OU,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D07",26.4,Điểm thi TN THPT
+OU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D07",25.85,Điểm thi TN THPT
+OU,Quản lý xây dựng,Quản lý xây dựng,7580302,"A00, A01, D01, D07",19,Điểm thi TN THPT
+OU,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, D07",26.45,Điểm thi TN THPT
+OU,Công tác xã hội,Công tác xã hội,7760101,"A01, D01, C00, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83",18.8,Điểm thi TN THPT
+OU,Đông Nam Á học,Đông Nam Á học,7310620,"A01, D01, C00, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83",23.1,Điểm thi TN THPT
+OU,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83",25.9,Điểm thi TN THPT
+OU,Luật kinh tế,Luật,7380107,"A00, A01, D01, C00, D03, D06, D05",25.7,"Luật kinh tế
+C00 cao hơn 1.5đ
+Điểm thi TN THPT"
+OU,Xã hội học,Xã hội học,7310301,"A01, D01, C00, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83",23.1,Điểm thi TN THPT
+OU,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A01, D01, D14, D78",26.8,Điểm thi TN THPT
+OU,Khoa học máy tính,Khoa học máy tính,7480101,"A00, A01, D01, D07",25.55,Điểm thi TN THPT
+OU,Kế toán,Kế toán,7340301,"A00, A01, D01, D07",25.7,Điểm thi TN THPT
+OU,Kinh tế,Kinh tế,7310101,"A00, A01, D01, D07",25.8,Điểm thi TN THPT
+OU,Marketing,Marketing,7340115,"A00, A01, D01, D07",26.95,Điểm thi TN THPT
+OU,Luật,Luật,7380101,"A00, A01, D01, C00, D03, D06, D05",25.2,"C00 cao hơn 1.5đ
+Điểm thi TN THPT"
+OU,Công nghệ kỹ thuật công trình xây dựng,Công nghệ kỹ thuật công trình xây dựng,7510102,"A00, A01, D01, D07, XDHB",20,Học bạ
+OU,Công nghệ kỹ thuật công trình xây dựng,Công nghệ kỹ thuật công trình xây dựng,7510102C,"A01, D01, D07",20,Học bạ
+OU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201C,"A01, D01, D96, D07, XDHB",20,"Chất lượng cao
+Xét học bạ"
+OU,Công nghệ sinh học,Công nghệ sinh học,7420201C,"A01, D01, D07, D08, XDHB",18,"Chất lượng cao
+Xét học bạ"
+OU,Quản trị kinh doanh,Quản trị kinh doanh,7340101C,"A01, D01, D96, D07",22,"Chất lượng cao
+Xét học bạ"
+OU,Luật,Luật,7380107C,"A01, D01, D07, D14",21.25,Xét học bạ
+OU,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201C,"A01, D01, D14, D78, XDHB",24,"Chất lượng cao
+Xét học bạ"
+OU,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,"A00, A01, D01, D07",22.75,Xét học bạ
+OU,Kế toán,Kế toán,7340301C,"A01, D01, D96, D07, XDHB",20,"Chất lượng cao
+Xét học bạ"
+OU,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, XDHB",26.25,Xét học bạ
+OU,Quản trị nhân lực,Quản trị nhân lực,7340404,"A00, A01, D01, C03",0,"Học sinh giỏi + Chứng chỉ ngoại ngữ
+Xét học bạ"
+OU,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, D01, D07, XDHB",25.25,Học bạ
+OU,Công nghệ sinh học,Công nghệ sinh học,7420201,"A00, B00, D01, D07",18,Học bạ
+OU,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D07",0,HSG+CCNN
+OU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D07, XDHB",26.5,Học bạ
+OU,Quản lý xây dựng,Quản lý xây dựng,7580302,"A00, A01, D01, D07",20,Xét học bạ
+OU,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, D07, XDHB",25.25,Học bạ
+OU,Công tác xã hội,Công tác xã hội,7760101,"A01, D01, C00, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83, XDHB",18,Xét học bạ
+OU,Đông Nam Á học,Đông Nam Á học,7310620,"A01, D01, C00, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83, XDHB",18,Xét học bạ
+OU,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83, XDHB",23.75,Học bạ
+OU,Luật kinh tế,Luật,7380107,"A00, A01, D01, C00, D03, D06, D05, XDHB",24.8,"Luật kinh tế
+Học bạ"
+OU,Xã hội học,Xã hội học,7310301,"A01, D01, C00, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83, XDHB",18,Xét học bạ
+OU,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A01, D01, D14, D78",0,HSG+ CCNN
+OU,Khoa học máy tính,Khoa học máy tính,7340302,"A00, A01, D01, D07, XDHB",22.75,Học bạ
+OU,Kế toán,Kế toán,7340301,"A00, A01, D01, D07, XDHB",25.75,Học bạ
+OU,Kinh tế,Kinh tế,7310101,"A00, A01, D01, D07, XDHB",25.4,Học bạ
+OU,Marketing,Marketing,7340115,"A00, A01, D01, D07, XDHB",25,Học bạ
+OU,Luật,Luật,7380101,"A00, A01, D01, C00, D03, D06, D05, XDHB",23.9,Học bạ
+OU,Logistics và Quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D07",26.8,Điểm thi TN THPT
+OU,Logistics và Quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D07, XDHB",26.3,Học bạ
+OU,Du lịch,Du lịch,7810101,"A00, A01, D01, C03",24.5,Điểm thi TN THPT
+OU,Du lịch,Du lịch,7810101,"A00, A01, D01, C03, XDHB",25.75,Học bạ
+OU,Công nghệ thực phẩm,Công nghệ thực phẩm,7540101,"A01, D01, D07, D08",19,Điểm thi TN THPT
+OU,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204C,XDHB,20,Học bạ
+OU,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209C,XDHB,20,"Chất lượng cao
+Học bạ"
+OU,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,XDHB,24.75,Học bạ
+OU,Kiểm toán,Kiểm toán,7340302C,XDHB,20,"Chất lượng cao
+Học bạ"
+OU,Kiểm toán,Kiểm toán,7340302,XDHB,25.35,Học bạ
+OU,Khoa học máy tính,Khoa học máy tính,7340302C,XDHB,20,Xét học bạ
+OU,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204C,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82",25.75,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209C,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83",24.9,"Chất lượng cao
+Điểm thi TN THPT"
+OU,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,"D01, D78, D03, D04, D06, D02, D05, D79, D80, D81, D82, D83",26.7,Điểm thi TN THPT
+OU,Kiểm toán,Kiểm toán,7340302,"A01, D01, D96, D07",25.2,Điểm thi TN THPT
+OU,Khoa học máy tính,Khoa học máy tính,7420201C,"A00, A01, D01, D07",24,"Chất lượng cao
+Điểm thi TN THPT"
+VHU,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, D01, C00, C04",18,Điểm thi TN THPT
+VHU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A01, D01, D07, D10",19,Điểm thi TN THPT
+VHU,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, D01, C01",16.05,Điểm thi TN THPT
+VHU,,Quản trị khách sạn,7810201,"A00, D01, C00, C04",18,Điểm thi TN THPT
+VHU,,Ngôn ngữ Trung Quốc,7220204,"A01, D01, D15, D10",19,Điểm thi TN THPT
+VHU,,Công nghệ thông tin,7480201,"A00, A01, D01, C01",19,Điểm thi TN THPT
+VHU,,Công nghệ sinh học,7420201,"A00, B00, D07, D08",19,Điểm thi TN THPT
+VHU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, C04",19,Điểm thi TN THPT
+VHU,,Quản trị kinh doanh,7340101,"A00, A01, D01, C04",19,Điểm thi TN THPT
+VHU,,Đông phương học,7310608,"A01, D01, C00, D15",18,Điểm thi TN THPT
+VHU,,Ngôn ngữ Nhật,7220209,"A01, D01, D15, D10",17.5,Điểm thi TN THPT
+VHU,,Ngôn ngữ Pháp,7220203,"A01, D01, D15, D10",20.5,Điểm thi TN THPT
+VHU,,Việt Nam học,7310630,"D01, C00, D14, D15",20,Điểm thi TN THPT
+VHU,,Xã hội học,7310301,"A00, D01, C00, C04",16,Điểm thi TN THPT
+VHU,,Văn hoá học,7229040,"D01, C00, D14, D15",20,Điểm thi TN THPT
+VHU,,Ngôn ngữ Anh,7220201,"A01, D01, D15, D10",19,Điểm thi TN THPT
+VHU,,Tâm lý học,7310401,"A00, B00, D01, C00",18.5,Điểm thi TN THPT
+VHU,,Thanh nhạc,7210205,M00,7,Thi tuyển môn chuyên ngành
+VHU,,Văn học,7229030,"D01, C00, D14, D15",16,Điểm thi TN THPT
+VHU,,Du lịch,7810101,"A00, D01, C00, C04",18,Điểm thi TN THPT
+VHU,,Piano,7210208,M00,5,Xét tuyển môn Ngữ văn
+VHU,,Khoa học máy tính,7480101,"A00, A01, D01, C01",16.5,Điểm thi TN THPT
+VHU,,Kế toán,7340301,"A00, A01, D01, C04",19,Điểm thi TN THPT
+VHU,,Công nghệ thực phẩm,7540101,"A00, B00, D07, A02",16.5,Điểm thi TN THPT
+VHU,,Quản trị khách sạn,7220802,"A00, C00, D07, C04",18,Điểm thi TN THPT
+VHU,,Quan hệ công chúng,7320108,"D01, C00, D14, D15",18,Điểm thi TN THPT
+VHU,,Thanh nhạc,7210205,M01,5,Xét tuyển môn Ngữ văn
+VHU,,Thanh nhạc,7210205,M00,5,Thi tuyển môn cơ sở
+VHU,,Piano,7210205,M00,5,Thi tuyển môn cơ sở
+VHU,,Piano,7210205,M00,7,Thi tuyển môn chuyên ngành
+GDU,,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01, D01, C01",15,Điểm thi TN THPT
+GDU,,Kỹ thuật phần mềm,7480103,"A00, A01, D01, C01",15,Điểm thi TN THPT
+GDU,,Quản trị kinh doanh,7340101,"A00, A01, D01, C00",16.5,Điểm thi TN THPT
+GDU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, C00",15,Điểm thi TN THPT
+GDU,,Ngôn ngữ Anh,7220201,"A00, A01, D01, C00",15.5,Điểm thi TN THPT
+GDU,,Kế toán,7340301,"A00, A01, D01, C00",15,Điểm thi TN THPT
+GDU,,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01, D01, C14, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Kỹ thuật phần mềm,7480103,"A00, A01, D01, C14, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Quản trị kinh doanh,7340101,"A00, D01, C04, A09, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Tài chính - Ngân hàng,7340201,"A00, D01, C04, A09",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Ngôn ngữ Anh,7220201,"D01, D96, D14, D15, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Kế toán,7340301,"A00, D01, C04, A09, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Quản trị khách sạn,734115,"A00, A01, D01, C04, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Công nghệ thông tin,7480201,"A00, A01, D01, C01, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Đông phương học,7310608,"A00, D01, D15, C01, XDHB",5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Logistics và Quản lý chuỗi cung ứng,7510605,XDHB,5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Kinh doanh quốc tế,7340120,XDHB,5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Truyền thông đa phương tiện,7320104,XDHB,5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Marketing,7340115,XDHB,5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Luật,7380101,XDHB,5.5,"Học bạ
+Tổng điểm trung bình (điểm trung bình lớp 10 + điểm trung bình lớp 11 + điểm trung bình học kỳ 1 lớp 12)/3"
+GDU,,Công nghệ thông tin,7480201,"A00, A01, D01, C01",16,Điểm thi TN THPT
+GDU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C00",15,Điểm thi TN THPT
+GDU,,Kinh doanh quốc tế,7340120,"A00, A01, D01, C00",15,Điểm thi TN THPT
+GDU,,Quản trị khách sạn,7810201,"A00, A01, D01, C00",15,Điểm thi TN THPT
+GDU,,Marketing,7340115,"A00, A01, D01, C00",16,Điểm thi TN THPT
+GDU,,Luật,7380101,"A00, A01, D01, C00",15,Điểm thi TN THPT
+GDU,,Đông phương học,7310608,"A00, A01, D01, C00",15.5,Điểm thi TN THPT
+GDU,,Truyền thông đa phương tiện,7320104,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HCMUL,,Quản trị kinh doanh,7340101,D01,25,Điểm thi TN THPT
+HCMUL,,Luật,7380101,A00,24.5,Điểm thi TN THPT
+HCMUL,,Luật,7380101,A01,24.5,Điểm thi TN THPT
+HCMUL,,Luật,7380101,D01,24.75,Điểm thi TN THPT
+HCMUL,,Quản trị kinh doanh,7340101,"A00, A01",25.25,Điểm thi TN THPT
+HCMUL,,Quản trị - Luật,7340102,"A00, A01",25.5,Điểm thi TN THPT
+HCMUL,,Quản trị - Luật,7340102,"D01, D03, D06",24.5,Điểm thi TN THPT
+HCMUL,,Ngôn ngữ Anh,7220201,D01,25,Điểm thi TN THPT
+HCMUL,,Luật,7380101,C00,27.5,Điểm thi TN THPT
+HCMUL,,Luật,7380101,"D03, D06",24.5,Điểm thi TN THPT
+HCMUL,,Quản trị kinh doanh,7340101,"D03, D06",24.5,Điểm thi TN THPT
+HCMUL,,Quản trị kinh doanh,7340101,"D87, D88",24.5,Điểm thi TN THPT
+HCMUL,,Ngôn ngữ Anh,7220201,D14,26,Điểm thi TN THPT
+HCMUL,,Ngôn ngữ Anh,7220201,D66,27.5,Điểm thi TN THPT
+HCMUL,,Ngôn ngữ Anh,7220201,D84,27.5,Điểm thi TN THPT
+HCMUL,,Luật,7380109,"D01, D03, D06",26.5,Điểm thi TN THPT
+HCMUL,,Luật,7380109,D66,28.5,Điểm thi TN THPT (Ngành luật thương mại quốc tế)
+HCMUL,,Luật,7380109,"D87, D88",26.5,Điểm thi TN THPT (Ngành luật thương mại quốc tế)
+HCMUL,,Luật,7380109,A01,26.5,Điểm thi TN THPT (Ngành luật thương mại quốc tế)
+HCMUL,,Luật,7380109,"D69, D70",26.5,Điểm thi TN THPT (Ngành luật thương mại quốc tế)
+HCMUL,,Luật,7380109,D84,28.5,Điểm thi TN THPT (Ngành luật thương mại quốc tế)
+HCMUL,,Quản trị - Luật,7340102,D01,25.25,Điểm thi TN THPT
+HCMUL,,Quản trị - Luật,7340102,D84,27.75,Điểm thi TN THPT
+HCMUL,,Quản trị - Luật,7340102,"D87, D88",25,Điểm thi TN THPT
+HCMUL,,Quản trị kinh doanh,7340101,D84,26.75,Điểm thi TN THPT
+HCA,,Quản lý nhà nước,7310205,"A00, A01, D01, C00, XDHB",26.25,Học bạ
+HCA,,Luật,7380101,"A00, A01, D01, C00, XDHB",26.35,Học bạ
+HCA,,Xây dựng Đảng và chính quyền nhà nước,7310202,"C00, C04, C03, C14, XDHB",25,Học bạ
+HCA,,Chính trị học,7310201,"C00, C04, C03, C14, XDHB",24.5,Học bạ
+HCA,,Công tác xã hội,7760101,"D01, C00, D14, C14, XDHB",23.65,Học bạ
+UEH,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D07",24,Điểm thi TN THPT
+UEH,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,"A00, A01, D01, D07",26.2,Điểm thi TN THPT
+UEH,Kinh doanh thương mại,Kinh doanh thương mại,7340121,"A00, A01, D01, D07",27,Điểm thi TN THPT
+UEH,Quản trị khách sạn,Quản trị khách sạn,7810201,"A00, A01, D01, D07",25.3,Điểm thi TN THPT
+UEH,,Kỹ thuật phần mềm,7480103,"A00, A01, D01, D07",26.2,Điểm thi TN THPT
+UEH,Tài chính – ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D07",25.9,Điểm thi TN THPT
+UEH,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D07",26.2,Điểm thi TN THPT
+UEH,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, D07",27,Điểm thi TN THPT
+UEH,Thống kê kinh tế,Thống kê kinh tế,7310107,"A00, A01, D01, D07",25.9,Điểm thi TN THPT
+UEH,,Quản lý công,7340403,"A00, A01, D01, D07",25,Điểm thi TN THPT
+UEH,,Ngôn ngữ Anh,7220201,"D01, D96",27,Điểm thi TN THPT
+UEH,Toán kinh tế,Toán kinh tế,7310108,"A00, A01, D01, D07",25.2,Điểm thi TN THPT
+UEH,Kế toán,Kế toán,7340301,"A00, A01, D01, D07",25.4,Điểm thi TN THPT
+UEH,Kinh tế,Kinh tế,7310101,"A00, A01, D01, D07",26.3,Điểm thi TN THPT
+UEH,Marketing,Marketing,7340115,"A00, A01, D01, D07",27.5,Điểm thi TN THPT
+UEH,,Luật,7380101,"A00, A01, D01, D96",25.8,Điểm thi TN THPT
+UEH,Kinh tế,Kinh tế,7310101,DGNL,940,
+UEH,Quản trị kinh doanh,Quản trị kinh doanh,7340101__01,"A00, A01, D01, D07",27,Điểm thi TN THPT
+UEH,Quản trị kinh doanh,Quản trị kinh doanh,7340101,DGNL,925,600: Phân hiệu Vĩnh Long
+UEH,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, D07",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,DGNL,980,600: Phân hiệu Vĩnh Long
+UEH,Logistics và quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,751065,DGNL,1000,
+UEH,Kinh doanh thương mại,Kinh doanh thương mại,7340121,DGNL,950,
+UEH,Marketing,Marketing,7340115_01,"A00, A01, D01, D07",27.4,Điểm thi TN THPT
+UEH,Marketing,Marketing,7340115,DGNL,970,600: Phân hiệu Vĩnh Long
+UEH,Tài chính – ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D07",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Tài chính – ngân hàng,Tài chính - Ngân hàng,7340201,DGNL,895,600: Phân hiệu Vĩnh Long
+UEH,Bảo hiểm,Bảo hiểm,7340204,DGNL,830,
+UEH,Tài chính quốc tế,Tài chính quốc tế,7340206,DGNL,950,
+UEH,Kế toán,Kế toán,7340301,"A00, A01, D01, D07",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Kế toán,Kế toán,7340301,DGNL,870,580: Phân hiệu Vĩnh Long
+UEH,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D07",16,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,DGNL,870,
+UEH,Quản trị khách sạn,Quản trị khách sạn,7810201,DGNL,885,
+UEH,Toán kinh tế,Toán kinh tế,7310108,DGNL,870,
+UEH,Thống kê kinh tế,Thống kê kinh tế,7310107,DGNL,840,
+UEH,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,DGNL,910,
+UEH,,Khoa học dữ liệu,7480109,DGNL,920,
+UEH,,Kỹ thuật phần mềm,7480103,DGNL,950,
+UEH,,Ngôn ngữ Anh,7220201,"D01, D96",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,,Ngôn ngữ Anh,7220201,DGNL,920,
+UEH,,Luật,7380107,"A00, A01, D01, D96",16,"Luật kinh tế
+Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,,Luật,7380101,DGNL,930,
+UEH,,Quản lý công,7340403,DGNL,840,
+UEH,,Quản trị bệnh viện,7340101_01,DGNL,880,
+UEH,Bảo hiểm,Bảo hiểm,7340204,"A00, A01, D01, D07",25,Điểm thi TN THPT
+UEH,Tài chính quốc tế,Tài chính quốc tế,7340206,"A00, A01, D01, D07",26.8,Điểm thi TN THPT
+UEH,,Khoa học dữ liệu,7480109,"A00, A01, D01, D07",26,7340122
+UEH,Logistics và quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, D07",27.4,Điểm thi TN THPT
+UEH,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D07",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120_01,"A00, A01, D01, D07",27.5,Điểm thi TN THPT
+UEH,Tài chính – ngân hàng,Tài chính - Ngân hàng,7340201_01,"A00, A01, D01, D07",25.3,Điểm thi TN THPT
+UEH,Kế toán,Kế toán,7340301_01,"A00, A01, D01, D07",22,Điểm thi TN THPT
+UEH,Kinh tế đầu tư,Kinh tế,7310104,DGNL,900,Kinh tế đầu tư
+UEH,Bất động sản,Bất động sản,7340116,DGNL,880,
+UEH,Quản trị nhân lực,Quản trị nhân lực,7340404,DGNL,950,
+UEH,Kinh doanh nông nghiệp,Kinh doanh nông nghiệp,7620114,DGNL,740,505: Phân hiệu Vĩnh Long
+UEH,Kiểm toán,Kiểm toán,7340302,DGNL,940,
+UEH,Thương mại điện tử,Thương mại điện tử,7340122,DGNL,970,505: Phân hiệu Vĩnh Long
+UEH,,Luật,7380107,DGNL,920,Luật kinh tế
+UEH,,Kiến trúc,7580104,DGNL,800,Kiến trúc đô thị
+UEH,Kinh tế đầu tư,Kinh tế,7310104,"A00, A01, D01, D07",25.4,Kinh tế đầu tư
+UEH,Bất động sản,Bất động sản,7340116,"A00, A01, D01, D07",24.2,Điểm thi TN THPT
+UEH,Quản trị nhân lực,Quản trị nhân lực,7340404,"A00, A01, D01, D07",26.6,Điểm thi TN THPT
+UEH,Kinh doanh nông nghiệp,Kinh doanh nông nghiệp,7620114,"A00, A01, D01, D07",22,Điểm thi TN THPT
+UEH,Kiểm toán,Kiểm toán,7340302,"A00, A01, D01, D07",26.1,Điểm thi TN THPT
+UEH,Thương mại điện tử,Thương mại điện tử,7340122,"A00, A01, D01, D07",26.9,Điểm thi TN THPT
+UEH,,Luật,7380107,"A00, A01, D01, D96",25.8,"Luật kinh tế
+Điểm thi TN THPT"
+UEH,,Kiến trúc,7580104,"A00, A01, D01, D07",22.8,"Kiến trúc đô thị
+Điểm thi TN THPT"
+UEH,,Quản trị bệnh viện,7720802,"A00, A01, D01, D07",24.2,Điểm thi TN THPT
+UEH,Marketing,Marketing,7340115,"A00, A01, D01, D07",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Thương mại điện tử,Thương mại điện tử,7340122,"A00, A01, D01, D07",17,"Chương trình chuẩn
+Điểm thi TN THPT"
+UEH,Kinh doanh nông nghiệp,Kinh doanh nông nghiệp,7620114,"A00, A01, D01, D07",16,"Chương trình chuẩn
+Điểm thi TN THPT"
+HCMUC,,Quản trị dịch vụ du lịch và lữ hành,7810103B,"D01, C00, D15, D10",24,
+HCMUC,,Quản trị dịch vụ du lịch và lữ hành,7810103A,"D01, C00, D15, D10",25,
+HCMUC,,Văn hoá các dân tộc thiểu số Việt Nam,7220112,"D01, C00, D15, D09",15,
+HCMUC,,Kinh doanh xuất bản phẩm,7320402,"D01, C00, D15, D10",15,
+HCMUC,,Thông tin - thư viện,7320201,"D01, C00, D15, D09",15,
+HCMUC,,Quản lý văn hoá,7229042A,"D01, C00, D15, D09",21,
+HCMUC,,Quản lý văn hoá,7229042B,"D01, C00, D15, D09",16,
+HCMUC,,Bảo tàng học,7320305,"D01, C00, D15, D09",15,
+HCMUC,,Văn hoá học,7229040C,"D01, C00, D15, D09",23,
+HCMUC,,Văn hoá học,7229040A,"D01, C00, D15, D09",16,
+HCMUC,,Du lịch,7810101,"D01, C00, D15, D10",24.25,
+HCMUC,,Quản lý văn hoá,7229042C,"R01, R02, R03, R04",18,
+HCMUC,,Quản lý văn hoá,7229042D,"D01, C00, D15, D09",22.5,
+HCMUC,,Văn hoá học,7229040B,"D01, C00, D15, D09",16,
+UMP HCM,,Điều dưỡng chuyên ngành Gây mê hồi sức,7720301_03,B00,24.15,
+UMP HCM,Hộ sinh,Điều dưỡng chuyên ngành Hộ sinh,7720301_02,B00,23.25,CHỈ TUYỂN NỮ
+UMP HCM,Kỹ thuật phục hồi chức năng,Kỹ thuật phục hồi chức năng,7720603,B00,24.1,
+UMP HCM,,Dược học,7720201_02,"A00, B00",24.5,KẾT HỢP CHỨNG CHỈ TIẾNG ANH QUỐC TẾ
+UMP HCM,,Kỹ thuật xét nghiệm y học,7720601,B00,25.45,
+UMP HCM,,Kỹ thuật phục hình răng,7720502,B00,25,
+UMP HCM,,Y khoa,7720101_02,B00,27.65,KẾT HỢP CHỨNG CHỈ QUỐC TẾ
+UMP HCM,,Y học cổ truyền,7720115,B00,25.2,
+UMP HCM,,Răng - Hàm - Mặt,7720501,B00,27.65,
+UMP HCM,,Y tế công cộng,7720701,B00,22,
+UMP HCM,,Y học dự phòng,7720110,B00,23.9,
+UMP HCM,,Điều dưỡng,7720301,B00,24.1,
+UMP HCM,,Dinh dưỡng,7720401,B00,24,
+UMP HCM,,Dược học,7720201,"A00, B00",26.25,
+UMP HCM,,Y khoa,7720101,B00,28.2,
+UMP HCM,,Răng - Hàm - Mặt,7720501_02,B00,27.4,KẾT HỢP CHỨNG CHỈ TIẾNG ANH QUỐC TẾ
+UMP HCM,,Điều dưỡng,7720301_04,B00,22.8,KẾT HỢP CHỨNG CHỈ TIẾNG ANH QUỐC TẾ
+UMP HCM,,Kỹ thuật hình ảnh y học,7720602,B00,24.8,
+NLU,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, D07",23,Điểm thi TN THPT
+NLU,,Quản lý tài nguyên và môi trường,7850101,"A00, B00, A01, D07",17,Điểm thi TN THPT
+NLU,,Công nghệ kỹ thuật cơ khí,7510201,"A00, A01, D07",22,Điểm thi TN THPT
+NLU,,Công nghệ chế biến thuỷ sản,7540105,"A00, A01, D07, D08",16,Điểm thi TN THPT
+NLU,,Sư phạm Kỹ thuật nông nghiệp,7140215,"A00, B00, A01, D08",19,Điểm thi TN THPT
+NLU,,Công nghệ kỹ thuật hoá học,7510401,"A00, B00, A01, D07",22.25,Điểm thi TN THPT
+NLU,,Công nghệ chế biến lâm sản,7549001,"A00, B00, A01, D01",16,Điểm thi TN THPT
+NLU,,Công nghệ kỹ thuật cơ khí,7510201C,"A00, A01, D07",17,"Chất lượng cao
+Điểm thi TN THPT"
+NLU,,Kỹ thuật môi trường,7520320,"A00, B00, A01, D07",16,Điểm thi TN THPT
+NLU,,Công nghệ Kỹ thuật Nhiệt,7510206,"A00, A01, D07",20,Điểm thi TN THPT
+NLU,,Công nghệ thực phẩm,7540101T,"A00, B00, A01, D08",23,"Chương trình Tiên tiến
+Điểm thi TN THPT"
+NLU,,Công nghệ kỹ thuật ô tô,7510205,"A00, A01, D07",23.5,Điểm thi TN THPT
+NLU,,Công nghệ thực phẩm,7540101C,"A00, B00, A01, D08",20,"Chất lượng cao
+Điểm thi TN THPT"
+NLU,,Quản lý tài nguyên rừng,7620211,"A00, B00, D01, D08",16,Điểm thi TN THPT
+NLU,,Công nghệ sinh học,7420201,"A01, D07, D08",22.75,Điểm thi TN THPT
+NLU,,Quản trị kinh doanh,7340101,"A00, A01, D01",24.5,Điểm thi TN THPT
+NLU,,Kỹ thuật môi trường,7520320C,"A00, B00, A01, D07",16,"Chất lượng cao
+Điểm thi TN THPT"
+NLU,,Nuôi trồng thuỷ sản,7620301,"A00, B00, D07, D08",16,Điểm thi TN THPT
+NLU,,Công nghệ thực phẩm,7540101,"A00, B00, A01, D08",23,Điểm thi TN THPT
+NLU,,Khoa học môi trường,7440301,"A00, B00, A01, D07",16,Điểm thi TN THPT
+NLU,,Phát triển nông thôn,7620116,"A00, A01, D01",16,Điểm thi TN THPT
+NLU,,Kinh doanh nông nghiệp,7620114,"A00, A01, D01",21,Điểm thi TN THPT
+NLU,,Công nghệ sinh học,7420201C,"A00, B00, A02",18,"Chất lượng cap
+Điểm thi TN THPT"
+NLU,,Quản trị kinh doanh,7340101C,"A00, A01, D01",23.25,"Chất lượng cao
+Điểm thi TN THPT"
+NLU,,Bảo vệ thực vật,7620112,"A00, B00, D08",19,Điểm thi TN THPT
+NLU,,Công nghệ thông tin,7480201,"A00, A01, D07",24.25,Điểm thi TN THPT
+NLU,,Ngôn ngữ Anh,7220201,"A01, D01, D14, D15",26,Điểm thi TN THPT
+NLU,,Thú y,7640101,"A00, B00, D07, D08",24.5,Điểm thi TN THPT
+NLU,,Nông học,7620109,"A00, B00, D08",17,Điểm thi TN THPT
+NLU,,Chăn nuôi,7620105,"A00, B00, D07, D08",18.25,Điểm thi TN THPT
+NLU,,Lâm học,7620201,"A00, B00, D01, D08",16,Điểm thi TN THPT
+NLU,,Kế toán,7340301,"A00, A01, D01",24.25,Điểm thi TN THPT
+NLU,,Kinh tế,7310101,"A00, A01, D01",23.5,Điểm thi TN THPT
+NLU,,Thú y,7640101T,"A00, B00, D07, D08",25,"Chương trình Tiên tiến
+Điểm thi TN THPT"
+NLU,,Công nghệ kỹ thuật cơ điện tử,7510203,"A00, A01, D07",22.5,Điểm thi TN THPT
+NLU,,Bất động sản,7340116,"A00, A01, D01",22.75,Điểm thi TN THPT
+NLU,,Hệ thống thông tin,7480104,"A00, A01, D07",23.25,Điểm thi TN THPT
+NLU,,Công nghệ kỹ thuật năng lượng tái tạo,7519007,"A00, A01, D07",16,Điểm thi TN THPT
+NLU,,Lâm nghiệp đô thị,7620202,"A00, B00, B08, D01",16,Điểm thi TN THPT
+NLU,,Tài nguyên và du lịch sinh thái,7859002,"A00, B00, B08, D01",17,Điểm thi TN THPT
+NLU,,Cảnh quan và kỹ thuật hoa viên,7859007,"A00, B08, D07",16,Điểm thi TN THPT
+NLU,,Thú y,7640101N,"A00, B00, D07, D08",16,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Công nghệ kỹ thuật năng lượng tái tạo,7519007N,"A00, A01, D07",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Công nghệ thông tin,7480201N,"A00, A01, D07",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Kế toán,7340301N,"A00, A01, D01",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Quản trị kinh doanh,7340101N,"A00, A01, D01",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Ngôn ngữ Anh,7220201N,"A01, D01, D14, D15",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Tài nguyên và du lịch sinh thái,7859002N,"A00, B00, D01, D08",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Nông học,7620109N,"A00, B00, D08",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Quản lý đất đai,7850103N,"A00, A01, D01",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Nuôi trồng thuỷ sản,7620301N,"A00, B00, D07, D08",15,"Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+NLU,,Giáo dục Mầm non,51140201,M00,17,"Hệ Cao đẳng
+Phân hiệu Ninh Thuận
+Điểm thi TN THPT"
+HCMUE,Sư phạm khoa học tự nhiên,Sư phạm khoa học tự nhiên,7140247,"A00, B00, D90",24.4,Điểm thi TN THPT
+HCMUE,Sư phạm Tiếng Trung Quốc,Sư phạm Tiếng Trung Quốc,7140234,"D01, D04",25.5,Điểm thi TN THPT
+HCMUE,Giáo dục Đặc biệt,Giáo dục Đặc biệt,7140203,"D01, C00, C15",23.4,Điểm thi TN THPT
+HCMUE,Giáo dục Chính trị,Giáo dục Chính trị,7140205,"D01, C00, C19",25.75,Điểm thi TN THPT
+HCMUE,Giáo dục Thể chất,Giáo dục Thể chất,7140206,T00,23.75,Điểm thi TN THPT
+HCMUE,Giáo dục Tiểu học,Giáo dục Tiểu học,7140202,"A00, A01, D01",25.4,Điểm thi TN THPT
+HCMUE,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"D01, D04",25.2,Điểm thi TN THPT
+HCMUE,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,"D01, D96, D78",25.8,Điểm thi TN THPT
+HCMUE,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01",24,Điểm thi TN THPT
+HCMUE,Sư phạm Lịch sử,Sư phạm Lịch sử,7140218,"C00, C14",26,Điểm thi TN THPT
+HCMUE,,Sư phạm Tiếng Anh,7140231,D01,27.15,Điểm thi TN THPT
+HCMUE,Sư phạm Toán học,Sư phạm Toán học,7140209,"A00, A01",26.7,Điểm thi TN THPT
+HCMUE,Quản lý giáo dục,Quản lý giáo dục,7140114,"A00, D01, C00",23.3,Điểm thi TN THPT
+HCMUE,Sư phạm Ngữ Văn,Sư phạm Ngữ văn,7140217,"D01, C00, D78",27,Điểm thi TN THPT
+HCMUE,Sư phạm Sinh học,Sư phạm Sinh học,7140213,"B00, D08",25,Điểm thi TN THPT
+HCMUE,,Sư phạm Hóa học,7140212,"A00, B00, D07",27,Điểm thi TN THPT
+HCMUE,Sư phạm Địa lý,Sư phạm Địa lý,7140219,"C00, C04, D78",25.2,Điểm thi TN THPT
+HCMUE,Giáo dục Mầm non,Giáo dục Mầm non,7140201,M00,22.05,Điểm thi TN THPT
+HCMUE,Công tác xã hội,Công tác xã hội,7760101,"A00, D01, C00",22.5,Điểm thi TN THPT
+HCMUE,,Sư phạm Tin học,7140210,"A00, A01",23,Điểm thi TN THPT
+HCMUE,,Sư phạm Vật lý,7140211,"A00, A01, C01",25.8,Điểm thi TN THPT
+HCMUE,,Ngôn ngữ Nhật,7220209,"D01, D06",24.9,Điểm thi TN THPT
+HCMUE,,Quốc tế học,7310601,"D01, D14, D78",24.6,Điểm thi TN THPT
+HCMUE,,Ngôn ngữ Pháp,7220203,"D01, D03",22.8,Điểm thi TN THPT
+HCMUE,,Việt Nam học,7310630,"D01, C00, D78",22.92,Điểm thi TN THPT
+HCMUE,,Ngôn ngữ Nga,7220202,"D01, D78, D02, D80",20.53,Điểm thi TN THPT
+HCMUE,,Ngôn ngữ Anh,7220201,D01,26,Điểm thi TN THPT
+HCMUE,,Tâm lý học,7310401,"B00, D01, C00",25.5,Điểm thi TN THPT
+HCMUE,,Hoá học,7440112,"A00, B00, D07",23.25,Điểm thi TN THPT
+HCMUE,,Văn học,7229030,"D01, C00, D78",24.3,Điểm thi TN THPT
+HCMUE,Sư phạm khoa học tự nhiên,Sư phạm khoa học tự nhiên,7140247,"A00, B00, D90, XDHB",28.4,Học bạ
+HCMUE,Sư phạm Tiếng Trung Quốc,Sư phạm Tiếng Trung Quốc,7140234,"D01, D04, XDHB",27.75,Học bạ
+HCMUE,,Tâm lý học,7310403,"A00, D01, C00, XDHB",28,Học bạ
+HCMUE,Giáo dục Đặc biệt,Giáo dục Đặc biệt,7140203,"D01, C00, C15, XDHB",25.7,Học bạ
+HCMUE,Giáo dục Chính trị,Giáo dục Chính trị,7140205,"D01, C00, C19, XDHB",27.9,Học bạ
+HCMUE,Giáo dục Tiểu học,Giáo dục Tiểu học,7140202,"A00, A01, D01, XDHB",18.18,Học bạ
+HCMUE,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"D01, D04, XDHB",26.78,Học bạ
+HCMUE,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,"D01, D96, D78, XDHB",27.7,Học bạ
+HCMUE,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, XDHB",27.55,Học bạ
+HCMUE,,Sư phạm Tiếng Anh,7140231,"D01, XDHB",28.28,Học bạ
+HCMUE,Sư phạm Toán học,Sư phạm Toán học,7140209,"A00, A01, XDHB",29.52,Học bạ
+HCMUE,Quản lý giáo dục,Quản lý giáo dục,7140114,"A00, D01, C00, XDHB",27.5,Học bạ
+HCMUE,Sư phạm Ngữ Văn,Sư phạm Ngữ văn,7140217,"D01, C00, D78, XDHB",28.57,Học bạ
+HCMUE,Sư phạm Sinh học,Sư phạm Sinh học,7140213,"B00, D08, XDHB",28.67,Học bạ
+HCMUE,,Sư phạm Hóa học,7140212,"A00, B00, D07, XDHB",29.75,Học bạ
+HCMUE,Sư phạm Địa lý,Sư phạm Địa lý,7140219,"C00, C04, D78, XDHB",27.2,Học bạ
+HCMUE,Công tác xã hội,Công tác xã hội,7760101,"A00, D01, C00, XDHB",26.67,Học bạ
+HCMUE,,Sư phạm Tin học,7140210,"A00, A01, XDHB",26.98,Học bạ
+HCMUE,,Sư phạm Vật lý,7140211,"A00, A01, C01, XDHB",29.07,Học bạ
+HCMUE,,Ngôn ngữ Nhật,7220209,"D01, D06, XDHB",26.38,Học bạ
+HCMUE,,Quốc tế học,7310601,"D01, D14, D78, XDHB",26.57,Học bạ
+HCMUE,,Ngôn ngữ Pháp,7220203,"D01, D03, XDHB",25.77,Học bạ
+HCMUE,,Việt Nam học,7310630,"D01, C00, D78, XDHB",26.58,Học bạ
+HCMUE,,Ngôn ngữ Nga,7220202,"D01, D78, D02, D80, XDHB",24.82,Học bạ
+HCMUE,,Ngôn ngữ Anh,7220201,"D01, XDHB",27.95,Học bạ
+HCMUE,,Hoá học,7440112,"A00, B00, D07, XDHB",27.5,Học bạ
+HCMUE,,Văn học,7229030,"D01, C00, D78, XDHB",27.12,Học bạ
+HCMUE,,Giáo dục Quốc phòng - An ninh,7140208,"C00, C19, A08",24.4,Điểm thi TN THPT
+HCMUE,,Giáo dục Quốc phòng - An ninh,7140208,"C00, C19, A08, XDHB",25.48,Học bạ
+HCMUE,,Tâm lý học giáo dục,7310403,"A00, D01, C00",23.7,Điểm thi TN THPT
+HCMUE,,Tâm lý học giáo dục,7310403,"A00, D01, C00, XDHB",27.1,Học bạ
+HCMUE,,Sư phạm Lịch sử - Địa lý,7140249,"C00, C19, C20, XDHB",25.63,Học bạ
+HCMUE,,Giáo dục học,7140101,"B00, D01, C00, C01, XDHB",24,Học bạ
+HCMUE,,Sư phạm Lịch sử - Địa lý,7140249,"C00, C19, C20",25,Điểm thi TN THPT
+HCMUE,,Giáo dục học,7140101,"B00, D01, C00, C01",19.5,Điểm thi TN THPT
+HCMUE,,Giáo dục Công dân,7140204,"D01, C00, C19",25.5,Điểm thi TN THPT
+HUB,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D07",26.25,Điểm thi TN THPT
+HUB,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340001,"A00, A01, D01, D90",25.25,CLC; Điểm thi TN THPT
+HUB,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,"A00, A01, D01, D07",25.85,Điểm thi TN THPT
+HUB,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D90",25.65,Điểm thi TN THPT
+HUB,Quản trị kinh doanh,Quản trị kinh doanh,7340102,"A00, A01, D01, D07",25.25,Chương trình đại học chính quy quốc tế song bằng; Điểm thi TN THPT
+HUB,Kinh tế quốc tế,Kinh tế,7310106,"A00, A01, D01, D07",26.15,Kinh tế Quốc tế; Điểm thi TN THPT
+HUB,Luật Kinh tế,Luật,7380107,"A00, A01, D01, C00",26,Luật Kinh tế; Điểm thi TN THPT
+HUB,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A01, D01, D14, D15",26.46,Điểm thi TN THPT
+HUB,Kế toán,Kế toán,7340301,"A00, A01, D01, D07",25.55,Điểm thi TN THPT
+HUB,Quản trị kinh doanh,Quản trị kinh doanh,7340002,DGNLHCM,861,
+HUB,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,DGNLHCM,827,
+HUB,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,DGNLHCM,862,
+HUB,Kinh tế quốc tế,Kinh tế,7310106,DGNLHCM,875,Kinh tế quốc tế
+HUB,Luật Kinh tế,Luật,7380107,DGNLHCM,813,Luật kinh tế
+HUB,Kế toán,Kế toán,7340001,"A00, A01, D01, D07",25.25,CLC
+HUB,Kế toán,Kế toán,7340001,DGNLHCM,846,
+HUB,Quản trị kinh doanh,Quản trị kinh doanh,7340001,"A00, A01, D01, D07",25.25,CLC; Điểm thi TN THPT
+HUB,Bảo hiểm - Tài chính - Ngân hàng,Bảo hiểm - Tài chính Ngân hàng,7340002,"A00, A01, D01, D07",25.25,Đại học chính quy quốc tế cấp song bằng; Điểm thi TN THPT
+HUB,Quản lý chuỗi cung ứng,Quản trị kinh doanh,7340002,"A00, A01, D01, D07",25.25,Quản lý chuỗi cung ứng; Điểm thi TN THPT
+UAH,,Kỹ thuật cơ sở hạ tầng,7580210,"A00, A01",16.2,
+UAH,,Quy hoạch vùng và đô thị,7580105,"V00, V01",22.65,
+UAH,,Quy hoạch vùng và đô thị,7580105CLC,"V00, V01",20.83,
+UAH,,Thiết kế công nghiệp,7210402,"H01, H02",24.08,
+UAH,,Thiết kế nội thất,7580108CT,"V00, V01",20.75,Cơ sở Cần Thơ
+UAH,,Thiết kế nội thất,7580108,"V00, V01",24.46,
+UAH,,Thiết kế thời trang,7210404,"H01, H06",24.26,
+UAH,,Mỹ thuật đô thị,7210110,"V00, V01",22.87,
+UAH,,Kỹ thuật xây dựng,7580201DL,"A00, A01",17.2,Cơ sở Đà Lạt
+UAH,,Kỹ thuật xây dựng,7580201CT,"A00, A01",17.15,Cơ sở Cần Thơ
+UAH,,Kỹ thuật xây dựng,7580201CLC,"A00, A01",20.65,
+UAH,,Kỹ thuật xây dựng,7580201,"A00, A01",22.6,
+UAH,,Kiến trúc,7580102,"V00, V01",23.51,
+UAH,,Thiết kế đồ họa,7210403,"H01, H06",25.35,
+UAH,,Thiết kế đô thị,7580199,"V00, V01",16.93,
+UAH,,Quản lý xây dựng,7580302,"A00, A01",22,
+UAH,,Kiến trúc,7580101DL,"V00, V01",20.29,Cơ sở Đà Lạt
+UAH,,Kiến trúc,7580101CT,"V00, V01",21.16,Cơ sở Cần Thơ
+UAH,,Kiến trúc,7580101CLC,"V00, V01",24.16,
+UAH,,Kiến trúc,7580101,"V00, V01",24.4,
+VPSU,,Nghiệp vụ An ninh,7860100,A00,24.86,Điểm thi TN THPT (đối với nam) - địa bàn 5 lấy 25.68; địa bàn 6: 24.01; địa bàn 7: 25.83; địa bàn 8: 23.04
+VPSU,,Nghiệp vụ An ninh,7860100,A01,26.11,Điểm thi TN THPT (đối với nam) - địa bàn 5 lấy 26.36; địa bàn 6: 24.93; địa bàn 7: 26.9; địa bàn 8: 25.76
+VPSU,,Nghiệp vụ An ninh,7860100,C03,25.21,Điểm thi TN THPT (đối với nam) - địa bàn 5 lấy 26.53; địa bàn 6: 24.38; địa bàn 7: 26.94; địa bàn 8: 22.41
+VPSU,,Nghiệp vụ An ninh,7860100,C03,27.2,Điểm thi TN THPT (đối với nữ) - địa bàn 5 lấy 27.94; địa bàn 6: 26.01; địa bàn 7: 27.84
+VPSU,,Nghiệp vụ An ninh,7860100,D01,25.89,Điểm thi TN THPT (đối với nam) - địa bàn 5 lấy 26.88; địa bàn 6: 24.56; địa bàn 7:26.48
+VPSU,,Nghiệp vụ An ninh,7860100,D01,27.69,Điểm thi TN THPT (đối với nữ) - địa bàn 5 lấy 29.51; địa bàn 6: 26.78; địa bàn 7: 28.69
+VPSU,,Nghiệp vụ An ninh,7860100,A00,27.35,Điểm thi TN THPT (đối với nữ) - địa bàn 5 lấy 28.5; địa bàn 6: 25.68; địa bàn 7: 27.49
+VPSU,,Nghiệp vụ An ninh,7860100,A01,27.63,Điểm thi TN THPT (đối với nữ) - địa bàn 5 lấy 27.91; địa bàn 6: 27.33; địa bàn 7: 28.14
+HUTECH,Kỹ thuật điều khiển và tự động hóa,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, D01, C01",19,Điểm TN THPT
+HUTECH,Quản trị nhà hàng và dịch vụ ăn uống,Quản trị nhà hàng và dịch vụ ăn uống,7810202,"A00, A01, D01, C00",18,Điểm TN THPT
+HUTECH,Kỹ thuật xây dựng,Kỹ thuật xây dựng,7580205,"A00, A01, D01, C01",18,Điểm TN THPT
+HUTECH,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, C00",18,Điểm thi TN THPT
+HUTECH,Kỹ thuật Điện tử - Viễn thông,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, D01, C01",19,Điểm TN THPT
+HUTECH,Logistics và quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Truyền thông đa phương tiện,Truyền thông đa phương tiện,7320104,"A01, D01, C00, D15",21,Điểm TN THPT
+HUTECH,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Công nghệ kỹ thuật Ô tô,Công nghệ kỹ thuật ô tô,7510205,"A00, A01, D01, C01",20,Điểm TN THPT
+HUTECH,Kỹ thuật cơ điện tử,Kỹ thuật cơ điện tử,7520114,"A00, A01, D01, C01",18,Điểm TN THPT
+HUTECH,Kỹ thuật môi trường,Kỹ thuật môi trường,7520320,"A00, B00, D07, C08",18,Điểm TN THPT
+HUTECH,Công nghệ thực phẩm,Công nghệ thực phẩm,7540101,"A00, B00, D07, C08",18,Điểm TN THPT
+HUTECH,Thiết kế nội thất,Thiết kế nội thất,7580108,"A00, D01, H01, V00",19,Điểm TN THPT
+HUTECH,Thiết kế thời trang,Thiết kế thời trang,7210404,"H01, H06, V00, H02",19,Điểm TN THPT
+HUTECH,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Quản trị khách sạn,Quản trị khách sạn,7810201,"A00, A01, D01, C00",19,Điểm TN THPT
+HUTECH,Thiết kế đồ họa,Thiết kế đồ họa,7210403,"H01, H06, V00, H02",19,Điểm TN THPT
+HUTECH,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"A01, D01, C00, D15",19,Điểm TN THPT
+HUTECH,Kỹ thuật xây dựng,Kỹ thuật xây dựng,7580201,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, C00",19,Điểm thi TN THPT
+HUTECH,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, D01, C01",20,Điểm TN THPT
+HUTECH,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,"A00, D01, C00, D15",18,Điểm TN THPT
+HUTECH,Công nghệ sinh học,Công nghệ sinh học,7420201,"A00, B00, D07, C08",18,Điểm TN THPT
+HUTECH,"Công nghệ dệt, may","Công nghệ dệt, may",7540204,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Quản lý xây dựng,Quản lý xây dựng,7580302,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, C00",18,Điểm thi TN THPT
+HUTECH,Đông phương học,Đông phương học,7310608,"A01, D01, C00, D15",18,Điểm TN THPT
+HUTECH,Kỹ thuật cơ khí,Kỹ thuật cơ khí,7520103,"A00, A01, D01, C01",18,Điểm TN THPT
+HUTECH,Kỹ thuật điện,Kỹ thuật điện,7520201,"A00, A01, D01, C01",18,Điểm TN THPT
+HUTECH,An toàn thông tin,An toàn thông tin,7480202,"A00, A01, D01, C01",20,Điểm TN THPT
+HUTECH,Kỹ thuật y sinh,Kỹ thuật y sinh,7520212,"A00, A01, D01, C01",18,Điểm TN THPT
+HUTECH,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209,"A00, D01, D14, D15",18,Điểm TN THPT
+HUTECH,Luật,Luật,7380101,"A00, A01, D01, C01",18,Điểm TN THPT
+HUTECH,Việt Nam học,Việt Nam học,7310630,"A01, D01, C00, D15",18,Điểm TN THPT
+HUTECH,Luật kinh tế,Luật,7380107,"A00, A01, D01, C00",18,"Ngành Luật kinh tế
+Điểm TN THPT"
+HUTECH,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A01, D01, D14, D15",18,Điểm TN THPT
+HUTECH,Tâm lý học,Tâm lý học,7310401,"A00, A01, D01, C00",20,Điểm thi TN THPT
+HUTECH,Dược học,Dược học,7720201,"A00, B00, D07, C08",21,Điểm thi TN THPT
+HUTECH,Kiến trúc,Kiến trúc,7580101,"A00, D01, H01, V00",19,Điểm TN THPT
+HUTECH,Kế toán,Kế toán,7340301,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Marketing,Marketing,7340115,"A00, A01, D01, C00",20,Điểm thi TN THPT
+HUTECH,Thú y,Thú y,7640101,"A00, B00, D07, C08",20,Điểm TN THPT
+HUTECH,Thương mại điện tử,Thương mại điện tử,7340122,XDHB,18,
+HUTECH,Kỹ thuật điều khiển và tự động hóa,Kỹ thuật điều khiển và tự động hoá,7520216,XDHB,18,
+HUTECH,Quản trị nhà hàng và dịch vụ ăn uống,Quản trị nhà hàng và dịch vụ ăn uống,7810202,XDHB,18,
+HUTECH,Kỹ thuật xây dựng,Kỹ thuật xây dựng,7580205,XDHB,18,
+HUTECH,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,XDHB,18,
+HUTECH,Logistics và quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,7510605,XDHB,18,
+HUTECH,Kỹ thuật Điện tử - Viễn thông,Kỹ thuật điện tử - viễn thông,7520207,XDHB,18,
+HUTECH,Truyền thông đa phương tiện,Truyền thông đa phương tiện,7320104,XDHB,18,
+HUTECH,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405,XDHB,18,
+HUTECH,Công nghệ kỹ thuật Ô tô,Công nghệ kỹ thuật ô tô,7510205,XDHB,18,
+HUTECH,Kỹ thuật cơ điện tử,Kỹ thuật cơ điện tử,7520114,XDHB,18,
+HUTECH,Kỹ thuật môi trường,Kỹ thuật môi trường,7520320,XDHB,18,
+HUTECH,Công nghệ thực phẩm,Công nghệ thực phẩm,7540101,XDHB,18,
+HUTECH,Thiết kế nội thất,Thiết kế nội thất,7580108,XDHB,18,
+HUTECH,Thiết kế thời trang,Thiết kế thời trang,7210404,XDHB,18,
+HUTECH,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,XDHB,18,
+HUTECH,Quản trị khách sạn,Quản trị khách sạn,7810201,XDHB,18,
+HUTECH,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,XDHB,18,
+HUTECH,Thiết kế đồ họa,Thiết kế đồ họa,7210403,XDHB,18,
+HUTECH,"Công nghệ dệt, may","Công nghệ dệt, may",7540204,XDHB,18,
+HUTECH,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, C00",18,
+HUTECH,Công nghệ thông tin,Công nghệ thông tin,7480201,XDHB,18,
+HUTECH,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,XDHB,18,
+HUTECH,Công nghệ sinh học,Công nghệ sinh học,7420201,XDHB,18,
+HUTECH,Quản lý xây dựng,Quản lý xây dựng,7580302,XDHB,18,
+HUTECH,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,XDHB,18,
+HUTECH,Đông phương học,Đông phương học,7310608,XDHB,18,
+HUTECH,Kỹ thuật cơ khí,Kỹ thuật cơ khí,7520103,XDHB,18,
+HUTECH,Kỹ thuật điện,Kỹ thuật điện,7520201,XDHB,18,
+HUTECH,An toàn thông tin,An toàn thông tin,7480202,"A00, A01, D01, C01",18,
+HUTECH,Kỹ thuật y sinh,Kỹ thuật y sinh,7520212,XDHB,18,
+HUTECH,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209,"D01, D14, D15",18,
+HUTECH,Luật kinh tế,Luật,7380107,XDHB,18,Luật kinh tế
+HUTECH,Việt Nam học,Việt Nam học,7310630,XDHB,18,
+HUTECH,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,XDHB,18,
+HUTECH,Tâm lý học,Tâm lý học,7310401,XDHB,18,
+HUTECH,Dược học,Dược học,7720201,XDHB,24,
+HUTECH,Kiến trúc,Kiến trúc,7580101,XDHB,18,
+HUTECH,Kế toán,Kế toán,7340301,XDHB,18,
+HUTECH,Marketing,Marketing,7340115,XDHB,18,
+HUTECH,Thú y,Thú y,7640101,XDHB,18,
+HUTECH,Kinh doanh thương mại,Kinh doanh thương mại,7340121,"A00, A01, D01, C00",18,Điểm thi TN THPT
+HUTECH,Kinh doanh thương mại,Kinh doanh thương mại,7340121,XDHB,18,
+HUTECH,Thương mại điện tử,Thương mại điện tử,7340122,"A00, A01, D01, C00",22,Điểm thi TN THPT
+HUTECH,Kỹ thuật xét nghiệm y học,Kỹ thuật xét nghiệm y học,7720601,XDHB,19.5,
+HUTECH,Điều dưỡng,Điều dưỡng,7720301,XDHB,19.5,
+HUTECH,Robot và trí tuệ nhân tạo,Robot và trí tuệ nhân tạo,7480207,XDHB,18,
+HUTECH,Khoa học dữ liệu,Khoa học dữ liệu,7480109,XDHB,18,
+HUTECH,Quản trị nhân lực,Quản trị nhân lực,7340404,XDHB,18,
+HUTECH,Quan hệ công chúng,Quan hệ công chúng,7320101,XDHB,18,
+HUTECH,Quan hệ quốc tế,Quan hệ quốc tế,7320108,XDHB,18,
+HUTECH,Thanh nhạc,Thanh nhạc,7210205,XDHB,18,
+HUTECH,Khoa học dữ liệu,Khoa học dữ liệu,7480109,"A00, A01, D01, C01",18,Điểm thi TN THPT
+HUTECH,Kỹ thuật xét nghiệm y học,Kỹ thuật xét nghiệm y học,7720601,"A00, B00, D07, C08",20,Điểm thi TN THPT
+HUTECH,Điều dưỡng,Điều dưỡng,7720301,"A00, B00, D07, C08",20,Điểm TN THPT
+HUTECH,Thanh nhạc,Thanh nhạc,7210205,N00,21,Điểm TN THPT
+HUTECH,Quản trị nhân lực,Quản trị nhân lực,7340404,"A00, A01, D01, C00",19,Điểm thi TN THPT
+HUTECH,Quan hệ công chúng,Quan hệ công chúng,7320108,"A00, A01, D01, C00",22,Điểm thi TN THPT
+HUTECH,Robot và trí tuệ nhân tạo,Robot và trí tuệ nhân tạo,7480207,"A00, A01, D01, C01",21,Điểm TN THPT
+HUTECH,Quan hệ quốc tế,Quan hệ quốc tế,7310206,"A00, A01, D01, C00",18,Điểm thi TN THPT
+TDTU,,Kỹ thuật điều khiển và tự động hoá,7520216,"A01, XDHB",34,"Toán nhân đôi
+Học bạ"
+TDTU,Mạng máy tính và Truyền thông dữ liệu,Mạng máy tính và Truyền thông dữ liệu,7480102,"A01, XDHB",35.75,"Toán nhân đôi
+Học bạ"
+TDTU,Kỹ thuật xây dựng,Kỹ thuật xây dựng,7580201,"A01, XDHB",31,"Toán nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật điện tử - viễn thông,7520207,"A01, XDHB",29.5,"Toán nhân đôi
+Học bạ"
+TDTU,,Công nghệ kỹ thuật môi trường,7510406,"D07, XDHB",27,"Toán nhân đôi
+Học bạ"
+TDTU,,Quản lý thể dục thể thao,7810301,"D01, XDHB",32,"Anh nhân đôi
+Học bạ"
+TDTU,,Quy hoạch vùng và đô thị,7580105,"A01, XDHB",27,"Toán nhân đôi
+Học bạ"
+TDTU,Kỹ thuật phần mềm,Kỹ thuật phần mềm,7480103,"A01, XDHB",37.5,"Toán nhân đôi
+Học bạ"
+TDTU,Khoa học môi trường,Khoa học môi trường,7440301,"D07, XDHB",27,"Toán nhân đôi
+Học bạ"
+TDTU,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"D01, XDHB",35.5,"Anh nhân đôi
+Học bạ"
+TDTU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"D01, XDHB",36.5,"Toán nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật hoá học,7520301,"D07, XDHB",33.5,"Hóa nhân đôi
+Học bạ"
+TDTU,Quản trị nguồn nhân lực,Quản trị kinh doanh,7340101,"D01, XDHB",37,"Quản trị nguồn nhân lực
+Anh nhân đôi
+Học bạ"
+TDTU,Công nghệ sinh học,Công nghệ sinh học,7420201,"B08, XDHB",33.75,"Sinh nhân đôi
+Học bạ"
+TDTU,,Bảo hộ lao động,7850201,"D07, XDHB",27,"Toán nhân đôi
+Học bạ"
+TDTU,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"D01, XDHB",38,"Anh nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật xây dựng,7580205,"D01, XDHB",27,"Toán nhân đôi
+Học bạ"
+TDTU,Quan hệ lao động,Quan hệ lao động,7340408,"D01, XDHB",32,"Chuyên ngành quản lí lao động, Chuyên ngành hành vi tổ chức
+Toán nhân đôi
+Học bạ"
+TDTU,,Công tác xã hội,7760101,"D14, XDHB",27,"Văn nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật điện,7520201,"A01, XDHB",29.5,"Toán nhân đôi
+Học bạ"
+TDTU,Toán ứng dụng,Toán ứng dụng,7460112,"A01, XDHB",28,"Toán nhân đôi
+Học bạ"
+TDTU,Du lịch và Lữ hành,Việt Nam học,7310630,"D14, XDHB",34.25,"Du lịch và lữ hành
+Văn nhân đôi
+Học bạ"
+TDTU,Xã hội học,Xã hội học,7310301,"D14, XDHB",33.5,"Văn nhân đôi
+Học bạ"
+TDTU,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"D01, XDHB",37,"Anh nhân đôi
+Học bạ"
+TDTU,,Dược học,7720201,"D07, XDHB",36.5,"Hóa nhân đôi, học lữ lớp 12 đạt loại giỏi
+Học bạ"
+TDTU,Thống kê,Thống kê,7460201,"A01, XDHB",28,"Toán nhân đôi
+Học bạ"
+TDTU,Kế toán,Kế toán,7340301,"D01, XDHB",36,"Toán nhân đôi
+Học bạ"
+TDTU,Marketing,Marketing,7340115,"D01, XDHB",37.5,"Anh nhân đôi
+Học bạ"
+TDTU,Luật,Luật,7380101,"D01, D14, XDHB",36.5,"D01: Anh nhân đôi
+D14: Văn nhân đôi
+Học bạ"
+TDTU,Golf,Golf,7810302,"D01, XDHB",27,"Anh nhân đôi
+Học bạ"
+TDTU,Quản trị Nhà hàng - Khách sạn,Quản trị kinh doanh,7340101N,"D01, XDHB",36.5,"Quản trị nhà hàng khách sạn
+Anh nhân đôi
+Học bạ"
+TDTU,Khoa học máy tính,Khoa học máy tính,7480101,"A01, XDHB",36.5,"Toán nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật cơ điện tử,7520114,"A01, XDHB",33,"Toán nhân đôi
+Học bạ"
+TDTU,Du lịch và Quản lý du lịch,Việt Nam học,7310630Q,"D14, XDHB",34.25,"Du lịch và quản lí du lịch
+Văn nhân đôi
+Học bạ"
+TDTU,Ngôn ngữ Anh,Ngôn ngữ Anh,F7220201,"D01, XDHB",35.5,"Chương trình chất lượng cao
+Anh nhân đôi
+Học bạ"
+TDTU,,Việt Nam học,F7310630Q,"D14, XDHB",31.5,"Chương trình chất lượng cao
+Văn nhân đôi
+Học bạ"
+TDTU,Quản trị nguồn nhân lực,Quản trị kinh doanh,F7340101,"D01, XDHB",35.5,"Quản trị nguồn nhân lực
+Chương trình chất lượng cao
+Anh nhân đôi
+Học bạ"
+TDTU,Quản trị Nhà hàng - Khách sạn,Quản trị kinh doanh,F7340101N,"D01, XDHB",34.5,"Quản trị nhà hàng khách sạn
+Chương trình chất lượng cao
+Anh nhân đôi
+Học bạ"
+TDTU,Marketing,Marketing,F7340115,"D01, XDHB",36,"Chương trình chất lượng cao
+Anh nhân đôi
+Học bạ"
+TDTU,Kinh doanh quốc tế,Kinh doanh quốc tế,F7340120,"D01, XDHB",36.25,"Chương trình chất lượng cao
+Anh nhân đôi
+Học bạ"
+TDTU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,F7340201,"D01, XDHB",34.5,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,Kế toán,Kế toán,F7340301,"D01, XDHB",33.5,"Chương trình chất lượng cao
+Anh nhân đôi
+Học bạ"
+TDTU,Luật,Luật,F7380101,"D01, D14, XDHB",34.5,"Chương trình chất lượng cao
+D01: Anh nhân đôi
+D14: Văn nhân đôi
+Học bạ"
+TDTU,Công nghệ sinh học,Công nghệ sinh học,F7420201,"B08, XDHB",27,"Chương trình chất lượng cao
+Sinh nhân đôi
+Học bạ"
+TDTU,Khoa học máy tính,Khoa học máy tính,F7480101,"A01, XDHB",34.5,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,Kỹ thuật phần mềm,Kỹ thuật phần mềm,F7480103,"A01, XDHB",35,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật điện,F7520201,"A01, XDHB",27,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật điện tử - viễn thông,F7520207,"A01, XDHB",27,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,,Kỹ thuật điều khiển và tự động hoá,F7520216,"A01, XDHB",27,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,Kỹ thuật xây dựng,Kỹ thuật xây dựng,F7580201,"A01, XDHB",27,"Chương trình chất lượng cao
+Toán nhân đôi
+Học bạ"
+TDTU,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"D01, D11",35.6,"Điểm TN THPT
+Anh nhân hệ số 2"
+TDTU,Du lịch và Lữ hành,Việt Nam học,7310630,"A01, D01, C00, C01",33.3,"Điểm TN THPT
+Chuyên ngành Du lịch và lữ hành
+A01, D01: Anh nhân hệ số 2
+C00, C01: Văn nhân hệ số 2"
+TDTU,Du lịch và Quản lý du lịch,Việt Nam học,7310630Q,"A01, D01, C00, C01",34.2,"Điểm TN THPT
+Chuyên ngành Du lịch và quản lý du lịch
+A01, D01: Anh nhân hệ số 2
+C00, C01: Văn nhân hệ số 2"
+TDTU,Quản trị nguồn nhân lực,Quản trị kinh doanh,7340101,"A00, A01, D01",36,"Điểm TN THPT 
+A00: Toán nhân hệ số 2
+A01, D01: Anh nhân hệ số 2"
+TDTU,Marketing,Marketing,7340115,"A00, A01, D01",36.9,"Điểm TN THPT 
+A00: Toán nhân hệ số 2 
+A01, D01: Anh nhân hệ số 2"
+TDTU,Quản trị Nhà hàng - Khách sạn,Quản trị kinh doanh,7340101N,"A00, A01, D01",35.1,"Điểm TN THPT 
+A00: Toán nhân hệ số 2 
+A01, D01: Anh nhân hệ số 2"
+TDTU,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01",36.3,"Điểm TN THPT 
+A00: Toán nhân hệ số 2 
+A01, D01: Anh nhân hệ số 2"
+TDTU,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D07",34.8,"Điểm TN THPT 
+A00: Toán nhân hệ số 2 
+A01, D01, D07: Anh nhân hệ số 2"
+TDTU,Kế toán,Kế toán,7340301,"A00, A01, D01, C01",34.8,"Điểm TN THPT 
+A00, C01: Toán nhân hệ số 2 
+A01, D01: Anh nhân hệ số 2"
+TDTU,Luật,Luật,7380101,"A00, A01, D01, C00",35,"Điểm TN THPT 
+A00, A01: Toán nhân hệ số 2 
+C00, D01: Văn nhân hệ số 2"
+TDTU,,Dược học,7720201,"A00, B00, D07",33.8,"Điểm TN THPT 
+Hóa nhân hệ số 2"
+TDTU,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"D01, D04, D11, D55",34.9,"Điểm TN THPT 
+D01, D11: Anh nhân hệ số 2  
+D04, D55: tiếng Trung nhân hệ số 2"
+TDTU,Công nghệ sinh học,Công nghệ sinh học,7420201,"A00, B00, D08",29.6,"Điểm TN THPT 
+A00: Hóa nhân hệ số 2 
+B00, D08: Sinh nhân hệ số 2"
+TDTU,,Kỹ thuật hoá học,7520301,"A00, B00, D07",32,"Điểm TN THPT 
+Hóa nhân hệ số 2"
+TDTU,Khoa học máy tính,Khoa học máy tính,7480101,"A00, A01, D01",34.6,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,Mạng máy tính và Truyền thông dữ liệu,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01, D01",33.4,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,Kỹ thuật phần mềm,Kỹ thuật phần mềm,7480103,"A00, A01, D01",35.2,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,,Kỹ thuật điện,7520201,"A00, A01, C01",29.7,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, C01",31,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, C01",33,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,,Kỹ thuật cơ điện tử,7520114,"A00, A01, C01",32,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,Kỹ thuật xây dựng,Kỹ thuật xây dựng,7580201,"A00, A01, C01",29.4,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,,Kiến trúc,7580101,"V00, V01",28,"Điểm TN THPT 
+Vẽ HHMT 
+Vẽ HHMT>=6"
+TDTU,Thiết kế công nghiệp,Thiết kế công nghiệp,7210402,"H00, H01, H02",30.5,"Điểm TN THPT 
+H00, H02: Vẽ HHMT>=6; Vẽ TTM>=6 
+H01: Vẽ HHMT>=6"
+TDTU,Thiết kế đồ họa,Thiết kế đồ họa,7210403,"H00, H01, H02",34,"Điểm TN THPT 
+H00, H02: Vẽ HHMT>=6; Vẽ TTM>=6 
+H01: Vẽ HHMT>=6"
+TDTU,,Thiết kế thời trang,7210404,"H00, H01, H02",30.5,"Điểm TN THPT 
+H00, H02: Vẽ HHMT>=6; Vẽ TTM>=6  
+H01: Vẽ HHMT>=6"
+TDTU,Thiết kế nội thất,Thiết kế nội thất,7580108,"V00, V01, H02",29,"Điểm TN THPT 
+Vẽ HHMT
+H02: Vẽ HHMT>=6; Vẽ TTM>=6 
+V00, V01: Vẽ HHMT>=6"
+TDTU,Quan hệ lao động,Quan hệ lao động,7340408,"A00, A01, D01, C01",32.5,"Chuyên ngành quản lí lao động, Chuyên ngành hành vi tổ chức 
+Điểm TN THPT 
+A00, C01: Toán nhân hệ số 2 
+A01, D01: Anh nhân hệ số 2"
+TDTU,,Quản lý thể dục thể thao,7810301,"A00, D01, T00, T01",32.8,"Điểm TN THPT 
+A01, D01: Anh nhân hệ số 2 
+T00, T01: NK TDTT 
+NK TDTT>=6"
+TDTU,Golf,Golf,7810302,"A00, D01, T00, T01",32.8,"Điểm TN THPT 
+A01, D01: Anh nhân hệ số 2  
+T00, T01: NK TDTT  
+NK TDTT>=6"
+TDTU,Xã hội học,Xã hội học,7310301,"A01, D01, C00, C01",32.9,"Điểm TN THPT 
+A01, D01: Anh nhân hệ số 2 
+C00, C01: Văn nhân hệ số 2"
+TDTU,,Công tác xã hội,7760101,"A01, D01, C00, C01",29.5,"Điểm TN THPT 
+A01, D01: Anh nhân hệ số 2 
+C00, C01: Văn nhân hệ số 2"
+TDTU,,Bảo hộ lao động,7850201,"A00, B00, D07, D08",23,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, D07, D08",23,"Điểm TN THPT 
+Chuyên ngành cấp thoát nước và môi trường nước 
+Toán nhân hệ số 2"
+TDTU,Khoa học môi trường,Khoa học môi trường,7440301,"A00, B00, D07, D08",23,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,Toán ứng dụng,Toán ứng dụng,7460112,"A00, A01",29.5,"Điểm TN THPT 
+Toán nhân hệ số 2  
+Toán<=5"
+TDTU,Thống kê,Thống kê,7460201,"A00, A01",28.5,"Điểm TN THPT 
+Toán nhân hệ số 2 
+Toán<=5"
+TDTU,,Quy hoạch vùng và đô thị,7580105,"A00, A01, V00, V01",24,"Điểm TN THPT 
+A00, A01: Toán nhân hệ số 2  
+V00, V01: Vẽ HHMT"
+TDTU,,Kỹ thuật xây dựng,7580205,"A00, A01, C01",24,"Điểm TN THPT 
+Toán nhân hệ số 2"
+TDTU,Trung Anh,Ngôn ngữ Trung Quốc,7220204,"D01, D04, D11, D55",34.9,Điểm TN THPT
+TDTU,,Quản trị nhà hàng khách sạn,K7340101N,"A01, D01",28,Chương trình liên kết đào tạo Quốc tế; Tốt nghiệp THPT
+VLU,,Kỹ thuật xây dựng,7580205,"A00, A01, D07",16,Điểm thi TN THPT
+VLU,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D03",19,Điểm thi TN THPT
+VLU,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, D07, D08",16,Điểm thi TN THPT
+VLU,,Kỹ thuật xét nghiệm y học,7720601,"A00, B00, D07, D08",19,Điểm thi TN THPT
+VLU,,Công nghệ kỹ thuật ô tô,7510205,"A00, A01, D01, C01",17,Điểm thi TN THPT
+VLU,,Thiết kế công nghiệp,7210402,"H05, H06, H03, H04",23,Điểm thi TN THPT
+VLU,,Quản trị khách sạn,7810201,"A00, A01, D01, D03",19,Điểm thi TN THPT
+VLU,,Thiết kế thời trang,7210404,"H05, H06, H03, H04",25,Điểm thi TN THPT
+VLU,,Thiết kế nội thất,7580108,"H05, H06, H03, H04",19,Điểm thi TN THPT
+VLU,,Kỹ thuật phần mềm,7480103,"A00, A01, D01, D10",17,Điểm thi TN THPT
+VLU,,Kinh doanh thương mại,7340121,"D01, C04, C01, C02",18,Điểm thi TN THPT
+VLU,,Thiết kế đồ họa,7210403,"H05, H06, H03, H04",26,Điểm thi TN THPT
+VLU,,Quản trị kinh doanh,7340101,"D01, C04, C01, C02",19,Điểm thi TN THPT
+VLU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, C04",19,Điểm thi TN THPT
+VLU,,Công nghệ thông tin,7480201,"A00, A01, D01, D10",18,Điểm thi TN THPT
+VLU,,Công nghệ sinh học,7420201,"A00, B00, D08, A02",16,Điểm thi TN THPT
+VLU,,Quản lý xây dựng,7580302,"A00, A01, D01, D07",16,Điểm thi TN THPT
+VLU,,Quan hệ công chúng,7320108,"A00, A01, D01, C00",24.5,Điểm thi TN THPT
+VLU,,Đông phương học,7310608,"A01, D01, C00",18,Điểm thi TN THPT
+VLU,,Công nghệ Kỹ thuật Nhiệt,7520115,"A00, A01, D07",16,"Kỹ thuật nhiệt
+Điểm thi TN THPT"
+VLU,,Điều dưỡng,7720301,"B00, D07, D08, C08",19,Điểm thi TN THPT
+VLU,,Luật,7380107,"A00, A01, D01, C00",17,"Luật kinh tế
+Điểm thi TN THPT"
+VLU,,Ngôn ngữ Anh,7220201,"D01, D08, D10",18,Điểm thi TN THPT
+VLU,,Tâm lý học,7310401,"B00, B03, D01, C00",19,Điểm thi TN THPT
+VLU,,Dược học,7720201,"A00, B00, D07",21,Điểm thi TN THPT
+VLU,,Kiến trúc,7580101,"V00, V01, H02",17,Điểm thi TN THPT
+VLU,,Thanh nhạc,7210205,N00,22,Điểm thi TN THPT
+VLU,,Kế toán,7340301,"A00, A01, D01, D10",17,Điểm thi TN THPT
+VLU,,Văn học,7229030,"D01, C00, D14, D66",16,"Văn học ứng dụng
+Điểm thi TN THPT"
+VLU,,Luật,7380101,"A00, A01, D01, C00",17,Điểm thi TN THPT
+VLU,,Piano,7210208,N00,22,Điểm thi TN THPT
+VLU,,Kỹ thuật xây dựng,7580201,"A00, A01, XDHB",18,Xét học bạ
+VLU,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D03, XDHB",18,Xét học bạ
+VLU,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, D07, D08, XDHB",18,Xét học bạ
+VLU,,Kỹ thuật xét nghiệm y học,7720601,"A00, B00, D07, D08, XDHB",19,Xét học bạ
+VLU,,Công nghệ kỹ thuật ô tô,7510205,"A00, A01, D01, C01, XDHB",18,Xét học bạ
+VLU,,Thiết kế công nghiệp,7210402,"H05, H06, H03, H04",24,Xét học bạ
+VLU,,Quản trị khách sạn,7810201,"A00, A01, D01, D03, XDHB",18,Xét học bạ
+VLU,,Thiết kế thời trang,7210404,"H05, H06, H03, H04, XDHB",24,Xét học bạ
+VLU,,Thiết kế nội thất,7580108,"H05, H06, H03, H04, XDHB",24,Xét học bạ
+VLU,,Kỹ thuật phần mềm,7480103,"A00, A01, D01, D10, XDHB",18,Xét học bạ
+VLU,,Kinh doanh thương mại,7340121,"D01, C04, C01, C02, XDHB",18,Xét học bạ
+VLU,,Thiết kế đồ họa,7210403,"H05, H06, H03, H04, XDHB",24,Xét học bạ
+VLU,,Quản trị kinh doanh,7340101,"D01, C04, C01, C02, XDHB",18,Xét học bạ
+VLU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, C04, XDHB",18,Xét học bạ
+VLU,,Công nghệ thông tin,7480201,"A00, A01, D01, D10, XDHB",18,Xét học bạ
+VLU,,Công nghệ sinh học,7420201,"A00, B00, D08, A02, XDHB",18,Xét học bạ
+VLU,,Quản lý xây dựng,7580302,"A00, A01, D01, D07",18,Xét học bạ
+VLU,,Quan hệ công chúng,7320108,"A00, A01, D01, C00, XDHB",18,Xét học bạ
+VLU,,Đông phương học,7310608,"A01, D01, C00, XDHB",18,Xét học bạ
+VLU,,Công nghệ Kỹ thuật Nhiệt,7520115,"A00, A01, D07, XDHB",18,"Kỹ thuật nhiệt
+Xét học bạ"
+VLU,,Điều dưỡng,7720301,"B00, D07, D08, C08, XDHB",19.5,Xét học bạ
+VLU,,Luật,7380107,"A00, A01, D01, C00, XDHB",18,"Luật kinh tế
+Xét học bạ"
+VLU,,Ngôn ngữ Anh,7220201,"D01, D08, D10, XDHB",24,Xét học bạ
+VLU,,Tâm lý học,7310401,"B00, B03, D01, C00, XDHB",18,
+VLU,,Dược học,7720201,"A00, B00, D07, XDHB",24,Xét học bạ
+VLU,,Kiến trúc,7580101,"V00, V01, H02, XDHB",24,Xét học bạ
+VLU,,Thanh nhạc,7210205,"N00, XDHB",24,Xét học bạ
+VLU,,Kế toán,7340301,"A00, A01, D01, D10, XDHB",18,Xét học bạ
+VLU,,Văn học,7229030,"D01, C00, D14, D66, XDHB",18,Xét học bạ
+VLU,,Luật,7380101,"A00, A01, D01, C00, XDHB",18,Xét học bạ
+VLU,,Piano,7210208,N00,24,Xét học bạ
+VLU,,Kỹ thuật xây dựng,7580201,DGNL,650,
+VLU,,Quản trị dịch vụ du lịch và lữ hành,7810103,DGNL,650,
+VLU,,Công nghệ kỹ thuật môi trường,7510406,DGNL,650,
+VLU,,Kỹ thuật xét nghiệm y học,7720601,DGNL,700,
+VLU,,Công nghệ kỹ thuật ô tô,7510205,DGNL,650,
+VLU,,Thiết kế công nghiệp,7210402,DGNL,650,
+VLU,,Quản trị khách sạn,7810201,DGNL,650,
+VLU,,Thiết kế thời trang,7210404,DGNL,650,
+VLU,,Thiết kế nội thất,7580108,DGNL,650,
+VLU,,Kỹ thuật phần mềm,7480103,DGNL,650,
+VLU,,Kinh doanh thương mại,7340121,DGNL,650,
+VLU,,Thiết kế đồ họa,7210403,DGNL,650,
+VLU,,Quản trị kinh doanh,7340101,DGNL,650,
+VLU,,Tài chính - Ngân hàng,7340201,DGNL,650,
+VLU,,Công nghệ thông tin,7480201,DGNL,650,
+VLU,,Công nghệ sinh học,7420201,DGNL,650,
+VLU,,Quản lý xây dựng,7580302,DGNL,650,
+VLU,,Quan hệ công chúng,7320108,DGNL,650,
+VLU,,Đông phương học,7310608,DGNL,650,
+VLU,,Công nghệ Kỹ thuật Nhiệt,7520115,DGNL,650,Kỹ thuật nhiệt
+VLU,,Điều dưỡng,7720301,DGNL,700,
+VLU,,Luật,7380107,DGNL,650,Luật kinh tế
+VLU,,Ngôn ngữ Anh,7220201,DGNL,650,
+VLU,,Tâm lý học,7310401,DGNL,650,
+VLU,,Dược học,7720201,DGNL,750,
+VLU,,Kiến trúc,7580101,DGNL,650,
+VLU,,Thanh nhạc,7210205,DGNL,650,
+VLU,,Kế toán,7340301,DGNL,650,
+VLU,,Văn học,7229030,DGNL,650,
+VLU,,Luật,7380101,DGNL,650,
+VLU,,Piano,7210208,DGNL,650,
+VLU,,Marketing,7340115,"A00, A01, D01, C01",19.5,Điểm thi TN THPT
+VLU,,Marketing,7340115,"A00, A01, D01, C01, XDHB",18,Xét học bạ
+VLU,,Marketing,7340115,DGNL,650,
+VLU,,Công nghệ sinh học Y dược,7420205,"A00, B00, D07, D08",16,Điểm thi TN THPT
+VLU,,Công nghệ sinh học Y dược,7420205,"A00, B00, D07, D08, XDHB",18,Xét học bạ
+VLU,,Công nghệ sinh học Y dược,7420205,DGNL,650,
+VLU,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01, D01, C01",17,Điểm thi TN THPT
+VLU,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01, D01, C01, XDHB",18,Xét học bạ
+VLU,,"Công nghệ kỹ thuật điện, điện tử",7510301,DGNL,650,
+VLU,,Quản trị môi trường doanh nghiệp,7510606,"A00, B00, D07, D08",16,Điểm thi TN THPT
+VLU,,Quản trị môi trường doanh nghiệp,7510606,"A00, B00, D07, D08, XDHB",18,Xét học bạ
+VLU,,Quản trị môi trường doanh nghiệp,7510606,DGNL,650,
+VLU,,Thiết kế xanh,7589001,"A00, B00, A01, D08",16,Điểm thi TN THPT
+VLU,,Thiết kế xanh,7589001,"A00, B00, A01, D08",18,Xét học bạ
+VLU,,Thiết kế xanh,7589001,DGNL,650,
+VLU,,Nông nghiệp công nghệ cao,7620118,"A00, B00, D07, D08",16,Điểm thi TN THPT
+VLU,,Nông nghiệp công nghệ cao,7620118,"A00, B00, D07, D08, XDHB",18,Xét học bạ
+VLU,,Nông nghiệp công nghệ cao,7620118,DGNL,650,
+VLU,,Răng - Hàm - Mặt,7720501,"A00, B00, D07, D08",24,Điểm thi TN THPT
+VLU,,Răng - Hàm - Mặt,7720501,"A00, B00, D07, D08, XDHB",24,Xét học bạ
+VLU,,Răng - Hàm - Mặt,7720501,DGNL,750,
+VLU,,Công tác xã hội,7760101,"D01, C00, C20, C14",18,Điểm thi TN THPT
+VLU,,Công tác xã hội,7760101,"D01, C00, C20, C14, XDHB",18,Xét học bạ
+VLU,,Công tác xã hội,7760101,DGNL,650,
+VLU,,"Diễn viên kịch, điện ảnh - truyền hình",7210234,S00,20,Điểm thi TN THPT
+VLU,,"Diễn viên kịch, điện ảnh - truyền hình",7210234,DGNL,650,
+VLU,,Ngôn ngữ Trung Quốc,7220204,"A01, D01, D04, D11, XDHB",16,Điểm thi TN THPT
+VLU,,"Đạo diễn điện ảnh, truyền hình",7210235,DGNL,650,
+VLU,,Ngôn ngữ Trung Quốc,7220204,DGNL,650,
+VLU,,Bất động sản,7340116,DGNL,650,
+VLU,,Khoa học dữ liệu,7480109,DGNL,650,
+VLU,,Logistics và Quản lý chuỗi cung ứng,7510605,DGNL,650,
+VLU,,Kỹ thuật cơ điện tử,7520114,DGNL,650,
+VLU,,Công nghệ thực phẩm,7540101,DGNL,650,
+VLU,,kỹ thuật xây dựng công trình giao thông,7580205,DGNL,650,
+VLU,,Quản trị nhà hàng và dịch vụ ăn uống,7810202,DGNL,650,
+VLU,,"Đạo diễn điện ảnh, truyền hình",7210235,"S00, XDHB",24,Xét học bạ
+VLU,,Bất động sản,734016,"A00, A01, D01, C04, XDHB",18,Xét học bạ
+VLU,,Khoa học dữ liệu,7480109,"A00, A01, D01, C01, XDHB",18,Xét học bạ
+VLU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C01",18,Xét học bạ
+VLU,,Kỹ thuật cơ điện tử,7520114,"A00, A01, D01, C01, XDHB",18,Xét học bạ
+VLU,,Công nghệ thực phẩm,7540101,"A00, B00, D07, C02, XDHB",18,Xét học bạ
+VLU,,kỹ thuật xây dựng công trình giao thông,7580205,"A00, A01, D07",18,Xét học bạ
+VLU,,Quản trị nhà hàng và dịch vụ ăn uống,7810202,"A00, A01, D01, D03, XDHB",18,Xét học bạ
+VLU,,"Đạo diễn điện ảnh, truyền hình",7210235,S00,20,Điểm thi TN THPT
+VLU,,Bất động sản,7340116,"A00, A01, D01, C04",19,Điểm thi TN THPT
+VLU,,Khoa học dữ liệu,7480109,"A00, A01, D01, C00",16,Điểm thi TN THPT
+VLU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C00",20,Điểm thi TN THPT
+VLU,,Kỹ thuật cơ điện tử,7520114,"D01, C00",16,Điểm thi TN THPT
+VLU,,Công nghệ thực phẩm,7540101,"A00, B00, D07, C02",16,Điểm thi TN THPT
+VLU,,kỹ thuật xây dựng công trình giao thông,7580205,"A00, A01, D01, D07",16,Điểm thi TN THPT
+VLU,,Quản trị nhà hàng và dịch vụ ăn uống,7810202,"A00, A01, D01, D03",17,Điểm thi TN THPT
+IUH,,Công nghệ chế tạo máy,7510202,"A00, A01, D90, C01, XDHB",20.5,Học bạ
+IUH,,Công nghệ chế tạo máy,7510202C,"A00, A01, D90, C01, XDHB",18,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ thực phẩm,7540101,"A00, B00, D90, D07, XDHB",21,Học bạ
+IUH,,Công nghệ thực phẩm,7540101C,"A00, B00, D90, D07, XDHB",17,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ sinh học,7420201C,"A00, B00, D90, D07, XDHB",17,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ hóa học,7510401C,"A00, B00, D90, D07, XDHB",17,"Học bạ
+CT chất lượng cao"
+IUH,,Tài chính - Ngân hàng,7340201C,"A00, D01, D90, C01, XDHB",22.5,Học bạ
+IUH,,Kinh doanh quốc tế,7340120C,"A01, D01, D96, C01, XDHB",19,Học bạ
+IUH,,Kế toán - Kiểm toán,7340301C,"A00, A01, D01, D90, XDHB",19,"Học bạ
+CT chất lượng cao"
+IUH,,Marketing,7340115,"A01, D01, D96, C01, XDHB",24.5,Học bạ
+IUH,,Marketing,7340115C,"A01, D01, D96, C01, XDHB",19,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ kỹ thuật điện tử - viễn thông,7510302C,"A00, A01, D90, C01, XDHB",17,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,"A00, A01, D90, C01, XDHB",17,Học bạ
+IUH,,Kỹ thuật xây dựng,7580201,"A00, A01, D90, C01, XDHB",18,Học bạ
+IUH,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A01, D01, D96, C01, XDHB",22,"Học bạ
+Gồm 3 chuyên ngành: Quản trị dịch và du lịch và lữ hành; Quản trị khách sạn; Quản trị nhà hàng và dịch vụ ăn uống"
+IUH,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01, D90, C01, XDHB",20.5,"Học bạ
+Gồm 2 chuyên ngành: Công nghệ điện, điện tử và Năng lượng tái tạo"
+IUH,,"Công nghệ kỹ thuật điện, điện tử",7510301C,"A00, A01, D90, C01, XDHB",18,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ kỹ thuật cơ điện tử,7510203C,"A00, A01, D90, C01, XDHB",18,"Học bạ
+CT chất lượng cao"
+IUH,,Dinh dưỡng và khoa học thực phẩm,7720497,"A00, B00, D90, D07, XDHB",17,Học bạ
+IUH,,Công nghệ kỹ thuật cơ điện tử,7510203,"A00, A01, D90, C01, XDHB",22.5,Học bạ
+IUH,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, D07, C02, XDHB",17,Học bạ
+IUH,,Công nghệ kỹ thuật môi trường,7510406C,"A00, B00, D07, C02, XDHB",19,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ kỹ thuật máy tính,7480108,"A00, A01, D90, C01, XDHB",21,Học bạ
+IUH,,Công nghệ kỹ thuật cơ khí,7510201C,"A00, A01, D90, C01, XDHB",18,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ kỹ thuật cơ khí,7510201,"A00, A01, D90, C01, XDHB",22.05,Học bạ
+IUH,,Công nghệ kỹ thuật ô tô,7510205,"A00, A01, D90, C01, XDHB",23,Học bạ
+IUH,,Thương mại điện tử,7340122,"A01, D01, D90, C01, XDHB",22.5,Học bạ
+IUH,,Thiết kế thời trang,7210404,"A00, D01, D90, C01, XDHB",19,Học bạ
+IUH,,"Công nghệ dệt, may",7540204,"A00, D01, D90, C01, XDHB",18,Học bạ
+IUH,,Quản trị kinh doanh,7340101C,"A01, D01, D96, C01, XDHB",19,"Học bạ
+CT chất lượng cao"
+IUH,,Tài chính - Ngân hàng,7340201C,"A00, D01, D90, C01, XDHB",19,"Học bạ
+CT chất lượng cao"
+IUH,,Công nghệ thông tin,7480201,"A00, D01, D90, C01, XDHB",23,"Học bạ
+gồm 4 ngành: Công nghệ thông tin; kỹ thuật phần mềm; Khoa học máy tính; Hệ thống thông tin."
+IUH,,Quản trị kinh doanh,7340101,"A01, D01, D96, C01, XDHB",22.75,Học bạ
+IUH,,Công nghệ sinh học,7420201,"A00, B00, D90, D07, XDHB",18,Học bạ
+IUH,,Quản lý đất đai,7850103,"A01, D01, D96, C01, XDHB",17,Học bạ
+IUH,,Kinh doanh quốc tế,7340120,"A01, D01, D96, C01, XDHB",23.5,Học bạ
+IUH,,Luật,7380108,"A00, D01, D96, C00, XDHB",20.5,"Học bạ
+Luật quốc tế"
+IUH,,Luật,7380107,"A00, D01, D96, C00, XDHB",23.25,"Học bạ
+Ngành: Luật kinh tế"
+IUH,,Ngôn ngữ Anh,7220201,"D01, D96, D14, D15, XDHB",20.5,Học bạ
+IUH,,Kế toán - Kiểm toán,7340301,"A00, A01, D01, D90, XDHB",21.5,"Học bạ
+Gồm 2 chuyên ngành: Kế toán và Kiểm toán"
+IUH,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,"A00, A01, D90, C01, XDHB",21.05,Học bạ
+IUH,,Công nghệ Kỹ thuật Nhiệt,7510206,"A00, A01, D90, C01, XDHB",17,Học bạ
+IUH,,IOT và trí tuệ nhân tạo,7510304,"A00, A01, D90, C01, XDHB",17,"Học bạ
+Ngành IOT và Trí tuệ nhân tạo ứng dụng"
+IUH,,Quản lý tài nguyên và môi trường,7850101,"B00, D96, D90, C02, XDHB",17,Học bạ
+IUH,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303C,"A00, A01, D90, C01, XDHB",18,"Học bạ
+CT chất lượng cao"
+IUH,,Khoa học dữ liệu,7480109,"A00, D01, D90, C01, XDHB",23,Học bạ
+IUH,,Công nghệ hóa học,7510401,"A00, B00, D07, C02, XDHB",23,"Học bạ
+Gồm 4 chuyên ngành: Kỹ thuật Hóa phân tích; Công nghệ lọc - Hóa dầu; Công nghệ hữu cơ - Hóa dược; Công nghệ Vô cơ - Vật liệu"
+IUH,,Đảm bảo chất lượng và an toàn thực phẩm,7540106,"A00, B00, D90, D07, XDHB",17,Học bạ
+IUH,,kỹ thuật xây dựng công trình giao thông,7580205,"A00, A01, D90, C01, XDHB",17,Học bạ
+SIU,,Quản trị kinh doanh,7340101,"A00, A01, D01, C00",17,.
+SIU,,Luật,7380107,"A00, A01, D01, D96",18,Ngành Luật kinh tế Quốc tế
+SIU,,Ngôn ngữ Anh,7220201,"D01, D15, D78, D72",17,.
+SIU,,Khoa học máy tính,7480101,"A00, A01, D01, D90",18,.
+SIU,,Kế toán,7340301,"A00, A01, D01, D90",17,.
+SIU,,Quản trị khách sạn,7810201,"A00, A01, D01, C00",17,.
+SIU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C00",17,.
+HVUH,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, C00",17,
+HVUH,,Ngôn ngữ Trung Quốc,7220204,"D01, C00, D15, D04",19,
+HVUH,,Công nghệ thông tin,7480201,"A00, A01, D01, C14",16,
+HVUH,,Tài chính - Ngân hàng,7340201,"A00, D01, C00, C04",17,
+HVUH,,Quản trị kinh doanh,7340101,"A00, D01, C00, C01",17,
+HVUH,,Ngôn ngữ Anh,7220201,"D01, D14, D15, D66",19,
+HVUH,,Kế toán,7340301,"A00, D01, C03, C14",17,
+HVUH,,Du lịch,7810101,"D01, C00, D15, C20",17,
+HVUH,,Công tác xã hội,7760101,"D01, C00, D15, C20",17,
+HVUH,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, B00, A01, D01",16,
+HVUH,,Khoa học cây trồng,7620110,"A00, B00, D07, D08",17,
+HVUH,,Chăn nuôi,7620105,"A00, B00, D07, D08",17,
+HVUH,,Thú y,7640101,"A00, B00, D07, D08",17,
+HVUH,,Giáo dục Tiểu học,7140202,"A00, D01, C00, C19",26,
+HVUH,,Sư phạm Toán học,7140209,"A00, B00, A01, D07",24,
+HVUH,,Sư phạm Tiếng Anh,7140231,"D01, D14, D15, D11",24.75,
+HVUH,,Sư phạm Ngữ văn,7140217,"C00, D14, D15, C19",25.75,
+HVUH,,Giáo dục Mầm non,7140201,"M00, M10, M05, M07",32,Năng khiếu x2
+HVUH,,Giáo dục Thể chất,7140206,"T00, T02, T05, T07",32,Năng khiếu x2
+HVUH,,Sư phạm Âm nhạc,7140221,"N00, N01",32,Năng khiếu x2
+HVUH,,Sư phạm Hóa học,7140212,"V00, V01, V02, V03",24,
+HVUH,,Điều dưỡng,7720301,"A00, B00, D07, D08",19,
+HVUH,,Kinh tế,7310101,"A00, A01, D01, A09",17,
+HVUH,,Công nghệ kỹ thuật cơ khí,7510201,"A00, B00, A01, D01",16,
+HVUH,,Sư phạm Mỹ thuật,7140222,"V00, V01, V02, V03",32,Năng khiếu x2
+HVUH,,Sư phạm Vật lý,7140211,"A00, A01, A02, A10",24,
+HVUH,,Sư phạm Sinh học,7140213,"B00, B03, D08, A02",24,
+HVUH,,Sư phạm Lịch sử,7140218,"C00, D14, C19, C03",25.75,
+HVUH,,Sư phạm Địa lý,7140219,"C00, D15, C04, C20",20,
+UFM,Quản trị nhà hàng và dịch vụ ăn uống,Quản trị nhà hàng và dịch vụ ăn uống,7810202D,"A00, A01, D01, D96",24.3,Điểm thi TN THPT
+UFM,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103D,"D01, D96, D78, D72",22,Điểm thi TN THPT
+UFM,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405D,"A00, A01, D01, D96",25.2,Điểm thi TN THPT
+UFM,Quản trị khách sạn,Quản trị khách sạn,7810201,"A00, A01, D01, D96",24.5,Điểm thi TN THPT
+UFM,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D96",25.9,Điểm thi TN THPT
+UFM,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, D96",26.4,Điểm thi TN THPT
+UFM,Marketing,Marketing,7340115,"A00, A01, D01, D96",27.1,Điểm thi TN THPT
+UFM,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D96",25.4,Điểm thi TN THPT
+UFM,Bất động sản,Bất động sản,7340116,"A00, A01, D01, D96",23.5,Điểm thi TN THPT
+UFM,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A00, A01, D01, D96",26.1,Điểm thi TN THPT
+UFM,Kế toán,Kế toán,7340301,"A00, A01, D01, D96",25.3,Điểm thi TN THPT
+UFM,Quản trị nhà hàng và dịch vụ ăn uống,Quản trị nhà hàng và dịch vụ ăn uống,7810202D,"A00, A01, D01, D96, XDHB",25,Học bạ
+UFM,Quản trị nhà hàng và dịch vụ ăn uống,Quản trị nhà hàng và dịch vụ ăn uống,7810202D,DGNLHCM,750,
+UFM,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103D,DGNLHCM,750,
+UFM,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103D,"A00, A01, D01, D96, XDHB",25,Học bạ
+UFM,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405D,"A00, A01, D01, D96, XDHB",25,Học bạ
+UFM,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405D,DGNLHCM,780,
+UFM,Quản trị khách sạn,Quản trị khách sạn,7810201,DGNLHCM,750,
+UFM,Quản trị khách sạn,Quản trị khách sạn,7810201,"A00, A01, D01, D96, XDHB",25,Học bạ
+UFM,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, D96, XDHB",27,Học bạ
+UFM,Quản trị kinh doanh,Quản trị kinh doanh,7340101,DGNL,850,
+UFM,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, D96, XDHB",28,Học bạ
+UFM,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,DGNL,900,
+UFM,Marketing,Marketing,7340115,DGNL,900,
+UFM,Marketing,Marketing,7340115,"A00, A01, D01, D96, XDHB",28,Học bạ
+UFM,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,DGNL,820,
+UFM,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D96, XDHB",26.5,Học bạ
+UFM,Bất động sản,Bất động sản,7340116,"A00, A01, D01, D96, XDHB",26,Học bạ
+UFM,Bất động sản,Bất động sản,7340116,DGNL,800,
+UFM,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,DGNLHCM,800,
+UFM,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A00, A01, D01, D96, XDHB",26.5,Học bạ
+UFM,Kế toán,Kế toán,7340301,DGNLHCM,820,
+UFM,Kế toán,Kế toán,7340301,"A00, A01, D01, D96, XDHB",26.5,Học bạ
+UFM,Kinh tế,Kinh tế,7310101,"A00, A01, D01, D96",25.8,Điểm thi TN THPT
+UFM,Kinh tế,Kinh tế,7310101,"A00, A01, D01, D96, XDHB",26,Học bạ
+UFM,Kinh tế,Kinh tế,7310101,DGNLHCM,850,
+UFM,Luật kinh tế,Luật,7380107,"A00, A01, D01, D96, XDHB",26.5,"Học bạ
+Luật kinh tế"
+UFM,Luật kinh tế,Luật,7380107,DGNLHCM,850,Luật kinh tế
+UFM,Toán kinh tế,Toán kinh tế,7310108,"A00, A01, D01, D96, XDHB",26,"chuyên ngành Tài chính định lượng
+Học bạ"
+UFM,Toán kinh tế,Toán kinh tế,7310108,DGNLHCM,800,chuyên ngành Tài chính định lượng
+UFM,Toán kinh tế,Toán kinh tế,7310108,"A00, A01, D01, D96",21.25,Điểm thi TN THPT
+UFM,Quản trị kinh doanh,Quản trị kinh doanh,7340101C,"A00, A01, D01, D96",25.3,"Điểm thi TN THPT
+CLC"
+UFM,Marketing,Marketing,7340115C,"A00, A01, D01, D96",26.2,"Điểm thi TN THPT
+CLC"
+UFM,Kế toán,Kế toán,7340301C,"A00, A01, D01, D96",24.2,"Điểm thi TN THPT
+CLC"
+UFM,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201C,"A00, A01, D01, D96",24.6,"Điểm thi TN THPT
+CLC"
+UFM,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120C,"A00, A01, D01, D96",25.5,"Điểm thi TN THPT
+CLC - Thương mại quốc tế"
+UFM,Bất động sản,Bất động sản,7340116C,"A00, A01, D01, D96",23.5,"Điểm thi TN THPT
+CLC"
+STU,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,"A00, A01, D01, D07",15,
+STU,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01, D01, D07",15,
+STU,,Công nghệ kỹ thuật cơ điện tử,7510203,"A00, A01, D01, D07",15,
+STU,,Thiết kế công nghiệp,7210402,"A00, A01, D01, H06",15,
+STU,,Công nghệ thực phẩm,7540101,"A00, B00, B08, D07",15,
+STU,,Kỹ thuật xây dựng,7580201,"A00, A01, D01, D07",15,
+STU,,Công nghệ thông tin,7480201,"A00, A01, D01, C01",15,
+STU,,Quản trị kinh doanh,7340101,"A00, A01, D01, D09",15,
+VAA,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,"A00, A01, D90, D07",18,Điểm thi TN THPT
+VAA,,Quản lý hoạt động bay,7840102,"A00, D01, D96, D78",26.3,Điểm thi TN THPT
+VAA,,Kỹ thuật Hàng không,7520120,"A00, A01, D90, D07",25,Điểm thi TN THPT
+VAA,,Quản trị kinh doanh,7340101,"A00, D01, D96, D78",23.4,Điểm thi TN THPT
+VAA,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,DGNL,700,
+VAA,,Quản trị kinh doanh,7340101,DGNL,800,
+VAA,,Công nghệ kỹ thuật điện tử - viễn thông,7510302,"A00, A01, D90, XDHB",21,Học bạ
+VAA,,Quản trị kinh doanh,7340101,"A00, A01, D01, D96, XDHB",26,Học bạ
+VAA,,Công nghệ thông tin,7480201,"A01, D01, D90, D07, XDHB",24,Học bạ
+VAA,,Ngôn ngữ Anh,7220201,"A01, D01, D96, D78, XDHB",26,Học bạ
+VAA,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,"A00, A01, D90, D07, XDHB",21,Học bạ
+VAA,,Công nghệ thông tin,7480201,DGNL,700,
+VAA,,Ngôn ngữ Anh,7220201,DGNL,800,
+VAA,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,DGNL,700,
+VAA,,Ngôn ngữ Anh,7220201,"A00, D01, D96, D78",24.6,Điểm thi TN THPT
+VAA,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,"A00, A01, D90, D07",18,Điểm thi TN THPT
+VAA,,Công nghệ thông tin,7480201,"A00, A01, D90, D07",21.6,Điểm thi TN THPT
+HIU,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HIU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, D90",15,Điểm thi TN THPT
+HIU,,Kỹ thuật phục hồi chức năng,7720603,"A00, B00, D90, D07",19,Điểm thi TN THPT
+HIU,,Truyền thông đa phương tiện,7320104,"A01, D01, C00, D78",15,Điểm thi TN THPT
+HIU,,Kỹ thuật xét nghiệm y học,7720601,"A00, B00, D90, D07",19,Điểm thi TN THPT
+HIU,,Quản trị khách sạn,7810201,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HIU,,Thiết kế thời trang,7210404,"H00, V00, V01, H02",15,Điểm thi TN THPT
+HIU,,Thiết kế đồ họa,7210403,"H00, V00, V01, H02",15,Điểm thi TN THPT
+HIU,,Kỹ thuật xây dựng,7580201,"A00, A01, D01, D90",15,Điểm thi TN THPT
+HIU,,Giáo dục Thể chất,7140206,"T00, T02, T03, T07",18,Điểm thi TN THPT
+HIU,,Công nghệ thông tin,7480201,"A00, A01, D01, D90",15,Điểm thi TN THPT
+HIU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D90",15,Điểm thi TN THPT
+HIU,,Quản trị kinh doanh,7340101,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HIU,,Quan hệ quốc tế,7310206,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HIU,,Giáo dục Mầm non,7140201,"M00, M01, M11",19,Điểm thi TN THPT
+HIU,,Răng - Hàm - Mặt,7720501,"A00, B00, D90, D07",22,Điểm thi TN THPT
+HIU,,Trung Quốc học,7310612,"A01, D01, C00, D04",15,Điểm thi TN THPT
+HIU,,Nhật Bản học,7310613,"A01, D01, C00, D06",15,Điểm thi TN THPT
+HIU,,Hàn Quốc học,7310614,"A01, D01, C00, D78",15,Điểm thi TN THPT
+HIU,,Điều dưỡng,7720301,"A00, B00, D90, D07",19,Điểm thi TN THPT
+HIU,,Luật,7380107,"A00, D01, C00, A08",15,"Luật kinh tế
+Điểm thi TN THPT"
+HIU,,Việt Nam học,7310630,"A01, D01, C00, D78",15,Điểm thi TN THPT
+HIU,,Ngôn ngữ Anh,7220201,"A01, D01, D96, D14",15,Điểm thi TN THPT
+HIU,,Dược học,7720201,"A00, B00, D90, D07",21,Điểm thi TN THPT
+HIU,,Kiến trúc,7580101,"A00, D01, V00, V01",15,Điểm thi TN THPT
+HIU,,Kế toán,7340301,"A00, A01, D01, D90",15,Điểm thi TN THPT
+HIU,,Luật,7380101,"A00, D01, C00, C14",15,Điểm thi TN THPT
+HIU,,Y khoa,7720101,"A00, B00, D90, D07",22,Điểm thi TN THPT
+HIU,,Marketing,7340114,"A00, A01, D01, C00",15,"Digital marketing
+Điểm thi TN THPT"
+HIU,,Quản lý công nghiệp,7510601,"A00, A01, D01, D90",15,Điểm thi TN THPT
+HIU,,Công nghệ sinh học,7420201,"A00, B00, A01, A02",15,Điểm thi TN THPT
+HIU,,Tâm lý học,7310401,"B00, B03, D01, C00",15,Điểm thi TN THPT
+HIU,,Quản trị sự kiện,7340412,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HIU,,Quan hệ công chúng,7320108,"A00, A01, D01, C00",15,Điểm thi TN THPT
+HIU,,Quản lý giáo dục,7140114,"A00, D01, C00",15,Điểm thi TN THPT
+HIU,,Y học cổ truyền,7720115,"A00, B00, D90, D07",21,Điểm thi TN THPT
+HIU,,Digital Marketing,7340114,"A00, A01, D01, C00",16,Chương trình Tiếng Anh; Tốt nghiệp THPT
+HCMUNRE,,Quản lý tài nguyên và môi trường,7850197,"A00, B00, A01, A14",15,"Quản lý tài nguyên và môi trường biển đảo
+Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Biến đổi khí hậu và Phát triển bền vững,7440298,"A00, B00, A01, D01",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Quản lý tổng hợp tài nguyên nước,7850195,"A00, B00, A01, D01",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Quản lý tài nguyên và môi trường,7850101,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Kỹ thuật trắc địa - bản đồ,7520503,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Quản lý tài nguyên khoáng sản,7850196,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Kinh tế,7850102,"A00, B00, A01, D01",15,"Kinh tế tài nguyên thiên nhiên
+Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Khí tượng và khí hậu học,7440221,"A00, B00, A01, D01",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Kỹ thuật cấp thoát nước,7580213,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Kỹ thuật tài nguyên nước,7580212,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Hệ thống thông tin,7480104,"A00, B00, A01, D01",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Công nghệ thông tin,7480201,"A00, B00, A01, D01",24,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Quản lý đất đai,7850103,"A00, B00, A01, D01",22,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Địa chất học,7440201,"A00, B00, A01, A02",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Thuỷ văn học,7440224,"A00, B00, A01, D01",15,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+HCMUNRE,,Quản trị kinh doanh,7340101,"A00, B00, A01, D01",24,"Điểm môn toán nhân hệ số 2
+Điểm thi TN THPT"
+SM,,Răng - Hàm - Mặt,7720501_CLC,DGNL,979,
+SM,,Dược học,7720201_CLC,DGNL,971,
+SM,,Y khoa,7720101_CLC,DGNL,996,
+TLU,,Kỹ thuật tài nguyên nước,TLS102,"A00, A01, D01, D07",15.2,
+TLU,,Xây dựng công trình thủy,TLS101,"A00, A01, D01, D07",15.2,
+TLU,,Kỹ thuật xây dựng,TLS104,"A00, A01, D01, D07",15.05,
+TLU,,Công nghệ thông tin,TLS106,"A00, A01, D01, D07",16,
+TLU,,Kỹ thuật cấp thoát nước,TLS107,"A00, A01, D01, D07",15.2,
+TLU,,Công nghệ kỹ thuật xây dựng,TLS111,"A00, A01, D01, D07",15.2,
+TLU,,Quản trị kinh doanh,TLS402,"A00, A01, D01, D07",16.05,
+TLU,,Kế toán,TLS403,"A00, A01, D01, D07",15,
+TLU,,kỹ thuật xây dựng công trình giao thông,TLS113,"A00, A01, D01, D07",16,
+PNTU,Kỹ thuật xét nghiệm y học,Kỹ thuật xét nghiệm y học,7720601TP,B00,25.6,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Kỹ thuật xét nghiệm y học,Kỹ thuật xét nghiệm y học,7720601TQ,B00,25.7,"Điểm thi TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Kỹ thuật hình ảnh y học,Kỹ thuật hình ảnh y học,7720602TP,B00,24.85,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Khúc xạ nhãn khoa,Khúc xạ nhãn khoa,7720699TQ,B00,24.9,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Khúc xạ nhãn khoa,Khúc xạ nhãn khoa,7720699TP,B00,24.7,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Răng - Hàm - Mặt,Răng - Hàm - Mặt,7720501TP,B00,26.6,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Y tế công cộng,Y tế công cộng,7720701TQ,B00,21.35,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Y tế công cộng,Y tế công cộng,7720701TP,B00,23.15,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Điều dưỡng,Điều dưỡng,7720301TP,B00,24.25,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Dinh dưỡng,Dinh dưỡng,7720401TP,B00,23.8,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Dược học,Dược học,7720201TQ,B00,26.15,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Dược học,Dược học,7720201TP,B00,26.35,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Y khoa,Y khoa,7720101TQ,B00,27.35,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Y khoa,Y khoa,7720101TP,B00,26.35,"Điểm TN THPT
+Thí sinh có hộ khẩu tại TP.HCM"
+PNTU,Điều dưỡng,Điều dưỡng,7720301TQ,B00,24,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Dinh dưỡng,Dinh dưỡng,7720401TQ,B00,23.45,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Răng - Hàm - Mặt,Răng - Hàm - Mặt,7720501TQ,B00,27.35,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+PNTU,Kỹ thuật hình ảnh y học,Kỹ thuật hình ảnh y học,7720602TQ,B00,24.7,"Điểm TN THPT
+Thí sinh có hộ khẩu ngoài TP.HCM"
+UEF,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, C00",20,"18: Xét điểm TB theo tổ hợp 3 môn
+30: Xét điểm TB 5 học kỳ"
+UEF,Logistics và quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C00",24,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Công nghệ truyền thông,Công nghệ truyền thông,7320106,"A00, A01, D01, C00",20,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Thương mại điện tử,Thương mại điện tử,7340122,"A00, A01, D01, C01",23,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Quản trị khách sạn,Quản trị khách sạn,7810201,"A00, A01, C00",21,"18: Xét điểm tổ hợp 3 môn lớp 12
+30: Xét điểm TB 5 học kỳ"
+UEF,Quản trị nhân lực,Quản trị nhân lực,7340404,"A00, A01, D01, C00, XDHB",22,"18: Xét điểm theo tổ hợp 3 môn lớp 12
+30: Xét điểm tb 5 học kỳ"
+UEF,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A00, A01, D01, C00",22,"18: Xét điểm TB lớp 12
+30: Xét điểm 5 học kỳ"
+UEF,Ngôn ngữ Hàn Quốc,Ngôn ngữ Hàn Quốc,7220210,"A01, D01, D14, D15",19,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, D01, C01",22,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A00, A01, D01, C01",20,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Quan hệ công chúng,Quan hệ công chúng,7320108,"A00, A01, D01, C00",23,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, D01, C00",23,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A00, A01, C00, XDHB",18,"18: Xét điểm HB lớp 12 theo tổ hợp 3 môn
+30: Xét điểm HB 5 học kỳ"
+UEF,Quan hệ quốc tế,Quan hệ quốc tế,7310206,"A01, D14, D15",21,
+UEF,Luật quốc tế,Luật,7380108,"A00, A01, D01, C00",20,(Luật quốc tế)
+UEF,Ngôn ngữ Nhật,Ngôn ngữ Nhật,7220209,"A01, D01, D14, D15",19,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Luật kinh tế,Luật,7380107,"A00, A01, D01, C00",19,(Luật kinh tế)
+UEF,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A01, D01, D14, D15",21,"18: Học bạ 12
+30: Học bạ 5 học kỳ"
+UEF,Kế toán,Kế toán,7340301,"A00, A01, D01, C01",19,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Marketing,Marketing,7340115,"A00, A01, D01, C00",24,Điểm thi TNTHPT
+UEF,Luật,Luật,7380101,"A00, A01, D01, C00",19,"18: Xét điểm TB HB lớp 12 theo tổ hợp 3 môn
+30: Xét điểm TB HB 5 học kỳ"
+UEF,Kinh doanh thương mại,Kinh doanh thương mại,7340121,"A00, A01, D01, C00",21,"18: Xét điểm TB lớp 12 theo tổ hợp 3 môn
+30: Xét điểm TB 5 học kỳ lớp 12"
+UEF,Quản trị nhà hàng và dịch vụ ăn uống,Quản trị nhà hàng và dịch vụ ăn uống,1780202,"A00, A01, D01, C00",20,"18: Học bạ  lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Bất động sản,Bất động sản,7340116,"A00, A01, D01, C00",20,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Quảng cáo,Quảng cáo,7320110,"A00, A01, D01, C00",19,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Thiết kế đồ hoạ,Thiết kế đồ họa,7210403,"H01, H06, V00, H02",21,"18: Học bạ 12
+30: Học bạ 5 học kỳ"
+UEF,Khoa học dữ liệu,Khoa học dữ liệu,7480109,"A00, A01, D01, C01",19,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"A01, D01, D14, D15",19,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+UEF,Tâm lý học,Tâm lý học,7310401,"D01, C00, D14, D15",21,"18: Học bạ lớp 12
+30: Học bạ 5 học kỳ"
+FTU2,,"Kế toán , Tài chính - Ngân hàng",NTS02,"A00, D01, D07, D06",28.4,Điểm thi TN THPT. (Các tổ hợp A01; D01; D06; D07 chênh lệch giảm 0.5 điểm)
+FTU2,,Kinh tế,NTS01,"A00, D01, D07, D06",28.55,Điểm thi TN THPT . Ngành Kinh tế - Quản trị kinh doanh. (Các tổ hợp A01; D01; D06; D07 chênh lệch giảm 0.5 điểm)
+HCMUTE,,Công nghệ kỹ thuật cơ khí,7510201A,"A01, D01, D90",24.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302D,A00,25.5,Điểm thi TN THPT
+HCMUTE,,Quản lý công nghiệp,7510601A,A00,24,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật công trình xây dựng,7510102A,A00,19.5,Điểm thi TN THPT
+HCMUTE,,Quản trị nhà hàng và dịch vụ ăn uống,7810202D,A00,24.25,Điểm thi TN THPT
+HCMUTE,,Quản lý công nghiệp,7510601C,A00,24.25,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301D,"A01, D01, D90",26.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ thực phẩm,7540101A,"A00, B00",23,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ chế tạo máy,7510202C,A00,24,Điểm thi TN THPT
+HCMUTE,,Logistics và Quản lý chuỗi cung ứng,7510605NT,A00,28.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật môi trường,7510406D,"A00, B00",23.5,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ chế tạo máy,7510202A,A00,23,Điểm thi TN THPT
+HCMUTE,,Robot và trí tuệ nhân tạo,7510209NT,"A01, D01, D90",27,Điểm thi TN THPT (Hệ miễn học phí)
+HCMUTE,,Công nghệ thông tin,7480201QA,"A00, A01, D01, D90",16,"Adelaide-Úc
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật máy tính,7480108D,"A01, D01, D90",27,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Công nghệ kỹ thuật hoá học,7510401C,"A00, B00",25,"Chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật cơ khí,7510201D,A00,26,Điểm thi TN THPT
+HCMUTE,,Công nghệ thông tin,7480201NT,A00,28.25,"Miễn học phí
+Điểm thi TN THPT"
+HCMUTE,,Kế toán,7340301C,A00,23.75,Điểm thi TN THPT (Hệ chất lượng cao).
+HCMUTE,,Công nghệ kỹ thuật máy tính,7510206D,A00,25.15,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Công nghệ kỹ thuật ô tô,7510205D,"A01, D01, D90",25.65,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Quản lý công nghiệp,7510601D,"A01, D01, D90",26.25,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ vật liệu,7510402D,A00,23.75,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Năng lượng tái tạo,7510208D,A00,24.75,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Kỹ thuật dữ liệu,7480203D,"A01, D01, D90",26.75,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ thông tin,7480201D,"A01, D01, D90",27.25,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302D,"A01, D01, D90",26,Điểm thi TN THPT
+HCMUTE,,Quản lý công nghiệp,7510601A,"A01, D01, D90",24.5,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật công trình xây dựng,7510102A,"A01, D01, D90",20,Điểm thi TN THPT
+HCMUTE,,Quản trị nhà hàng và dịch vụ ăn uống,7810202D,"A01, D01, D07",24.75,Điểm thi TN THPT
+HCMUTE,,Quản lý công nghiệp,7510601C,"A01, D01, D90",24.75,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301D,A00,26,Điểm thi TN THPT
+HCMUTE,,Công nghệ thực phẩm,7540101A,"D90, D07",23.5,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Logistics và Quản lý chuỗi cung ứng,7510605D,A00,26.25,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật môi trường,7510406D,"D90, D07",24,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ chế tạo máy,7510202A,"A01, D01, D90",23.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ thông tin,7480201C,A00,26.25,Điểm thi TN THPT (Hệ chất lượng cao)
+HCMUTE,,Công nghệ kỹ thuật máy tính,7480108D,A00,26.5,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Công nghệ kỹ thuật hoá học,7510401C,"D90, D07",25.5,"Chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật cơ khí,7510201D,"A01, D01, D90",26.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ thông tin,7480201A,A00,25.75,Điểm thi TN THPT (Hệ chất lượng cao)
+HCMUTE,,Kế toán,7340301D,A00,24.75,Điểm thi TN THPT (Hệ đại trà).
+HCMUTE,,Quản lý công nghiệp,7510601D,"A00, A01, D01, D90",25.75,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ vật liệu,7510402D,"A01, D90, D07",24.25,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Năng lượng tái tạo,7510208D,"A01, D01, D90",25.25,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Kỹ thuật dữ liệu,7480203D,A00,26.25,Điểm thi TN THPT
+HCMUTE,,Kế toán,7340301D,"A01, D01, D90",25.25,Điểm thi TN THPT (Hệ đại trà).
+HCMUTE,,Công nghệ kỹ thuật cơ khí,7510201A,A00,23.75,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật công trình xây dựng,7510102C,A00,20.5,Điểm thi TN THPT
+HCMUTE,,Logistics và Quản lý chuỗi cung ứng,7510605D,"A01, D01, D90",26.75,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ thông tin,7480201C,"A01, D01, D90",26.75,Điểm thi TN THPT (Hệ chất lượng cao)
+HCMUTE,,Công nghệ kỹ thuật hoá học,7510401D,"A00, B00",26,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ thông tin,7480201A,"A01, D01, D90",26.25,Điểm thi TN THPT (Hệ chất lượng cao)
+HCMUTE,,Kế toán,7340301C,"A01, D01, D90",24.25,Điểm thi TN THPT (Hệ chất lượng cao).
+HCMUTE,,Công nghệ thông tin,7480201D,A00,26.75,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Công nghệ kỹ thuật công trình xây dựng,7510102C,"A01, D01, D90",21,Điểm thi TN THPT
+HCMUTE,,Logistics và Quản lý chuỗi cung ứng,7510605NT,"A01, D01, D90",28.75,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật hoá học,7510401D,"D90, D07",26.5,"Hệ đại trà
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật công trình xây dựng,7510102D,A00,24.5,Điểm thi TN THPT
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301D,A00,26,Điểm thi TN THPT
+HCMUTE,,Công nghệ thông tin,7480201NT,"A01, D01, D90",28.75,"Miễn học phí
+Điểm thi TN THPT"
+HCMUTE,,Hệ thống nhúng thông minh và IoT,7480118D,A00,26,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Hệ thống nhúng thông minh và IoT,7480118D,"A01, D01, D90",26.5,Điểm thi TN THPT (Hệ đại trà)
+HCMUTE,,Kỹ thuật xây dựng,7510106D,A00,23.75,Điểm thi TN THPT
+HCMUTE,,Kỹ thuật xây dựng,7510106D,"A01, D01, D90",24.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303D,A00,26.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303D,"A01, D01, D90",27,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303NT,A00,28.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303NT,"A01, D01, D90",28.75,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật máy tính,7480108C,A00,25.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật máy tính,7480108C,"A01, D01, D90",26,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật công trình xây dựng,7510102D,"A01, D01, D90",25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật cơ khí,7510201C,A00,24.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật cơ khí,7510201C,"A01, D01, D90",25,Điểm thi TN THPT
+HCMUTE,,Công nghệ Kỹ thuật Nhiệt,7510206C,A00,23.25,Điểm thi TN THPT (Hệ chất lượng cao)
+HCMUTE,,Công nghệ Kỹ thuật Nhiệt,7510206C,"A01, D01, D90",23.75,Điểm thi TN THPT (Hệ chất lượng cao)
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301C,A00,24.25,Điểm thi TN THPT
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301C,"A01, D01, D90",24.75,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302C,A00,23.75,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302C,"A01, D01, D90",24.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302N,A00,21.75,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302N,"A01, D01, D90",22.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303C,A00,25.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303C,"A01, D01, D90",26,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật môi trường,7510406C,"A00, B00",19.75,"Hệ Chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật môi trường,7510406C,"D90, D07",20.25,"Hệ chất lượng cao
+Điểm thi TN THPT"
+HCMUTE,,Công nghệ kỹ thuật máy tính,7480108A,A00,25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật máy tính,7480108A,"A01, D01, D90",25.5,Điểm thi TN THPT
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301A,A00,23.75,Điểm thi TN THPT
+HCMUTE,,"Công nghệ kỹ thuật điện, điện tử",7510301A,"A01, D01, D90",24.25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302A,A00,23,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điện tử - viễn thông,7510302A,"A01, D01, D90",23.5,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303A,A00,25,Điểm thi TN THPT
+HCMUTE,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303A,"A01, D01, D90",25.5,Điểm thi TN THPT
+HCMUTE,,Tài chính - Ngân hàng,7340201QS,D90,16,Điểm thi TN THPT.
+HCMUTE,,Kế toán,7340301QN,"A00, A01, D01, D90",16,Điểm thi TN THPT.
+HCMUTE,,Quản trị tài chính kế toán,7340303QS,"A00, A01, D01, D90",16,Điểm thi TN THPT
+HCMUTE,,Kỹ thuật máy tính,7480106QK,"A00, A01, D01, D90",16,Điểm thi TN THPT
+HCMUTE,,Công nghệ thông tin,7480201QT,"A00, A01, D01",16,"(Tongmyong-Hàn)
+Điểm thi TN THPT"
+HCMUTE,,Quản trị nhà hàng khách sạn,7810103QN,"A01, D01, C00, D15",16,Điểm thi TN THPT (ngành học Quản lý nhà hàng và khách sạn)
+HCMUTE,,Sư phạm Tiếng Anh,7140231D,D01,27.25,hệ đại trà
+HCMUTE,,Thiết kế đồ họa,7210403D,V01,24.25,hệ đại trà
+HCMUTE,,Thiết kế thời trang,7140404C,V01,21.25,chất lượng cao
+HCMUTE,,Thiết kế thời trang,7140404D,V01,21.25,hệ đại trà
+HCMUTE,,Ngôn ngữ Anh,7220201D,D01,26.25,hệ đại trà
+HCMUTE,,Quản trị kinh doanh,7340101QK,A00,16,Kettering - Mỹ
+HCMUTE,,Quản trị kinh doanh,7340101QN,A00,16,Northampton - Anh
+HCMUTE,,Quản trị kinh doanh,7340101QS,A00,16,Sunderland - Anh
+HCMUTE,,Quản trị marketing,7340115QN,A00,16,Northampton - Anh
+HCMUTE,,Kinh doanh quốc tế,7340120D,A00,25.25,hệ đại trà
+HCMUTE,,Thương mại điện tử,7340122C,A00,25.5,chất lượng cao
+HCMUTE,,Thương mại điện tử,7340122D,A00,26,hệ đại trà
+HCMUTE,,Tài chính - Ngân hàng,7340201QS,A00,16,Sunderland - Anh
+HCMUTE,,Công nghệ chế tạo máy,7510202D,A00,25.75,hệ đại trà
+HCMUTE,,Công nghệ chế tạo máy,7510202N,A00,23.25,Việt - Nhật
+HCMUTE,,Công nghệ kỹ thuật cơ điện tử,7510203A,A00,24.25,
+HCMUTE,,Công nghệ kỹ thuật cơ điện tử,7510203C,A00,24.85,
+HCMUTE,,Công nghệ kỹ thuật cơ điện tử,7510203D,A00,26.25,
+HCMUTE,,Công nghệ kỹ thuật cơ điện tử,7510203NT,A00,28.25,
+HCMUTE,,Công nghệ kỹ thuật ô tô,7510205A,A00,25.25,
+HCMUTE,,Công nghệ kỹ thuật ô tô,7510205C,A00,26,
+HCMUTE,,Công nghệ kỹ thuật ô tô,7510205D,A00,26.75,
+HCMUTE,,Công nghệ kỹ thuật ô tô,7510205NT,A00,28.25,miễn học phí
+HCMUTE,,Công nghệ Kỹ thuật Nhiệt,7510206A,A00,20.75,
+HCMUTE,,Công nghệ Kỹ thuật Nhiệt,7510206C,A00,23.25,
+HCMUTE,,Công nghệ kỹ thuật in,7510801C,A00,20.25,chất lượng cao
+HCMUTE,,Công nghệ kỹ thuật in,7510801D,A00,24.25,hệ đại trà
+HCMUTE,,Kỹ thuật cơ khí,7520103QK,A00,16,Ketering - Mỹ
+HCMUTE,,Kỹ thuật cơ khí,7520103QT,A00,16,Tongmyong - Hàn Quốc
+HCMUTE,,Kỹ thuật cơ điện tử,7520114QM,A00,16,Middlesex - Anh
+HCMUTE,,Kỹ thuật cơ điện tử,7520114QT,A00,16,Tongmyong - Hàn Quốc
+HCMUTE,,Kỹ thuật công nghiệp,7520117D,A00,24.75,hệ đại trà
+HCMUTE,,Kỹ thuật chế tạo máy và công nghiệp,7520119QK,A00,16,
+HCMUTE,,"Kỹ thuật điện, điện tử",7520202QK,A00,16,Kettering - Mỹ
+HCMUTE,,"Kỹ thuật điện, điện tử",7520202QS,A00,16,Sunderland - Anh
+HCMUTE,,"Kỹ thuật điện, điện tử",7520202QT,A00,16,Tongmyong - Hàn Quốc
+HCMUTE,,Kỹ thuật y sinh,7520212D,A00,25,
+HCMUTE,,Công nghệ thực phẩm,7540101A,A00,23,chất lượng cao
+HCMUTE,,Công nghệ thực phẩm,7540101C,A00,24.5,chất lượng cao
+HCMUTE,,Công nghệ thực phẩm,7540101D,A00,26,hệ đại trà
+HCMUTE,,Công nghệ may,7540209C,A00,19.25,chất lượng cao
+HCMUTE,,Công nghệ may,7540209D,A00,24.5,hệ đại trà
+HCMUTE,,Kỹ nghệ gỗ và nội thất,7549002D,A00,23.75,hệ đại trà
+HCMUTE,,Kiến trúc,7580101D,V03,22.5,hệ đại trà
+HCMUTE,,Kiến trúc Nội thất,7580103D,V03,22.5,hệ đại trà
+HCMUTE,,Kỹ thuật xây dựng,7580201Q,A00,16,Adelaide - Úc
+HCMUTE,,Kỹ thuật xây dựng,7580205D,A00,23.5,Công trình giao thông
+HCMUTE,,Quản lý xây dựng,7580302D,A00,24,hệ đại trà
+HCMUTE,,Quản lý và vận hành hạ tầng,7840110D,A00,19,Điểm thi TN THPT (hệ đại trà)
+HCMUTE,,Quản lý và vận hành hạ tầng,7840110D,"A01, D01, D90",19.5,Điểm thi TN THPT ( Hệ đại trà)
+UT-HCMC,,Kỹ thuật điều khiển và tự động hoá,7520216H,"A00, A01",23.2,Điểm thi TN THPT
+UT-HCMC,,Kỹ thuật điện tử - viễn thông,7520207H,"A00, A01",19,Điểm thi TN THPT
+UT-HCMC,,Kỹ thuật cơ khí,7520103H,"A00, A01",24.1,"Cơ khí ô tô
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01",25.4,Điểm thi TN THPT
+UT-HCMC,,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01",24.2,Điểm thi TN THPT
+UT-HCMC,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01",23.6,Điện tử viễn thông
+UT-HCMC,,Kỹ thuật môi trường,7520320,"A00, B00, A01",15,Điểm thi TN THPT
+UT-HCMC,,Kỹ thuật tàu thuỷ,7520122,"A00, A01",15,Điểm thi TN THPT
+UT-HCMC,,Kỹ thuật xây dựng,7580201H,"A00, A01",20,Điểm thi TN THPT
+UT-HCMC,,Công nghệ thông tin,7480201,"A00, A01",26,Điểm thi TN THPT
+UT-HCMC,,Công nghệ thông tin,7480201H,"A00, A01",24.5,Điểm thi TN THPT
+UT-HCMC,,Khai thác vận tải,7840101,"A00, A01, D01",25.9,Điểm thi TN THPT - chuyên ngành quản lý và kinh doanh vận tải.
+UT-HCMC,,Kinh tế,7840104H,"A00, A01, D01",24.8,Điểm thi TN THPT - chuyên ngành kinh tế vận tải biển
+UT-HCMC,,Kinh tế,7840104,"A00, A01, D01",25.5,Điểm thi TN THPT - chuyên ngành kinh tế vận tải biển
+UT-HCMC,,Kinh tế,7580301H,"A00, A01, D01",22.2,Điểm thi TN THPT - chuyên ngành kinh tế xây dựng
+UT-HCMC,,Kỹ thuật cơ khí,7520103,"A00, A01",22.7,"Máy xếp dỡ và máy xây dựng
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật điện,75202011,"A00, A01",24.2,"Điện công nghiệp
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật điều khiển và tự động hoá,7520216H,"A00, A01, XDHB",25,
+UT-HCMC,,Kỹ thuật điện tử - viễn thông,7520207H,"A00, A01, XDHB",23.4,
+UT-HCMC,,Kỹ thuật cơ khí,7520103H,"A00, A01, XDHB",26,Cơ khí ô tô
+UT-HCMC,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, XDHB",26.5,"Tự động hoá công nghiệp
+Học bạ"
+UT-HCMC,,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01, XDHB",26.7,Học bạ
+UT-HCMC,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, XDHB",25.6,Học bạ
+UT-HCMC,,Kỹ thuật môi trường,7520320,"A00, B00, A01, XDHB",18,Học bạ
+UT-HCMC,,Kỹ thuật tàu thuỷ,7520122,"A00, A01, XDHB",18,Học bạ
+UT-HCMC,,Kỹ thuật xây dựng,7580201H,"A00, A01, XDHB",23.4,Học bạ
+UT-HCMC,,Công nghệ thông tin,7480201,"A00, A01, XDHB",28.2,Học bạ
+UT-HCMC,,Công nghệ thông tin,7480201H,"A00, A01, XDHB",26,Học bạ
+UT-HCMC,,Khai thác vận tải,7840101,"A00, A01, D01, XDHB",27.5,"Quản lý và kinh doanh vận tải
+Học bạ"
+UT-HCMC,,Kinh tế,7840104H,"A00, A01, D01, XDHB",26,"Kinh tế vận tải (Kinh tế vận tải biển)
+Học bạ"
+UT-HCMC,,Kinh tế,7840104,"A00, A01, D01, XDHB",27.1,"Kinh tế vận tải
+Học bạ"
+UT-HCMC,,Kinh tế,7580301H,"A00, A01, D01, XDHB",24,"Kinh tế xây dựng
+Học bạ"
+UT-HCMC,,Kỹ thuật cơ khí,75201031,"A00, A01, XDHB",23.8,"Học bạ
+Máy xếp dỡ và Máy xây dựng"
+UT-HCMC,,Kỹ thuật điện,75202011,"A00, A01, XDHB",22.5,"Học bạ
+Điện công nghiệp"
+UT-HCMC,,Logistics và Quản lý chuỗi cung ứng,75106051,"A00, A01, D01",26.9,"Quản trị logistic và vận tải đa phương thức
+Điểm thi TN THPT"
+UT-HCMC,,Logistics và Quản lý chuỗi cung ứng,75106052,"A00, A01, D01, XDHB",29.4,"Học bạ
+Logistics và quản lý chuỗi cung ứng"
+UT-HCMC,,Kỹ thuật ô tô,75201301,"A00, A01",25.3,"Cơ khí ô tô
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật ô tô,75201302,"A00, A01, XDHB",27.1,"Cơ điện tử ô tô
+Học bạ"
+UT-HCMC,,Kỹ thuật điện,75202012,"A00, A01",19.5,"Hệ thống điện giao thông
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật điện,75202012,"A00, A01, XDHB",20,Hệ thống điện giao thông
+UT-HCMC,,Kỹ thuật xây dựng,75802011,"A00, A01",23.4,"Xây dựng dân dụng và công nghiệp
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật xây dựng,75802011,"A00, A01, XDHB",25.8,"Xây dựng dân dụng và công nghiệp
+Học bạ"
+UT-HCMC,,Kỹ thuật xây dựng,75802012,"A00, A01",22.2,"Kỹ thuật kết cấu công trình
+Điểm thi TN THPT"
+UT-HCMC,,Kỹ thuật xây dựng,75802012,"A00, A01, XDHB",24.5,"Kỹ thuật kết cấu công trình
+Học bạ"
+UT-HCMC,,Xây dựng công trình thủy,7580202,"A00, A01",15,"Xây dựng và quản lý cảng - công trình giao thông thủy
+Điểm thi TN THPT"
+UT-HCMC,,Xây dựng công trình thủy,7580202,"A00, A01, XDHB",19,Xây dựng và quản lý cảng - công trình giao thông thủy)
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802051,"A00, A01",23,"Xây dựng cầu đường
+Điểm thi TN THPT"
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802051,"A00, A01, XDHB",25.2,"Xây dựng cầu đường
+Học bạ"
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802055,"A00, A01, XDHB",20,"Quy hoạch và quản lý giao thông
+Học bạ"
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802054,"A00, A01, XDHB",21,"Xây dựng công trình giao thông đô thị
+Học bạ"
+UT-HCMC,,Kinh tế,75803011,"A00, A01, D01",24.2,Điểm thi TN THPT ( chuyên ngành kinh tế xây dựng)
+UT-HCMC,,Kinh tế,75803011,"A00, A01, D01, XDHB",25.8,"Kinh tế xây dựng
+Học bạ"
+UT-HCMC,,Kinh tế,75803012,"A00, A01, D01",24.2,Điểm thi TN THPT ( chuyên ngành quản lý dự án xây dựng)
+UT-HCMC,,Kinh tế,75803012,"A00, A01, D01, XDHB",25.6,"Kinh tế xây dựng (Quản lý dự án xây dựng)
+Học bạ"
+UT-HCMC,,Khoa học hàng hải,78401061,"A00, A01",15,Điểm thi TN THPT - chuyên ngành điều khiển tàu biển
+UT-HCMC,,Khoa học hàng hải,78401061,"A00, A01, XDHB",21.6,"Điện tàu biển
+Học bạ"
+UT-HCMC,,Khoa học hàng hải,78401062,"A00, A01",15,Điểm thi TN THPT - chuyên ngành vận hành khai thác máy tàu thủy
+UT-HCMC,,Khoa học hàng hải,78401062,"A00, A01",20,"Học bạ
+Vận hành khai thác máy tàu
+thủy"
+UT-HCMC,,Khoa học hàng hải,78401064,"A00, A01, D01",23.7,Điểm thi TN THPT  - chuyên ngành quản lý hàng hải
+UT-HCMC,,Khoa học hàng hải,78401064,"A00, A01, D01, XDHB",25.3,"(Quản lý hàng hải
+Học bạ"
+UT-HCMC,,Khoa học hàng hải,78401065,"A00, A01",15,Điểm thi TN THPT - chuyên ngành điện tàu thủy
+UT-HCMC,,Khoa học hàng hải,78401065,"A00, A01, XDHB",18,"Điện tàu thuỷ
+Học bạ"
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802051H,"A00, A01",18,Điểm thi TN THPT - chuyên ngành xây dựng cầu đường.
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802051H,"A00, A01, XDHB",22,"Xây dựng cầu đường
+Học bạ"
+UT-HCMC,,Khai thác vận tải,7840101H,"A00, A01",25.7,Điểm thi TN THPT - chuyên ngành quản trị logistics và vận tải đã phương thức)
+UT-HCMC,,Khai thác vận tải,7840101H,"A00, A01, XDHB",28,"Quản trị logistics và vận tải đa phương thức
+Học bạ"
+UT-HCMC,,Khoa học hàng hải,78401061H,"A00, A01",15,Điểm thi TN THPT - chuyền ngành Điều khiển tàu biển
+UT-HCMC,,Khoa học hàng hải,78401061H,"A00, A01, XDHB",18,"Điều khiển tàu biển
+Học bạ"
+UT-HCMC,,Khoa học hàng hải,78401062H,"A00, A01",15,Điểm thi TN THPT - chuyên ngành Vận hành khai thác máy tàu thủy.
+UT-HCMC,,Khoa học hàng hải,78401062H,"A00, A01, XDHB",18,"Vận hành khai thác máy tàu thủy
+Học bạ"
+UT-HCMC,,Khoa học hàng hải,78401064H,"A00, A01",20,Điểm thi TN THPT - chuyên ngành quản lý hàng hải
+UT-HCMC,,Khoa học hàng hải,78401064H,"A00, A01, XDHB",23.5,"Quản lý hàng hải
+Học bạ"
+UT-HCMC,,Kỹ thuật cơ khí,75201032,"A00, A01, XDHB",26.2,"Cơ khí tự động
+Học bạ"
+UT-HCMC,,Kỹ thuật ô tô,75201301,"A00, A01",27,"Cơ khí ôtô
+Học bạ"
+UT-HCMC,,Logistics và Quản lý chuỗi cung ứng,75106051,"A00, A01, D01, XDHB",29.1,"Quản trị Logistics và vận tải đa phương thức
+Học bạ"
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802054,"A00, A01",21,Điểm thi TN THPT ( chuyên ngành xây dựng công trình giao thông đô thị)
+UT-HCMC,,kỹ thuật xây dựng công trình giao thông,75802055,"A00, A01",16.4,Điểm thi TN THPT - chuyên ngành quy hoạch và quản lý giao thông
+UT-HCMC,,Logistics và Quản lý chuỗi cung ứng,75106052,"A00, A01, D01",27.1,Điểm thi TN THPT
+UT-HCMC,,Kỹ thuật ô tô,75201302,75201302,25.4,"Cơ điện tử ô tô
+Điểm thi TN THPT"
+HUFLIT,Quản trị dịch vụ du lịch và lữ hành,Quản trị dịch vụ du lịch và lữ hành,7810103,"A01, D01, D14, D15",21,"Tiếng Anh nhân đôi
+Điểm thi TN THPT"
+HUFLIT,Quản trị khách sạn,Quản trị khách sạn,7810201,"A01, D01, D14, D15",21,"Tiếng Anh nhân đôi
+Điểm thi TN THPT"
+HUFLIT,Ngôn ngữ Trung Quốc,Ngôn ngữ Trung Quốc,7220204,"A01, D01, D14, D04",24.5,Điểm thi TN THPT
+HUFLIT,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, D01, D07",20.5,.Điểm thi TN THPT
+HUFLIT,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201,"A01, D01, D07, D11",19,Điểm thi TN THPT
+HUFLIT,Quản trị kinh doanh,Quản trị kinh doanh,7340101,"A01, D01, D07, D11",29,"Tiếng Anh nhân đôi
+Điểm thi TN THPT"
+HUFLIT,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120,"A01, D01, D07, D11",29.5,"Tiếng Anh nhân đôi
+Điểm thi TN THPT"
+HUFLIT,Đông phương học,Đông phương học,7310608,"D01, D14, D15, D06",21,Điểm thi TN THPT
+HUFLIT,Quan hệ quốc tế,Quan hệ quốc tế,7310206,"A01, D01, D07, D14",29.5,"Tiếng Anh nhân đôi
+Điểm thi TN THPT"
+HUFLIT,Luật kinh tế,Luật,7380107,"A01, D01, D07, D11",16,"Luật kinh tế
+Điểm thi TN THPT"
+HUFLIT,Ngôn ngữ Anh,Ngôn ngữ Anh,7220201,"A01, D01, D14, D15",32.25,"Tiếng Anh nhân đôi
+Điểm thi TN THPT"
+HUFLIT,Kế toán,Kế toán,7340301,"A01, D01, D07, D11",18.5,Điểm thi TN THPT
+HUIT,,Quản trị nhà hàng và dịch vụ ăn uống,7810202,"A00, A01, D01, D10",22.5,Điểm thi TN THPT
+HUIT,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,"A00, A01, D01, D07",17,Điểm thi TN THPT
+HUIT,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D10",22.5,Điểm thi TN THPT
+HUIT,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01, D01, D07",17,Điểm thi TN THPT
+HUIT,,Quản lý tài nguyên và môi trường,7850101,"A00, B00, A01, D07",16,Điểm thi TN THPT
+HUIT,,Công nghệ kỹ thuật cơ điện tử,7510203,"A00, A01, D01, D07",16,Điểm thi TN THPT
+HUIT,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, A01, D07",16,Điểm thi TN THPT
+HUIT,,Khoa học dinh dưỡng và ẩm thực,7720499,"A00, B00, A01, D07",16.5,Điểm thi TN THPT
+HUIT,,Công nghệ chế biến thuỷ sản,7540105,"A00, B00, A01, D07",16,Điểm thi TN THPT
+HUIT,,Công nghệ kỹ thuật hoá học,7510401,"A00, B00, A01, D07",16,Điểm thi TN THPT
+HUIT,,Đảm bảo chất lượng và an toàn thực phẩm,7540110,"A00, B00, A01, D07",18,Điểm thi TN THPT
+HUIT,,Khoa học chế biến món ăn,7720498,"A00, B00, A01, D07",16.5,Điểm thi TN THPT
+HUIT,,Công nghệ chế tạo máy,7510202,"A00, A01, D01, D07",16,Điểm thi TN THPT
+HUIT,,Công nghệ thực phẩm,7540101,"A00, B00, A01, D07",24,Điểm thi TN THPT
+HUIT,,Công nghệ vật liệu,7510402,"A00, B00, A01, D07",16,Điểm thi TN THPT
+HUIT,,Công nghệ sinh học,7420201,"A00, B00, A01, D07",16.5,Điểm thi TN THPT
+HUIT,,"Công nghệ dệt, may",7540204,"A00, A01, D01, D07",17,Điểm thi TN THPT
+HUIT,,Khoa học thủy sản,7620303,"A00, B00, A01, D07",16,Điểm thi TN THPT
+HUIT,,Công nghệ thông tin,7480201,"A00, A01, D01, D07",22.5,Điểm thi TN THPT
+HUIT,,Quản trị kinh doanh,7340129,"A00, A01, D01, D10",20,"Quản trị kinh doanh thực phẩm
+Điểm thi TN THPT"
+HUIT,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D10",22.75,Điểm thi TN THPT
+HUIT,,Kinh doanh quốc tế,7340120,"A00, A01, D01, D10",23.5,Điểm thi TN THPT
+HUIT,,An toàn thông tin,7480202,"A00, A01, D01, D07",16,Điểm thi TN THPT
+HUIT,,Luật,7380107,"A00, A01, D01, D10",21.5,"Ngành Luật kinh tế
+Điểm TN THPT"
+HUIT,,Ngôn ngữ Anh,7220201,"A01, D01, D09, D10",23.5,Điểm thi TN THPT
+HUIT,,Kế toán,7340301,"A00, A01, D01, D10",22.75,Điểm thi TN THPT
+HUIT,,Quản trị kinh doanh,7340101,"A00, A01, D01, D10",23.75,Điểm thi TN THPT
+HUIT,,Quản trị nhà hàng và dịch vụ ăn uống,7810202,"A00, A01, D01, D10, XDHB",22,Học bạ
+HUIT,,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,"A00, A01, D01, D07, XDHB",19,Học bạ
+HUIT,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, D10, XDHB",22,Học bạ
+HUIT,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01, D01, D07, XDHB",19,Học bạ
+HUIT,,Quản lý tài nguyên và môi trường,7850101,"A00, B00, A01, D07, XDHB",18,Học bạ
+HUIT,,Công nghệ kỹ thuật cơ điện tử,7510203,"A00, A01, D01, D07, XDHB",19,Học bạ
+HUIT,,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, A01, D07, XDHB",18,Học bạ
+HUIT,,Khoa học dinh dưỡng và ẩm thực,7720499,"A00, B00, A01, D07, XDHB",20.5,Học bạ
+HUIT,,Công nghệ chế biến thuỷ sản,7540105,"A00, B00, A01, D07, XDHB",18,Học bạ
+HUIT,,Công nghệ kỹ thuật hoá học,7510401,"A00, B00, A01, D07, XDHB",19,Học bạ
+HUIT,,Đảm bảo chất lượng và an toàn thực phẩm,7540110,"A00, B00, A01, D07, XDHB",22,Học bạ
+HUIT,,Khoa học chế biến món ăn,7720498,"A00, B00, A01, D07, XDHB",20.5,Học bạ
+HUIT,,Công nghệ chế tạo máy,7510202,"A00, A01, D01, D07, XDHB",19,Học bạ
+HUIT,,Công nghệ thực phẩm,7540101,"A00, B00, A01, D07, XDHB",24,Học bạ
+HUIT,,Công nghệ vật liệu,7510402,"A00, B00, A01, D07, XDHB",18,"Thương mại - sản xuất nhựa, bao bì, cao su, sơn, gạch men
+Học bạ"
+HUIT,,Công nghệ sinh học,7420201,"A00, B00, A01, D07, XDHB",20,"CNSH Công nghiệp, CNSH Nông nghiệp, CNSH Y Dược"
+HUIT,,"Công nghệ dệt, may",7540204,"A00, A01, D01, D07",19,Học bạ
+HUIT,,Khoa học thủy sản,7620303,"A00, B00, A01, D07, XDHB",18,"Kinh doanh, nuôi trồng, chế biến và khai thác thủy sản
+Học bạ"
+HUIT,,Công nghệ thông tin,7480201,"A00, A01, D01, D07, XDHB",21.5,Học bạ
+HUIT,,Quản trị kinh doanh,7340101,"A00, A01, D01, D10, XDHB",22.5,Học bạ
+HUIT,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, D10, XDHB",21.5,Học bạ
+HUIT,,An toàn thông tin,7480202,"A00, A01, D01, D07, XDHB",19,Học bạ
+HUIT,,Luật,7380107,"A00, A01, D01, D10",21.5,Học bạ
+HUIT,,Ngôn ngữ Anh,7220201,"A01, D01, D09, D10, XDHB",22,Học bạ
+HUIT,,Kế toán,7340301,"A00, A01, D01, D10, XDHB",21.5,Học bạ
+HUIT,,Quản trị khách sạn,7810201,"A00, A01, D01, D10",22.5,Điểm thi TN THPT
+HUIT,,Quản trị khách sạn,7810201,"A00, A01, D01, D10, XDHB",22,Học bạ
+HUIT,,Ngôn ngữ Trung Quốc,7220204,"A01, D01, D09, D10",23,Điểm thi TN THPT
+HUIT,,Ngôn ngữ Trung Quốc,7220204,"A01, D01, D09, D10, XDHB",22,Học bạ
+HUIT,,Marketing,7340115,XDHB,22,Học bạ
+HUIT,,Quản trị kinh doanh,7340129,XDHB,20,"Quản trị kinh doanh thực phẩm
+Học bạ"
+HUIT,,Kỹ thuật nhiệt,7520115,XDHB,18,Học bạ
+HUIT,,Kinh doanh thời trang và Dệt may,7340123,XDHB,18,Học bạ
+HUIT,,Quản lý năng lượng,7510602,XDHB,18,Học bạ
+HUIT,,Kỹ thuật hóa phân tích,7520311,XDHB,18,Học bạ
+HUIT,,Marketing,7340115,"A00, A01, D01, D10",24,Điểm thi TN THPT
+HUIT,,Kinh doanh thời trang và Dệt may,7340123,"A00, A01, D01, D10, D10",16,Điểm thi TN THPT
+HUIT,,Kỹ thuật hóa phân tích,7520311,"A00, B00, A01, D07, B00",16,Điểm thi TN THPT
+HUIT,,Kỹ thuật nhiệt,7520115,"A00, A01, D01, D07, D07",16,Điểm thi TN THPT
+HUIT,,Quản lý năng lượng,7510602,"A00, B00, A01, D07, B00",16,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật điện,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),108,"A00, A01",25.6,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật Điện tử - Viễn thông,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),108,"A00, A01",837,
+VNUHCM-UT,Quản lý Tài nguyên và Môi trường,Quản lý tài nguyên và môi trường,225,"A00, B00, A01, D07",22.5,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Robot,Kỹ thuật cơ điện tử,110,"A00, A01",919,
+VNUHCM-UT,Kỹ thuật Robot,Kỹ thuật cơ điện tử,110,"A00, A01",26.75,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật Điện – Điện tử,"Kỹ thuật điện, điện tử",208,"A00, A01",24.75,"CT tiên tiến
+Điểm thi TN THPT"
+VNUHCM-UT,Công nghệ thực phẩm,Công nghệ thực phẩm,219,"A00, B00, D07",25.7,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Quản lý công nghiệp,Quản lý công nghiệp,223,"A00, A01, D01, D07",24.5,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Quản lý công nghiệp,Quản lý công nghiệp,223,"A00, A01, D01, D07",25.25,Điểm thi TN THPT
+VNUHCM-UT,Xây dựng,Kỹ thuật xây dựng,115,DGNL,700,
+VNUHCM-UT,Xây dựng,Kỹ thuật xây dựng,115,"A00, A01",22.4,"Ngành xây dựng
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật máy tính,Kỹ thuật máy tính,207,"A00, A01",27.35,"CT Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Dầu khí,Kỹ thuật dầu khí,220,"A00, A01",22,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật máy tính,Kỹ thuật máy tính,107,"A00, A01",27.35,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật hoá học,Kỹ thuật hoá học,214,"A00, B00, D07",25.4,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật cơ khí,Kỹ thuật cơ khí,209,"A00, A01",24.5,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật cơ khí,Kỹ thuật cơ khí,109,"A00, A01",24.5,Điểm thi TN THPT
+VNUHCM-UT,Khoa học máy tính,Khoa học máy tính,206,"A00, A01",28,"CT Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật ô tô,Kỹ thuật ô tô,242,"A00, A01",26,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Hệ thống Công nghiệp,Kỹ thuật Hệ thống Công nghiệp;Logistics và Quản lý chuỗi Cung ứng;(Nhóm ngành),128,"A00, A01",26.8,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật Hệ thống Công nghiệp,Kỹ thuật Hệ thống Công nghiệp;Logistics và Quản lý chuỗi Cung ứng;(Nhóm ngành),128,"A00, A01",945,
+VNUHCM-UT,Kỹ thuật hóa học,Kỹ thuật Hóa học;Công nghệ Thực phẩm;Công nghệ Sinh học;(Nhóm ngành),114,"A00, B00, D07",26.3,Điểm thi TN THPT
+VNUHCM-UT,Công nghệ sinh học,Kỹ thuật Hóa học;Công nghệ Thực phẩm;Công nghệ Sinh học;(Nhóm ngành),114,"A00, B00, D07",907,
+VNUHCM-UT,Kỹ thuật môi trường,Kỹ thuật Môi trường;Quản lý Tài nguyên và Môi trường;(Nhóm ngành),125,"A00, B00, A01, D07",797,
+VNUHCM-UT,Kỹ thuật môi trường,Kỹ thuật Môi trường;Quản lý Tài nguyên và Môi trường;(Nhóm ngành),125,"A00, B00, A01, D07",24,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật Cơ khí,Kỹ thuật Cơ khí;Kỹ thuật Cơ điện tử;(Nhóm ngành),109,"A00, A01",805,
+VNUHCM-UT,Kỹ thuật tàu thủy,Kỹ thuật Tàu thủy;Kỹ thuật Hàng không;(Nhóm ngành),145,"A00, A01",868,
+VNUHCM-UT,Kỹ thuật dầu khí,Kỹ thuật Địa chất;Kỹ thuật Dầu khí;(Nhóm ngành),120,"A00, A01",22,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật hàng không,Kỹ thuật Tàu thủy;Kỹ thuật Hàng không;(Nhóm ngành),145,"A00, A01",25,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật địa chất,Kỹ thuật Địa chất;Kỹ thuật Dầu khí;(Nhóm ngành),120,"A00, A01",708,
+VNUHCM-UT,Công nghệ may,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),112,"A00, A01",22,Điểm thi TN THPT
+VNUHCM-UT,Công nghệ may,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),112,DGNL,706,
+VNUHCM-UT,Kỹ thuật nhiệt (Nhiệt Lạnh),Công nghệ Kỹ thuật Nhiệt,140,"A00, A01",748,
+VNUHCM-UT,Kỹ thuật nhiệt (Nhiệt Lạnh),Công nghệ Kỹ thuật Nhiệt,140,"A00, A01",23,Điểm thi TN THPT
+VNUHCM-UT,Bảo dưỡng công nghiệp,Bảo dưỡng Công nghiệp,141,"A00, A01",700,
+VNUHCM-UT,Bảo dưỡng công nghiệp,Bảo dưỡng Công nghiệp,141,"A00, A01",22,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật vật liệu,Kỹ thuật vật liệu,129,"A00, A01, D07",707,
+VNUHCM-UT,Quản lý công nghiệp,Quản lý công nghiệp,123,DGNL,884,
+VNUHCM-UT,Kỹ thuật vật liệu,Kỹ thuật vật liệu,129,"A00, A01, D07",22.6,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật máy tính,Kỹ thuật máy tính,107,DGNL,940,
+VNUHCM-UT,Kỹ thuật Y Sinh,Vật lý kỹ thuật,137,"A00, A01",831,
+VNUHCM-UT,Kỹ thuật Y Sinh,Vật lý kỹ thuật,137,"A00, A01",25.3,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật ô tô,Kỹ thuật ô tô,142,"A00, A01",893,
+VNUHCM-UT,Kỹ thuật ô tô,Kỹ thuật ô tô,142,"A00, A01",26.5,Điểm thi TN THPT
+VNUHCM-UT,Cơ kỹ thuật,Cơ Kỹ thuật,138,"A00, A01",752,
+VNUHCM-UT,Cơ kỹ thuật,Cơ Kỹ thuật,138,"A00, A01",24.3,Điểm thi TN THPT
+VNUHCM-UT,Kiến trúc Cảnh quan,Kiến trúc,117,"V00, V01",25.25,Điểm thi TN THPT
+VNUHCM-UT,Kiến trúc Cảnh quan,Kiến trúc,117,"A01, C01",888,
+VNUHCM-UT,Khoa học máy tính,Khoa học máy tính,106,"A00, A01",28,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật Robot,Kỹ thuật cơ điện tử,210,"A00, A01",26.6,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Robot,Kỹ thuật cơ điện tử,211,"A00, A01",26,"Chuyên ngành Kỹ thuật robot
+CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Công trình xây dựng,Công nghệ kỹ thuật công trình xây dựng,215,"A00, A01",22.3,"Ngành kỹ thuật công trình xây dựng; công trình giao thông
+CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kiến trúc Cảnh quan,Kiến trúc,217,"A01, C01",22,"Chuyên ngành kiến trúc cảnh quan
+Giảng dạy bằng tiếng Anh"
+VNUHCM-UT,Logistics và Quản lý chuỗi cung ứng,Logistics và Quản lý chuỗi cung ứng,228,"A00, A01",26.25,"CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Y Sinh,Vật lý kỹ thuật,237,"A00, A01",24.5,"Chuyên ngành kỹ thuật y sinh
+CT chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,,Kỹ thuật Hàng không,245,"A00, A01",25.5,"CT Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Khoa học máy tính,Khoa học máy tính,266,"A00, A01",26.75,"Tăng cường tiếng Nhật
+CT Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Cơ kỹ thuật,Cơ Kỹ thuật,268,"A00, A01",22.8,"Tăng cường tiếng Nhật
+CT Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM-UT,Kỹ thuật Điện tử - Viễn thông,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),108,"A00, A01",25.6,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật Điều khiển và Tự động hóa,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),108,"A00, A01",25.6,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật dệt,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),112,"A00, A01",22,Điểm thi TN THPT
+VNUHCM-UT,Kỹ thuật dệt,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),112,DGNL,706,
+VNUHCM-UT,Công trình giao thông,Công nghệ kỹ thuật công trình xây dựng,215,"A00, A01",22.3,
+HCMIU,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, XDHB",25,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, XDHB",26.5,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, XDHB",24,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật hệ thống công nghiệp,7520118,"A00, A01, D01, XDHB",23,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật môi trường,7520320,"A00, B00, A01, XDHB",22,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Công nghệ thực phẩm,7540101,"A00, B00, A01, XDHB",22,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật không gian,7520121,"A00, A01, XDHB",23,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật xây dựng,7580201,"A00, A01, XDHB",22.5,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Công nghệ thông tin,7480201,"A00, A01, XDHB",25.5,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Tài chính - Ngân hàng,7340201,"A00, A01, D01, XDHB",25,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Công nghệ sinh học,7420201,"DGNL, XDHB",22,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật hoá học,7520301,"A00, B00, A01, D07, XDHB",23,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Khoa học dữ liệu,7480109,"A00, A01, D01, XDHB",24,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kỹ thuật y sinh,7520212,"A00, B00, A01, XDHB",24,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Toán ứng dụng,7460112,"A00, A01, XDHB",22.5,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Ngôn ngữ Anh,7220201,"A01, D01, XDHB",27,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Kế toán,7340301,"DGNL, XDHB",25,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+HCMIU,,Hoá học,7440112,"A00, B00, A01, XDHB",22,điểm chuẩn = (tổng điểm trung bình 3 năm THPT của các môn trong tổ hợp đăng ký xét tuyển + tổng điểm thi THPT 2021 của các môn trong tổ hợp đăng ký xét tuyển)/2 + Điểm ưu tiên (nếu có)).
+UTC2,,"Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử",7520114,"A00, A01, D01, D07",23.25,Tiêu chí phụ: Điểm toán >= 7; TTNV <= 2
+UTC2,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, D01, D07",23.45,Tiêu chí phụ: Điểm toán >= 7.4; TTNV <= 5
+UTC2,,Kỹ thuật xây dựng,7580201,"A00, A01, D01, D07",21.5,Tiêu chí phụ: Điểm toán >= 7; TTNV <= 2
+UTC2,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, D01, D07",21.95,Tiêu chí phụ: Điểm toán >= 6.2; TTNV <= 2
+UTC2,,Quản trị kinh doanh,7340101,"A00, A01, D01, D07",24.1,Tiêu chí phụ: Điểm toán >= 6.6; TTNV <= 2
+UTC2,,Công nghệ thông tin,7480201,"A00, A01, D01, D07",24.3,Tiêu chí phụ: Điểm toán >= 7.2; TTNV <= 4
+UTC2,,Quản lý xây dựng,7580302,"A00, A01, D01, D07",21.4,Tiêu chí phụ: Điểm toán >= 7.4; TTNV: 1
+UTC2,,Khai thác vận tải,7840101,"A00, A01, D01, D07",24.85,Tiêu chí phụ: Điểm toán >= 7.2; TTNV <= 5
+UTC2,,Kỹ thuật điện,7520201,"A00, A01, D01, D07",22.55,Tiêu chí phụ: Điểm toán >= 7.8; TTNV <= 4
+UTC2,,Kỹ thuật ô tô,7520130,"A00, A01, D01, D07",24.15,Tiêu chí phụ: Điểm toán >= 7.4; TTNV: 1
+UTC2,,Kế toán,7340301,"A00, A01, D01, D07",23.45,Tiêu chí phụ: Điểm toán >= 8.2; TTNV <= 7
+UTC2,,Logistics và Quản lý chuỗi cung ứng,7510605,"A00, A01, D01, C01",25.5,Tiêu chí phụ: Điểm toán >= 7.6; TTNV <= 4
+UTC2,,Kỹ thuật cơ khí động lực,7520116,"A00, A01, D01, D07",22.8,Tiêu chí phụ: Điểm toán >= 7.2; TTNV <= 2
+UTC2,,Kiến trúc,7580101,"A00, A01, V00, V01",20.6,Tiêu chí phụ: Điểm toán >= 7.6; TTNV: 1
+UTC2,,kỹ thuật xây dựng công trình giao thông,7580205,"A00, A01, D01, D07",18.5,Tiêu chí phụ: Điểm toán >= 7; TTNV <= 3
+UTC2,,Kinh tế xây dựng,7580301,"A00, A01, D01, C01",22.65,Tiêu chí phụ: Điểm toán >= 7; TTNV <= 3
+UTC2,,Quản trị dịch vụ du lịch và lữ hành,7810103,"A00, A01, D01, C01",20.45,Tiêu chí phụ: Điểm toán >= 6.4; TTNV <= 4
+UTC2,,Kỹ thuật môi trường,7520320,"A00, B00, D01, D07",15.4,Tiêu chí phụ: Điểm toán >= 5.2; TTNV <= 3
+ULSA2,,Quản trị nhân lực,7340404,"A00, A01, D01, XDHB",24,Học bạ
+ULSA2,,Quản trị kinh doanh,7340101,"A00, A01, D01, XDHB",23,Học bạ
+ULSA2,,Công tác xã hội,7760101,"A00, A01, D01, C00, XDHB",18,Học bạ
+ULSA2,,Luật,7380107,"A00, A01, D01, XDHB",21.5,Học bạ
+ULSA2,,Tâm lý học,7310401,"A00, A01, D01, C00, XDHB",20,Học bạ
+ULSA2,,Bảo hiểm,7340204,"A00, A01, D01, XDHB",18,Học bạ
+ULSA2,,Kế toán,7340301,"A00, A01, D01, XDHB",21.5,Học bạ
+ULSA2,,Kinh tế,7310101,"A00, A01, D01, XDHB",18,Học bạ
+ULSA2,,Hệ thống thông tin quản lý,7340405,"A00, A01, C00, XDHB",18,Học bạ
+ULSA2,,Tài chính - Ngân hàng,7340201,"A00, A01, C00",22,Học bạ
+PTIT,,"Công nghệ kỹ thuật điện, điện tử",7510301,"A00, A01",19.3,Điểm thi TN THPT
+PTIT,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01",22.7,Điểm thi TN THPT
+PTIT,,Công nghệ đa phương tiện,7329001,"A00, A01, D01",25.05,Điểm thi TN THPT
+PTIT,,Quản trị kinh doanh,7340101,"A00, A01, D01",25,Điểm thi TN THPT
+PTIT,,Công nghệ thông tin,7480201,"A00, A01",25.9,Điểm thi TN THPT
+PTIT,,An toàn thông tin,7480202,"A00, A01",25.4,Điểm thi TN THPT
+PTIT,,Kế toán,7340301,"A00, A01, D01",23.95,Điểm thi TN THPT
+PTIT,,Marketing,7340115,"A00, A01, D01",25.65,Điểm thi TN THPT
+PTIT,,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, XDHB",22,"điểm xét = tổng điểm TB 3 năm 10,11,12 (của 3 môn tổ hợp xét tuyển)
+Học bạ"
+PTIT,,Công nghệ đa phương tiện,7329001,"A00, A01, D01, XDHB",22,"điểm xét = tổng điểm TB 3 năm 10,11,12 (của 3 môn tổ hợp xét tuyển)
+Học bạ"
+PTIT,,Công nghệ thông tin,7480201,"A00, A01, XDHB",24,"điểm xét = tổng điểm TB 3 năm 10,11,12 (của 3 môn tổ hợp xét tuyển)
+Học bạ"
+PTIT,,An toàn thông tin,7480202,"A00, A01, XDHB",23,"điểm xét = tổng điểm TB 3 năm 10,11,12 (của 3 môn tổ hợp xét tuyển)
+Học bạ"
+PTIT,,Marketing,7340115,"A00, A01, D01, XDHB",21,"điểm xét = tổng điểm TB 3 năm 10,11,12 (của 3 môn tổ hợp xét tuyển)
+Học bạ"
+PTIT,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01, XDHB",23.78,"điểm xét = tổng điểm TB 3 năm 10,11,12 (của 3 môn tổ hợp xét tuyển)
+Học bạ"
+PTIT,,Kỹ thuật điều khiển và tự động hoá,7520216,"A00, A01",19.4,Điểm thi TN THPT
+VNUHCM - UEL,Luật Tài chính – Ngân hàng,Luật,7380101_504CP,"A00, A01, D01",24.55,"Điểm thi TN THPT
+Luật Tài chính - Ngân hàng CLC tăng cường tiếng Pháp"
+VNUHCM - UEL,Toán kinh tế,Toán kinh tế,7310108_413,"A00, A01, D01",25.75,Điểm thi TN THPT
+VNUHCM - UEL,Luật thương mại quốc tế,Luật,7380107_502C,"A00, A01, D01",26.65,"Điểm thi TN THPT
+Luật thương mại quốc tế CLC"
+VNUHCM - UEL,Kinh tế đối ngoại,Kinh tế,7310106_402C,"A00, A01, D01",27,"Điểm thi TN THPT
+Kinh tế đối ngoại CLC"
+VNUHCM - UEL,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201_404CA,"A00, A01, D01",25.6,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Quản trị kinh doanh,Quản trị kinh doanh,7340101_407CA,"A00, A01, D01",26.1,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Kinh tế và Quản lý công,Kinh tế,7310101_403C,"A00, A01, D01",25.25,"Điểm thi TN THPT 
+Kinh tế và Quản lý Công CLC"
+VNUHCM - UEL,Quản trị du lịch và lữ hành,Quản trị kinh doanh,7340101_415,"A00, A01, D01",24.8,"Điểm thi TN THPT
+Quản trị du lịch và lữ hành"
+VNUHCM - UEL,Luật Tài chính – Ngân hàng,Luật,7380101_504C,"A00, A01, D01",25.55,"Điểm thi TN THPT
+Luật Tài chính - Ngân hàng CLC"
+VNUHCM - UEL,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120_408CA,"A00, A01, D01",26.7,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Luật kinh doanh,Luật,7380107_501C,"A00, A01, D01",26.5,"Điểm thi TN THPT
+Luật kinh tế (Luật kinh doanh) CLC"
+VNUHCM - UEL,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405_406C,"A00, A01, D01",26.6,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Luật thương mại quốc tế,Luật,7380107_502,"A00, A01, D01",26.75,"Điểm thi TN THPT
+Luật thương mại quốc tế"
+VNUHCM - UEL,Kế toán,Kế toán,7340301_405CA,"A00, A01, D01",24.8,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Thương mại điện tử,Thương mại điện tử,7340122_411C,"A00, A01, D01",27.2,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Kinh tế học,Kinh tế,7310101_401C,"A00, A01, D01",26.1,"Điểm thi TN THPT
+Kinh tế học CLC"
+VNUHCM - UEL,Kinh tế đối ngoại,Kinh tế,7310106_402,"A00, A01, D01",27.45,"Điểm thi TN THPT
+Kinh tế đối ngoại"
+VNUHCM - UEL,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201_404C,"A00, A01, D01",26.3,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Luật dân sự,Luật,7380101_503C,"A00, A01, D01",25.45,"Điểm thi TN THPT
+Luật dân sự CLC"
+VNUHCM - UEL,Quản trị kinh doanh,Quản trị kinh doanh,7340101_407C,"A00, A01, D01",26.55,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120_408C,"A00, A01, D01",27.05,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Kinh tế và Quản lý công,Kinh tế,7310101_403,"A00, A01, D01",25.4,"Điểm thi TN THPT
+Kinh tế và Quản lý Công"
+VNUHCM - UEL,Luật Tài chính – Ngân hàng,Luật,7380101_504,"A00, A01, D01",25.85,"Điểm thi TN THPT
+Luật Tài chính - Ngân hàng"
+VNUHCM - UEL,Luật kinh doanh,Luật,7380107_501,"A00, A01, D01",26.85,"Điểm thi TN THPT
+Luật kinh tế (Luật kinh doanh)"
+VNUHCM - UEL,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405_406,"A00, A01, D01",26.95,Điểm thi TN THPT
+VNUHCM - UEL,Kế toán,Kế toán,7340301_405C,"A00, A01, D01",25.85,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Marketing,Marketing,7340115_410C,"A00, A01, D01",27.3,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Kinh tế học,Kinh tế,7310101_401,"A00, A01, D01",26.45,Điểm thi TN THPT
+VNUHCM - UEL,Thương mại điện tử,Thương mại điện tử,7340122_411,"A00, A01, D01",27.55,Điểm thi TN THPT
+VNUHCM - UEL,Luật dân sự,Luật,7380101_503,"A00, A01, D01",25.95,"Điểm thi TN THPT
+Luật dân sự"
+VNUHCM - UEL,Tài chính - Ngân hàng,Tài chính - Ngân hàng,7340201_404,"A00, A01, D01",26.55,Điểm thi TN THPT
+VNUHCM - UEL,Quản trị kinh doanh,Quản trị kinh doanh,7340101_407,"A00, A01, D01",27.1,Điểm thi TN THPT
+VNUHCM - UEL,Kinh doanh quốc tế,Kinh doanh quốc tế,7340120_408,"A00, A01, D01",27.65,Điểm thi TN THPT
+VNUHCM - UEL,Kế toán,Kế toán,7340301_405,"A00, A01, D01",26.45,Điểm thi TN THPT
+VNUHCM - UEL,Marketing,Marketing,7340115_410,"A00, A01, D01",27.55,Điểm thi TN THPT
+VNUHCM - UEL,Toán kinh tế,Toán kinh tế,7310108_413C,"A00, A01, D01",25.35,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Hệ thống thông tin quản lý,Hệ thống thông tin quản lý,7340405_416C,"A00, A01, D01",26.05,Kinh doanh số và Trí tuệ nhân tạo
+VNUHCM - UEL,Toán kinh tế,Toán kinh tế,7310108_413CA,"A00, A01, D01, D07",23.4,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Kinh tế đối ngoại,Kinh tế,7310106_402C	A,"A00, A01, D01, D07",26.6,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Marketing,Marketing,7340115_410C,"A00, A01, D01, D07",26.7,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Thương mại điện tử,Thương mại điện tử,7340122_411CA,"A00, A01, D01, D07",26.15,"Điểm thi TN THPT
+CLC bằng Tiếng Anh"
+VNUHCM - UEL,Luật dân sự,Luật,7380101_503CA,"A00, A01, D01, D07",24.1,"Điểm thi TN THPT
+Luật dân sự CLC bằng tiếng Anh"
+VNUHCM - UEL,Kiểm toán,Kiểm toán,7340302_409,"A00, A01, D01, D07",26.85,Điểm thi TN THPT
+VNUHCM - UEL,Kiểm toán,Kiểm toán,7340302_409C,"A00, A01, D01, D07",26.1,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Công nghệ tài chính,Công nghệ tài chính,7340208_414,"A00, A01, D01",25.6,Điểm thi TN THPT
+VNUHCM - UEL,Công nghệ tài chính,Công nghệ tài chính,7340208_414C,"A00, A01, D01",26.4,"Điểm thi TN THPT
+CLC"
+VNUHCM - UEL,Luật thương mại quốc tế,Luật,7380107_502E,"A00, A01, D01",25.02,Tốt nghiệp THPT
+VNUHCM – US,Sinh học,Sinh học,7420101_CLC,"B00, D90, D08",19,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Kỹ thuật điện tử - viễn thông,Kỹ thuật điện tử - viễn thông,7520207_CLC,"A00, A01, D90, D07",23,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Công nghệ kỹ thuật Hoá học,Công nghệ kỹ thuật hoá học,7510401_CLC,"A00, B00, D90, D07",24.6,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Công nghệ thông tin,Công nghệ thông tin,7480201_VP,"A00, A01, D07, D29",25.25,"Chương trình liên kết Việt-Pháp
+Điểm thi TN THPT"
+VNUHCM – US,Công nghệ sinh học,Công nghệ sinh học,7420201_CLC,"A00, B00, D90, D08",25,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Công nghệ thông tin,Công nghệ thông tin,7480201_CLC,"A00, A01, D07, D08",26.9,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Hóa học,Hoá học,7440112_VP,"A00, B00, D07, D24",22,"Chương trình liên kết Việt-Pháp
+Điểm thi TN THPT"
+VNUHCM – US,Máy tính và Công nghệ thông tin,Nhóm ngành máy tính và Công nghệ thông tin,7480201_NN,"A00, A01, D07, D08",27.4,Điểm thi TN THPT
+VNUHCM – US,Kỹ thuật điện tử - viễn thông,Kỹ thuật điện tử - viễn thông,7520207,"A00, A01, D90, D07",25.35,Điểm thi TN THPT
+VNUHCM – US,Công nghệ Kỹ thuật Môi trường,Công nghệ kỹ thuật môi trường,7510406,"A00, B00, D07, D08",18,Điểm thi TN THPT
+VNUHCM – US,Khoa học môi trường,Khoa học môi trường,7440301,"A00, B00, D07, D08",17.5,Điểm thi TN THPT
+VNUHCM – US,Kỹ thuật hạt nhân,Kỹ thuật hạt nhân,7520402,"A00, A01, D90, A02",19,Điểm thi TN THPT
+VNUHCM – US,Khoa học vật liệu,Khoa học vật liệu,7440122,"A00, B00, A01, D07",19,Điểm thi TN THPT
+VNUHCM – US,Công nghệ sinh học,Công nghệ sinh học,7420201,"A00, B00, D90, D08",25.5,Điểm thi TN THPT
+VNUHCM – US,Hải Dương học,Hải dương học,7440228,"A00, B00, A01, D07",18,Điểm thi TN THPT
+VNUHCM – US,Vật lý học,Vật lý học,7440102,"A00, A01, D90, A02",18,Điểm thi TN THPT
+VNUHCM – US,Toán học,Toán học,7460101,"A00, A01, D01, D90",24.35,"Nhóm ngành toán học, toán tin, toán ứng dụng
+Điểm thi TN THPT"
+VNUHCM – US,Hóa học,Hoá học,7440112,"A00, B00, D90, D07",25.65,Điểm thi TN THPT
+VNUHCM – US,Sinh học,Sinh học,7420101,"B00, D90, D08",19,Điểm thi TN THPT
+VNUHCM – US,Vật lý Y khoa,Vật lý y khoa,7520403,"A00, A01, D90, A02",24.5,Điểm thi TN THPT
+VNUHCM – US,Hóa học,Hoá học,7440112_CLC,"A00, B00, D90, D07",24.5,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Công nghệ Vật liệu,Công nghệ vật liệu,7510402,"A00, B00, A01, D07",22,Điểm thi TN THPT
+VNUHCM – US,Kỹ thuật Địa chất,Kỹ thuật địa chất,7440201,"A00, B00, A01, D07",17,Điểm thi TN THPT
+VNUHCM – US,Khoa học môi trường,Khoa học môi trường,7440301_CLC,"A00, B00, B08, D07",17.5,"Chất lượng cao
+Điểm thi TN THPT"
+VNUHCM – US,Khoa học dữ liệu,Khoa học dữ liệu,7480109,"A00, B00, A01, D07",26.85,Điểm thi TN THPT
+VNUHCM – US,Khoa học máy tính,Khoa học máy tính,7480101_TT,"A00, B00, A01, D07",28,"Chương trình tiên tiến
+Điểm thi TN THPT"
+VNUHCM – US,Sinh học,Sinh học,7420101,DGNL,650,Học bạ
+VNUHCM – US,Sinh học,Sinh học,7420101_CLC,DGNL,700,
+VNUHCM – US,Công nghệ sinh học,Công nghệ sinh học,7420201,DGNL,850,
+VNUHCM – US,Công nghệ sinh học,Công nghệ sinh học,7420201_CLC,DGNL,800,
+VNUHCM – US,Vật lý học,Vật lý học,7440102,DGNL,650,
+VNUHCM – US,Hải Dương học,Hải dương học,7440228,DGNL,660,
+VNUHCM – US,Kỹ thuật hạt nhân,Kỹ thuật hạt nhân,7520402,DGNL,650,
+VNUHCM – US,Vật lý Y khoa,Vật lý y khoa,7520403,DGNL,800,
+VNUHCM – US,Hóa học,Hoá học,7440112,DGNL,811,
+VNUHCM – US,Hóa học,Hoá học,7440112_CLC,DGNL,760,
+VNUHCM – US,Hóa học,Hoá học,7440112_VP,DGNL,760,Chương trình liên kết Việt-Pháp
+VNUHCM – US,Công nghệ kỹ thuật Hoá học,Công nghệ kỹ thuật hoá học,7510401_CLC,DGNL,760,
+VNUHCM – US,Khoa học vật liệu,Khoa học vật liệu,7440122,DGNL,650,
+VNUHCM – US,Công nghệ Vật liệu,Công nghệ vật liệu,7510402,DGNL,650,
+VNUHCM – US,Địa chất học,Địa chất học,7440201,DGNL,610,
+VNUHCM – US,Kỹ thuật Địa chất,Kỹ thuật địa chất,7520501,DGNL,610,
+VNUHCM – US,Khoa học môi trường,Khoa học môi trường,7440301,DGNL,650,
+VNUHCM – US,Khoa học môi trường,Khoa học môi trường,7440301_CLC,DGNL,650,
+VNUHCM – US,Công nghệ Kỹ thuật Môi trường,Công nghệ kỹ thuật môi trường,7510406,DGNL,650,
+VNUHCM – US,Khoa học dữ liệu,Khoa học dữ liệu,7480109,DGNL,910,
+VNUHCM – US,Toán học,Toán học,7460101,DGNL,700,
+VNUHCM – US,Máy tính và Công nghệ thông tin,Nhóm ngành máy tính và Công nghệ thông tin,7480201_NN,DGNL,930,
+VNUHCM – US,Công nghệ thông tin,Công nghệ thông tin,7480201_CLC,DGNL,870,
+VNUHCM – US,Công nghệ thông tin,Công nghệ thông tin,7480201_VP,DGNL,757,Chương trình liên kết Việt-Pháp
+VNUHCM – US,Khoa học máy tính,Khoa học máy tính,7480101_TT,DGNL,977,CT tiên tiến
+VNUHCM – US,Kỹ thuật điện tử - viễn thông,Kỹ thuật điện tử - viễn thông,7520207,DGNL,720,
+VNUHCM – US,Kỹ thuật điện tử - viễn thông,Kỹ thuật điện tử - viễn thông,7520207_CLC,DGNL,650,
+VNUHCM – US,,Trí tuệ nhân tạo,7480107,DGNLHCM,1001,Đánh giá năng lực Đại học Quốc gia TPHCM
+VNUHCM - UIT,Công nghệ thông tin,Công nghệ thông tin,7480201_CLCN,"A00, A01, D01",25.85,Điểm thi TN THPT
+VNUHCM - UIT,Công nghệ thông tin,Công nghệ thông tin,7480201_CLCN,DGNLHCM,795,Chất lượng cao định hướng Nhật
+VNUHCM - UIT,Mạng máy tính và Truyền thông dữ liệu,Mạng máy tính và Truyền thông dữ liệu,7480102_CLCA,DGNL,750,
+VNUHCM - UIT,Mạng máy tính và Truyền thông dữ liệu,Mạng máy tính và Truyền thông dữ liệu,7480102_CLCA,"A00, A01, D01",25.6,Điểm thi TN THPT
+VNUHCM - UIT,Thương mại điện tử,Thương mại điện tử,7340122_CLCA,"A00, A01, D01",26.3,Điểm thi TN THPT
+VNUHCM - UIT,Thương mại điện tử,Thương mại điện tử,7340122_CLCA,DGNL,795,
+VNUHCM - UIT,Mạng máy tính và Truyền thông dữ liệu,Mạng máy tính và Truyền thông dữ liệu,7480102,"A00, A01, D01",26.35,Điểm thi TN THPT
+VNUHCM - UIT,Mạng máy tính và Truyền thông dữ liệu,Mạng máy tính và Truyền thông dữ liệu,7480102,DGNL,810,
+VNUHCM - UIT,Kỹ thuật phần mềm,Kỹ thuật phần mềm,7480103_CLCA,"A00, A01, D01",27,Điểm thi TN THPT
+VNUHCM - UIT,Kỹ thuật phần mềm,Kỹ thuật phần mềm,7480103_CLCA,DGNL,880,
+VNUHCM - UIT,Kỹ thuật máy tính,Kỹ thuật máy tính,7480106_CLCA,DGNL,790,
+VNUHCM - UIT,Kỹ thuật máy tính,Kỹ thuật máy tính,7480106_CLCA,"A00, A01, D01",25.9,Điểm thi TN THPT
+VNUHCM - UIT,Hệ thống thông tin,Hệ thống thông tin,7480104_CLCA,"A00, A01, D01",26.15,Điểm thi TN THPT
+VNUHCM - UIT,Hệ thống thông tin,Hệ thống thông tin,7480101_CLCA,DGNL,775,
+VNUHCM - UIT,An toàn thông tin,An toàn thông tin,7480202_CLCA,DGNL,835,
+VNUHCM - UIT,An toàn thông tin,An toàn thông tin,7480202_CLCA,"A00, A01, D01",26.45,Điểm thi TN THPT
+VNUHCM - UIT,Hệ thống thông tin,Hệ thống thông tin,7480104_TT,"A00, A01, D01",25.1,Điểm thi TN THPT
+VNUHCM - UIT,Hệ thống thông tin,Hệ thống thông tin,7480104_TT,DGNL,750,
+VNUHCM - UIT,Thương mại điện tử,Thương mại điện tử,7340122,DGNL,878,
+VNUHCM - UIT,Thương mại điện tử,Thương mại điện tử,7340122,"A00, A01, D01",26.7,Điểm thi TN THPT
+VNUHCM - UIT,Kỹ thuật phần mềm,Kỹ thuật phần mềm,7480103,DGNL,930,
+VNUHCM - UIT,Kỹ thuật phần mềm,Kỹ thuật phần mềm,7480103,"A00, A01, D01",27.55,Điểm thi TN THPT
+VNUHCM - UIT,Công nghệ thông tin,Công nghệ thông tin,7480201,DGNL,905,
+VNUHCM - UIT,Kỹ thuật máy tính,Kỹ thuật máy tính,7480106,DGNL,865,
+VNUHCM - UIT,Hệ thống thông tin,Hệ thống thông tin,7480104,DGNL,855,
+VNUHCM - UIT,Công nghệ thông tin,Công nghệ thông tin,7480201,"A00, A01, D01",27.3,Điểm thi TN THPT
+VNUHCM - UIT,Kỹ thuật máy tính,Kỹ thuật máy tính,7480106,"A00, A01, D01",26.9,Điểm thi TN THPT
+VNUHCM - UIT,Hệ thống thông tin,Hệ thống thông tin,7480104,"A00, A01, D01",26.7,Điểm thi TN THPT
+VNUHCM - UIT,Khoa học dữ liệu,Khoa học dữ liệu,7480109,DGNL,875,
+VNUHCM - UIT,Khoa học dữ liệu,Khoa học dữ liệu,7480109,"A00, A01, D01",26.65,Điểm thi TN THPT
+VNUHCM - UIT,An toàn thông tin,An toàn thông tin,7480202,DGNL,880,
+VNUHCM - UIT,An toàn thông tin,An toàn thông tin,7480202,"A00, A01, D01",27,Điểm thi TN THPT
+VNUHCM - UIT,Khoa học máy tính,Khoa học máy tính,7480101,"A00, A01, D01",27.3,Điểm thi TN THPT
+VNUHCM - UIT,Khoa học máy tính,Khoa học máy tính,7480101_TTNT,"A00, A01, D01",27.5,Điểm thi TN THPT
+VNUHCM - UIT,Khoa học máy tính,Khoa học máy tính,7480101_CLCA,"A00, A01, D01",26.75,Điểm thi TN THPT
+VNUHCM - UIT,Kỹ thuật máy tính,Kỹ thuật máy tính,7480106_IOT,"A00, A01, D01",845,Hướng hệ thống nhúng và IOT
+VNUHCM - UIT,Khoa học máy tính,Khoa học máy tính,7480101,DGNL,920,
+VNUHCM - UIT,Khoa học máy tính,Khoa học máy tính,7480101_TTNT,DGNL,950,
+VNUHCM - UIT,Khoa học máy tính,Khoa học máy tính,7480101_CLCA,DGNL,877,
+VNUHCM - UIT,Kỹ thuật máy tính,Kỹ thuật máy tính,7480106_IOT,"A00, A01, D01",26.4,Điểm thi TN THPT
+VNUHCM-USSH,,Quản trị dịch vụ du lịch và lữ hành,7810103_CLC,"D01, D14",25.3,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Quản trị dịch vụ du lịch và lữ hành,7810103,D01,26.6,Điểm thi TN THPT
+VNUHCM-USSH,,Quản trị dịch vụ du lịch và lữ hành,7810103,D14,26.8,Điểm thi TN THPT
+VNUHCM-USSH,,Quản trị dịch vụ du lịch và lữ hành,7810103,C00,27,Điểm thi TN THPT
+VNUHCM-USSH,,Nhật Bản học,7310613_CLC,"D01, D06, D63",23.4,"Chất lượng cao, Điểm thi TN THPT"
+VNUHCM-USSH,,Quan hệ quốc tế,7310206_CLC,D14,26.6,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Nhật Bản học,7310613,D06,25.9,Điểm thi TN THPT
+VNUHCM-USSH,,Nhật Bản học,7310613_CLC,D06,25.2,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Anh,7220201,D01,27.2,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Anh,7220201_CLC,D01,26.7,Điểm thi TN THPT
+VNUHCM-USSH,,Truyền thông đa phương tiện,7320104,"D14, D15",27.9,Điểm thi TN THPT
+VNUHCM-USSH,,Báo chí,7320101_CLC,C00,26.8,Điểm thi TN THPT
+VNUHCM-USSH,,Báo chí,7320101,D01,27.1,Điểm thi TN THPT
+VNUHCM-USSH,,Báo chí,7320101_CLC,D01,26.6,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Báo chí,7320101_CLC,D14,26.8,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Thông tin - thư viện,7320201,"A01, D01, D14",23,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Tây Ban Nha,7220206,"D01, D03, D05",25.3,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Trung Quốc,7220204,D01,27,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Trung Quốc,7220204,D04,26.8,Điểm thi TN THPT
+VNUHCM-USSH,,Quản lý thông tin,7320205,"A01, D01, D14",25.5,Điểm thi TN THPT
+VNUHCM-USSH,,Đông phương học,7310608,"D01, D14",25.8,Điểm thi TN THPT
+VNUHCM-USSH,,Quan hệ quốc tế,7310206,D14,26.9,Điểm thi TN THPT
+VNUHCM-USSH,,Công tác xã hội,7760101,"D01, D14",24,Điểm thi TN THPT
+VNUHCM-USSH,,Công tác xã hội,7760101,C00,24.3,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Đức,7220205,D05,24,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Đức,7220205,D01,25.6,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Italia,7220208,"D01, D03, D05",24.5,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Đức,7220205_CLC,D01,25.6,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Nhật Bản học,7310613,D14,26.1,Điểm thi TN THPT
+VNUHCM-USSH,,Hàn Quốc học,7310614,D01,26.25,Điểm thi TN THPT
+VNUHCM-USSH,,Hàn Quốc học,7310614,D14,26.45,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ học,7229020,"D01, D14",25,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Pháp,7220203,D01,25.5,Điểm thi TN THPT
+VNUHCM-USSH,,Giáo dục học,7140101,D01,23,Điểm thi TN THPT
+VNUHCM-USSH,,Giáo dục học,7140101,"B00, C01",22.6,
+VNUHCM-USSH,,Đô thị học,7580112,"A01, D01, D14",23.5,Điểm thi TN THPT
+VNUHCM-USSH,,Lưu trữ học,7320303,"D01, D14",24.2,Điểm thi TN THPT
+VNUHCM-USSH,,Địa lý học,7310501,"A01, D01, D15",24,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Nga,7220202,"D01, D02",23.95,Điểm thi TN THPT
+VNUHCM-USSH,,Xã hội học,7310301,"A00, D01, D14",25.2,Điểm thi TN THPT
+VNUHCM-USSH,,Văn hoá học,7229040,"D01, D14",25.6,Điểm thi TN THPT
+VNUHCM-USSH,,Tâm lý học,7310401,D01,26.3,Điểm thi TN THPT
+VNUHCM-USSH,,Tâm lý học,7310401,"C00, D14",26.6,Điểm thi TN THPT
+VNUHCM-USSH,,Triết học,7229001,A01,23.4,Điểm thi TN THPT
+VNUHCM-USSH,,Triết học,7229001,"D01, D14",23.4,Điểm thi TN THPT
+VNUHCM-USSH,,Nhân học,7310302,D01,24.3,Điểm thi TN THPT
+VNUHCM-USSH,,Lịch sử,7229010,"D01, D14",24,Điểm thi TN THPT
+VNUHCM-USSH,,Văn học,7229030,"D01, D14",25.6,Điểm thi TN THPT
+VNUHCM-USSH,,Báo chí,7320101,D14,27.2,Điểm thi TN THPT
+VNUHCM-USSH,,Báo chí,7320101,C00,27.8,Điểm thi TN THPT
+VNUHCM-USSH,,Giáo dục học,7140101,"C00, C01",23.2,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Pháp,7220203,D03,25.1,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Trung Quốc,7220204_CLC,D04,26.2,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Triết học,7229001,C00,23.7,Điểm thi TN THPT
+VNUHCM-USSH,,Tôn giáo học,7229009,"D01, D14",21.4,Điểm thi TN THPT
+VNUHCM-USSH,,Tôn giáo học,7229009,C00,21.7,Điểm thi TN THPT
+VNUHCM-USSH,,Lịch sử,7229010,C00,24.1,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ học,7229020,C00,25.2,Điểm thi TN THPT
+VNUHCM-USSH,,Văn học,7229030,C00,25.8,Điểm thi TN THPT
+VNUHCM-USSH,,Văn hoá học,7229040,C00,25.7,Điểm thi TN THPT
+VNUHCM-USSH,,Quan hệ quốc tế,7310206,D01,26.7,Điểm thi TN THPT
+VNUHCM-USSH,,Quan hệ quốc tế,7310206_CLC,D01,26.3,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Xã hội học,7310301,C00,25.6,Điểm thi TN THPT
+VNUHCM-USSH,,Nhân học,7310302,C00,24.7,Điểm thi TN THPT
+VNUHCM-USSH,,Tâm lý học,7310401,B00,26.2,Điểm thi TN THPT
+VNUHCM-USSH,,Địa lý học,7310501,C00,24.5,Điểm thi TN THPT
+VNUHCM-USSH,,Đông phương học,7310608,D04,25.6,Điểm thi TN THPT
+VNUHCM-USSH,,Nhật Bản học,7310613,D01,26,Điểm thi TN THPT
+VNUHCM-USSH,,Truyền thông đa phương tiện,7320104,D01,27.7,Điểm thi TN THPT
+VNUHCM-USSH,,Thông tin - thư viện,7320201,C00,23.6,Điểm thi TN THPT
+VNUHCM-USSH,,Quản lý thông tin,7320205,C00,26,Điểm thi TN THPT
+VNUHCM-USSH,,Lưu trữ học,7320303,C00,24.8,Điểm thi TN THPT
+VNUHCM-USSH,,Quản trị văn phòng,7340406,"D01, D14",26.2,Điểm thi TN THPT
+VNUHCM-USSH,,Quản trị văn phòng,7340406,C00,26.9,Điểm thi TN THPT
+VNUHCM-USSH,,Đô thị học,7580112,C00,23.7,Điểm thi TN THPT
+VNUHCM-USSH,,Quản trị dịch vụ du lịch và lữ hành,7810103_CLC,C00,25.4,
+VNUHCM-USSH,,Quản lý giáo dục,7140114,"A01, D01, C00, D14",21,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Trung Quốc,7220204_CLC,D01,26.3,Điểm thi TN THPT
+VNUHCM-USSH,,Ngôn ngữ Đức,7220205_CLC,D05,24,"Điểm thi TN THPT
+Chất lượng cao"
+VNUHCM-USSH,,Hàn Quốc học,7310614,"DD2, DH5",26,Điểm thi TN THPT
+VNUHCM-USSH,,Việt Nam học,7310630,"D01, D14, D15",23.5,Điểm thi TN THPT
+VNUHCM-USSH,,Việt Nam học,7310630,C00,24.5,Điểm thi TN THPT
+VNUHCM-USSH,,Nhân học,7310302,D14,24.5,Điểm thi TN THPT
+VNUHCM-USSH,,Tâm lý học giáo dục,7310403,B00,21.1,Điểm thi TN THPT
+VNUHCM-USSH,,Tâm lý học giáo dục,7310403,B08,21.2,Điểm thi TN THPT
+VNUHCM-USSH,,Tâm lý học giáo dục,7310403,"D01, D04",21.2,Điểm thi TN THPT
+SPAS,,Quản lý công,7340403,"A01, D01, C00, C15",19,
