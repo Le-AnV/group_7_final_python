@@ -1,4 +1,4 @@
-ma_to_hop,mon_1,mon_2,mon_3
+subject_group_code,subject_1,subject_2,subject_3
 A00,Toán,Vật lí,Hóa học
 A01,Toán,Vật lí,Tiếng Anh
 B00,Toán,Hóa học,Sinh học
@@ -91,13 +91,12 @@ H04,Toán,Tiếng Anh,Vẽ Năng khiếu
 H06,Ngữ văn,Tiếng Anh,Vẽ mỹ thuật
 H07,Toán,Hình họa,Trang trí
 H08,Ngữ văn,Lịch sử,Vẽ mỹ thuật
-K01,Toán,Tiếng Anh,Tin học
-M00,Ngữ văn,Toán,Đọc diễn cảm
+M00,Ngữ văn,Toán,"Đọc diễn cảm, Hát"
 M01,Ngữ văn,Lịch sử,Năng khiếu
 M02,Toán,Năng khiếu 1,Năng khiếu 2
 M03,Văn,Năng khiếu 1,Năng khiếu 2
 M04,Toán,Đọc kể diễn cảm,Hát - Múa
-M09,Toán,NK Mầm non 1( kể chuyện,đọc
+M09,Toán,"NK Mầm non 1( kể chuyện, đọc, diễn cảm)",NK Mầm non 2 (Hát)
 M10,Toán,Tiếng Anh,NK1
 M11,Ngữ Văn,năng kiếu báo chí,Tiếng Anh
 M13,Toán,Sinh học,Năng khiếu
@@ -124,7 +123,9 @@ V11,Toán,Tiếng Trung,Vẽ mỹ thuật
 C17,Ngữ văn,Hóa học,GDKTPL
 K00,Toán,Đọc hiểu,Tư duy Khoa học Giải quyết vấn đề
 "(Toán, Sinh, Công nghệ)",Toán,Sinh,Công nghệ
-"(Toán, Sinh, Tin)",Toán,Sinh,Tin
-TH4,Toán,Hoá,Tin
+X14,Toán,Sinh,Tin
 TH9,Văn,Anh,Tin
 K01,Toán,Văn,Lý/Hóa/Sinh/Tin
+Q00,Tư duy định lượng,Tư duy định tính,Khoa học/ Tiếng Anh
+HSA - Khoa học,Tư duy định lượng,Tư duy định tính,Khoa học
+"(Toán, Tin, GDKTPL)",Toán,Tin,GDKTPL
